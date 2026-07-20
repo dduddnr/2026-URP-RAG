@@ -6,6 +6,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(SCRIPT_DIR)  # project 루트
+KG_DIR = os.path.join(BASE_DIR, 'data', 'kg')
+
 driver = GraphDatabase.driver(
     os.getenv("NEO4J_URI"),
     auth=(os.getenv("NEO4J_USER"), os.getenv("NEO4J_PASSWORD"))
@@ -30,14 +34,17 @@ def add_relation(tx, subj, rel, obj):
     )
     tx.run(query, subj=subj, obj=obj, rel=rel)
 
-kg_files = os.listdir('data/kg')
+kg_files = os.listdir(KG_DIR)
+total = len(kg_files)
+count = 0
 
 with driver.session() as session:
     for filename in kg_files:
-        with open(f'data/kg/{filename}', 'r', encoding='utf-8') as f:
+        count += 1
+        with open(os.path.join(KG_DIR, filename), 'r', encoding='utf-8') as f:
             data = json.load(f)
         for subj, rel, obj in data['relations']:
             session.execute_write(add_relation, subj, rel, obj)
-        print(f'적재 완료: {filename}')
+        print(f'[{count}/{total}] 적재 완료: {filename}')
 
 driver.close()
