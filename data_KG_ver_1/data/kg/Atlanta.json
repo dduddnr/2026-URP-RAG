@@ -1,0 +1,18 @@
+{
+  "entities": [
+    "애틀랜타 (드라마)",
+    "애틀랜타",
+    "조지아 주",
+    "아탈란타"
+  ],
+  "edges": [
+    "is the capital of"
+  ],
+  "relations": [
+    [
+      "애틀랜타",
+      "is the capital of",
+      "조지아 주"
+    ]
+  ]
+}

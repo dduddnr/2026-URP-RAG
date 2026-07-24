@@ -1,0 +1,1327 @@
+[
+  {
+    "query": "BM25 sparse retrieval",
+    "results": {
+      "bm25": [
+        {
+          "score": 10.253596347237933,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        },
+        {
+          "score": 7.752742099775924,
+          "chunk_id": "survey_on_rag2_p11_c1",
+          "page": 11,
+          "chunk_index": 1,
+          "preview": "given input. Regarding the retriever, it can be categorized into two types: 1) Sparse retriever [120, 125], and 2) Dense retriever [61, 69, 197]. The sparse ret..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.32058153060922906,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        },
+        {
+          "score": 0.18908824025767312,
+          "chunk_id": "survey_on_rag2_p11_c1",
+          "page": 11,
+          "chunk_index": 1,
+          "preview": "given input. Regarding the retriever, it can be categorized into two types: 1) Sparse retriever [120, 125], and 2) Dense retriever [61, 69, 197]. The sparse ret..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6839639007663937,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        },
+        {
+          "score": 0.672501318227862,
+          "chunk_id": "survey_on_rag2_p4_c3",
+          "page": 4,
+          "chunk_index": 3,
+          "preview": "117, 168, 196, 197], where passages are specifically represented as a bag of words and ranked based on term and inverse docu- ment frequencies [ 54]. On top of..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "dense retrieval embedding",
+    "results": {
+      "bm25": [
+        {
+          "score": 8.465761314132338,
+          "chunk_id": "survey_on_rag2_p4_c4",
+          "page": 4,
+          "chunk_index": 4,
+          "preview": "and docu- ments into continuous vector space with certain criteria, for exam- ple, semantic similarity [61]. Dense retrieval methods are usually trainable, ther..."
+        },
+        {
+          "score": 7.9204913117508795,
+          "chunk_id": "survey_on_rag2_p5_c1",
+          "page": 5,
+          "chunk_index": 1,
+          "preview": "first symptom sign of a heart attack is sudden cardiac arrest. Angina pectoris is caused by a decrease in myocardial blood flow.  Figure 3: Illustration of the..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.2263599214977896,
+          "chunk_id": "survey_on_rag2_p4_c4",
+          "page": 4,
+          "chunk_index": 4,
+          "preview": "and docu- ments into continuous vector space with certain criteria, for exam- ple, semantic similarity [61]. Dense retrieval methods are usually trainable, ther..."
+        },
+        {
+          "score": 0.1902150298174814,
+          "chunk_id": "survey_on_rag2_p5_c1",
+          "page": 5,
+          "chunk_index": 1,
+          "preview": "first symptom sign of a heart attack is sudden cardiac arrest. Angina pectoris is caused by a decrease in myocardial blood flow.  Figure 3: Illustration of the..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7364318962825841,
+          "chunk_id": "survey_on_rag2_p4_c4",
+          "page": 4,
+          "chunk_index": 4,
+          "preview": "and docu- ments into continuous vector space with certain criteria, for exam- ple, semantic similarity [61]. Dense retrieval methods are usually trainable, ther..."
+        },
+        {
+          "score": 0.684951889115503,
+          "chunk_id": "survey_on_rag2_p4_c3",
+          "page": 4,
+          "chunk_index": 3,
+          "preview": "117, 168, 196, 197], where passages are specifically represented as a bag of words and ranked based on term and inverse docu- ment frequencies [ 54]. On top of..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "retrieval granularity chunk entity",
+    "results": {
+      "bm25": [
+        {
+          "score": 16.017889138861847,
+          "chunk_id": "survey_on_rag2_p5_c3",
+          "page": 5,
+          "chunk_index": 3,
+          "preview": "REALM [46], RAG [74] and Atlas [55]. A more fine-grained retrieval, i.e., token retrieval, instead can be done with faster searching but will bring more burden..."
+        },
+        {
+          "score": 12.18898250608884,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.3865281304679261,
+          "chunk_id": "survey_on_rag2_p5_c3",
+          "page": 5,
+          "chunk_index": 3,
+          "preview": "REALM [46], RAG [74] and Atlas [55]. A more fine-grained retrieval, i.e., token retrieval, instead can be done with faster searching but will bring more burden..."
+        },
+        {
+          "score": 0.36038530211459563,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.8137480755036853,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        },
+        {
+          "score": 0.7015456211230008,
+          "chunk_id": "survey_on_rag2_p5_c3",
+          "page": 5,
+          "chunk_index": 3,
+          "preview": "REALM [46], RAG [74] and Atlas [55]. A more fine-grained retrieval, i.e., token retrieval, instead can be done with faster searching but will bring more burden..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "query rewriting",
+    "results": {
+      "bm25": [
+        {
+          "score": 7.682093859935341,
+          "chunk_id": "survey_on_rag2_p6_c1",
+          "page": 6,
+          "chunk_index": 1,
+          "preview": "of the rewriting step is to clarify the retrieval need in the new query to ease the burden on the retrieval function to comprehend the input and enhance the out..."
+        },
+        {
+          "score": 5.895667901358188,
+          "chunk_id": "survey_on_rag2_p6_c0",
+          "page": 6,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li on ad-hoc inf..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.30902749050035416,
+          "chunk_id": "survey_on_rag2_p6_c1",
+          "page": 6,
+          "chunk_index": 1,
+          "preview": "of the rewriting step is to clarify the retrieval need in the new query to ease the burden on the retrieval function to comprehend the input and enhance the out..."
+        },
+        {
+          "score": 0.1809080671073343,
+          "chunk_id": "survey_on_rag2_p6_c0",
+          "page": 6,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li on ad-hoc inf..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7194611139386444,
+          "chunk_id": "survey_on_rag2_p6_c1",
+          "page": 6,
+          "chunk_index": 1,
+          "preview": "of the rewriting step is to clarify the retrieval need in the new query to ease the burden on the retrieval function to comprehend the input and enhance the out..."
+        },
+        {
+          "score": 0.591672299336281,
+          "chunk_id": "survey_on_rag2_p6_c0",
+          "page": 6,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li on ad-hoc inf..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "Self-RAG",
+    "results": {
+      "bm25": [
+        {
+          "score": 3.8745389877248657,
+          "chunk_id": "survey_on_rag2_p12_c4",
+          "page": 12,
+          "chunk_index": 4,
+          "preview": "nature of knowledge in the world, another model [152] further accesses large amounts of dynamic information in search engines to generate responses. 5.1.3 Fact..."
+        },
+        {
+          "score": 2.7607023638196138,
+          "chunk_id": "survey_on_rag2_p14_c4",
+          "page": 14,
+          "chunk_index": 4,
+          "preview": "Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi. 2023. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. In The Twelft..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.13683408797133273,
+          "chunk_id": "survey_on_rag2_p12_c4",
+          "page": 12,
+          "chunk_index": 4,
+          "preview": "nature of knowledge in the world, another model [152] further accesses large amounts of dynamic information in search engines to generate responses. 5.1.3 Fact..."
+        },
+        {
+          "score": 0.08170674117270077,
+          "chunk_id": "survey_on_rag2_p9_c1",
+          "page": 9,
+          "chunk_index": 1,
+          "preview": "re- trieved passages than on the relevant ones. Therefore, it is critical for RA-LLMs to accurately recall the prior knowledge while selec- tively incorporating..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.5544534043065056,
+          "chunk_id": "survey_on_rag2_p14_c4",
+          "page": 14,
+          "chunk_index": 4,
+          "preview": "Zeqiu Wu, Yizhong Wang, Avirup Sil, and Hannaneh Hajishirzi. 2023. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection. In The Twelft..."
+        },
+        {
+          "score": 0.5179968327092377,
+          "chunk_id": "survey_on_rag2_p3_c0",
+          "page": 3,
+          "chunk_index": 0,
+          "preview": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models Conference’17, July 2017, Washington, DC, USA 2019 2020 2021 2022 2023 2024 RAG..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How does RAG reduce hallucination?",
+    "results": {
+      "bm25": [
+        {
+          "score": 4.794649015368961,
+          "chunk_id": "survey_on_rag2_p2_c2",
+          "page": 2,
+          "chunk_index": 2,
+          "preview": "multi-modal fashion report generation [27]. LLMs also achieve promising performance in recommender systems by understanding users’ preferences to- wards items [..."
+        },
+        {
+          "score": 4.778641770954452,
+          "chunk_id": "survey_on_rag2_p16_c2",
+          "page": 16,
+          "chunk_index": 2,
+          "preview": "(1). Association for Computational Linguistics, 4582–4597. [84] Zonglin Li, Ruiqi Guo, and Sanjiv Kumar. 2022. Decoupled context processing for context augmente..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.07893632497110674,
+          "chunk_id": "survey_on_rag2_p2_c2",
+          "page": 2,
+          "chunk_index": 2,
+          "preview": "multi-modal fashion report generation [27]. LLMs also achieve promising performance in recommender systems by understanding users’ preferences to- wards items [..."
+        },
+        {
+          "score": 0.07659020348702525,
+          "chunk_id": "survey_on_rag2_p2_c3",
+          "page": 2,
+          "chunk_index": 3,
+          "preview": "due to the substantial computational resources required for fine-tuning LLMs with domain-specific or the latest data. This, in turn, significantly hinders the w..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.5948847812629068,
+          "chunk_id": "survey_on_rag2_p14_c1",
+          "page": 14,
+          "chunk_index": 1,
+          "preview": "By enhancing the quality of the external knowledge and tailing robust mechanisms by filtering out low-quality or unreliable information, the RA-LLM systems migh..."
+        },
+        {
+          "score": 0.5943348170712773,
+          "chunk_id": "survey_on_rag2_p2_c3",
+          "page": 2,
+          "chunk_index": 3,
+          "preview": "due to the substantial computational resources required for fine-tuning LLMs with domain-specific or the latest data. This, in turn, significantly hinders the w..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What are training-free RAG methods?",
+    "results": {
+      "bm25": [
+        {
+          "score": 7.3679319890724155,
+          "chunk_id": "survey_on_rag2_p10_c1",
+          "page": 10,
+          "chunk_index": 1,
+          "preview": "Existing RA- LLMs approaches can be categorized into two classes: training-free approaches usually directly leverage retrieved information during the inference..."
+        },
+        {
+          "score": 6.809994997258245,
+          "chunk_id": "survey_on_rag2_p9_c7",
+          "page": 9,
+          "chunk_index": 7,
+          "preview": "train retriever and generator simultaneously. In the following section, we will comprehensively review the training-free, independent training, sequential train..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.18543869674115482,
+          "chunk_id": "survey_on_rag2_p9_c7",
+          "page": 9,
+          "chunk_index": 7,
+          "preview": "train retriever and generator simultaneously. In the following section, we will comprehensively review the training-free, independent training, sequential train..."
+        },
+        {
+          "score": 0.15467156335362953,
+          "chunk_id": "survey_on_rag2_p10_c1",
+          "page": 10,
+          "chunk_index": 1,
+          "preview": "Existing RA- LLMs approaches can be categorized into two classes: training-free approaches usually directly leverage retrieved information during the inference..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.683085673881128,
+          "chunk_id": "survey_on_rag2_p9_c5",
+          "page": 9,
+          "chunk_index": 5,
+          "preview": "strat- egy, which retrieves information for the prediction of every token during the generation. Overall, applying different frequencies of re- trieval can impa..."
+        },
+        {
+          "score": 0.6656349601465138,
+          "chunk_id": "survey_on_rag2_p10_c1",
+          "page": 10,
+          "chunk_index": 1,
+          "preview": "Existing RA- LLMs approaches can be categorized into two classes: training-free approaches usually directly leverage retrieved information during the inference..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What is the difference between sparse retrieval and dense retrieval?",
+    "results": {
+      "bm25": [
+        {
+          "score": 15.332855513779945,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        },
+        {
+          "score": 14.622531237577807,
+          "chunk_id": "survey_on_rag2_p4_c3",
+          "page": 4,
+          "chunk_index": 3,
+          "preview": "117, 168, 196, 197], where passages are specifically represented as a bag of words and ranked based on term and inverse docu- ment frequencies [ 54]. On top of..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.27614253425326424,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        },
+        {
+          "score": 0.24259055121852138,
+          "chunk_id": "survey_on_rag2_p4_c3",
+          "page": 4,
+          "chunk_index": 3,
+          "preview": "117, 168, 196, 197], where passages are specifically represented as a bag of words and ranked based on term and inverse docu- ment frequencies [ 54]. On top of..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7295532360252284,
+          "chunk_id": "survey_on_rag2_p4_c3",
+          "page": 4,
+          "chunk_index": 3,
+          "preview": "117, 168, 196, 197], where passages are specifically represented as a bag of words and ranked based on term and inverse docu- ment frequencies [ 54]. On top of..."
+        },
+        {
+          "score": 0.7229137040190515,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What is retrieval granularity in RAG?",
+    "results": {
+      "bm25": [
+        {
+          "score": 10.884172535716147,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        },
+        {
+          "score": 10.571739844413033,
+          "chunk_id": "survey_on_rag2_p5_c3",
+          "page": 5,
+          "chunk_index": 3,
+          "preview": "REALM [46], RAG [74] and Atlas [55]. A more fine-grained retrieval, i.e., token retrieval, instead can be done with faster searching but will bring more burden..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.3599074217450201,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        },
+        {
+          "score": 0.28063308795136876,
+          "chunk_id": "survey_on_rag2_p5_c3",
+          "page": 5,
+          "chunk_index": 3,
+          "preview": "REALM [46], RAG [74] and Atlas [55]. A more fine-grained retrieval, i.e., token retrieval, instead can be done with faster searching but will bring more burden..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.8828694913816014,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        },
+        {
+          "score": 0.7569289583828261,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What are pre-retrieval and post-retrieval techniques?",
+    "results": {
+      "bm25": [
+        {
+          "score": 9.159064663461988,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        },
+        {
+          "score": 8.743011490576965,
+          "chunk_id": "survey_on_rag2_p5_c4",
+          "page": 5,
+          "chunk_index": 4,
+          "preview": "(E AE) model, which divides the parameter space of language models according to the entity identity. The proposed EAE model aims to learn entity representations..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.12634388820977302,
+          "chunk_id": "survey_on_rag2_p5_c4",
+          "page": 5,
+          "chunk_index": 4,
+          "preview": "(E AE) model, which divides the parameter space of language models according to the entity identity. The proposed EAE model aims to learn entity representations..."
+        },
+        {
+          "score": 0.12519485145435516,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7239518555701026,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        },
+        {
+          "score": 0.7048045723165915,
+          "chunk_id": "survey_on_rag2_p4_c2",
+          "page": 4,
+          "chunk_index": 2,
+          "preview": "we will introduce the major techniques involved in the retrieval of tradi- tional and LLM-based RAGs, including the retriever type, retrieval granularity, pre-..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How is Wikipedia used as an external database in RAG?",
+    "results": {
+      "bm25": [
+        {
+          "score": 11.812819701092913,
+          "chunk_id": "survey_on_rag2_p6_c7",
+          "page": 6,
+          "chunk_index": 7,
+          "preview": "stores key-value pairs for knowledge, which can be constructed in various ways. The keys are primarily used for similarity matching, being as sparse vectors suc..."
+        },
+        {
+          "score": 11.457481879257173,
+          "chunk_id": "survey_on_rag2_p14_c0",
+          "page": 14,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li Quality of Ex..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.21848487907954955,
+          "chunk_id": "survey_on_rag2_p6_c7",
+          "page": 6,
+          "chunk_index": 7,
+          "preview": "stores key-value pairs for knowledge, which can be constructed in various ways. The keys are primarily used for similarity matching, being as sparse vectors suc..."
+        },
+        {
+          "score": 0.21718304565062888,
+          "chunk_id": "survey_on_rag2_p14_c0",
+          "page": 14,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li Quality of Ex..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6891514549065542,
+          "chunk_id": "survey_on_rag2_p14_c0",
+          "page": 14,
+          "chunk_index": 0,
+          "preview": "Conference’17, July 2017, Washington, DC, USA Wenqi Fan, Yujuan Ding, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li Quality of Ex..."
+        },
+        {
+          "score": 0.6758647596261663,
+          "chunk_id": "survey_on_rag2_p1_c5",
+          "page": 1,
+          "chunk_index": 5,
+          "preview": "query or the generated output [62, 103]. Specifically, RAG first invokes the retriever to search and extract the relevant documents from external databases, whi..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What is input-layer integration?",
+    "results": {
+      "bm25": [
+        {
+          "score": 9.264299362784406,
+          "chunk_id": "survey_on_rag2_p8_c2",
+          "page": 8,
+          "chunk_index": 2,
+          "preview": "which can reduce the computational costs and also relieve the burden of LMs to identify relevant information in long retrieved documents. 3.3 Retrieval Integrat..."
+        },
+        {
+          "score": 8.503595972681277,
+          "chunk_id": "survey_on_rag2_p8_c4",
+          "page": 8,
+          "chunk_index": 4,
+          "preview": "at a time. In general, most black-box generation-based RAG methods apply input-layer integration since neither the intermediate layer of the generation model or..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.3002623356090681,
+          "chunk_id": "survey_on_rag2_p8_c2",
+          "page": 8,
+          "chunk_index": 2,
+          "preview": "which can reduce the computational costs and also relieve the burden of LMs to identify relevant information in long retrieved documents. 3.3 Retrieval Integrat..."
+        },
+        {
+          "score": 0.24754088577536454,
+          "chunk_id": "survey_on_rag2_p8_c4",
+          "page": 8,
+          "chunk_index": 4,
+          "preview": "at a time. In general, most black-box generation-based RAG methods apply input-layer integration since neither the intermediate layer of the generation model or..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6490348115392248,
+          "chunk_id": "survey_on_rag2_p8_c5",
+          "page": 8,
+          "chunk_index": 5,
+          "preview": "Output-Layer Integration. Another kind of augmentation is post-hoc, i.e., output-layer integration, which joints retrieval and generation results. For example,..."
+        },
+        {
+          "score": 0.6270306196499398,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What is output-layer integration?",
+    "results": {
+      "bm25": [
+        {
+          "score": 11.575107470210696,
+          "chunk_id": "survey_on_rag2_p8_c5",
+          "page": 8,
+          "chunk_index": 5,
+          "preview": "Output-Layer Integration. Another kind of augmentation is post-hoc, i.e., output-layer integration, which joints retrieval and generation results. For example,..."
+        },
+        {
+          "score": 9.422023291515476,
+          "chunk_id": "survey_on_rag2_p8_c4",
+          "page": 8,
+          "chunk_index": 4,
+          "preview": "at a time. In general, most black-box generation-based RAG methods apply input-layer integration since neither the intermediate layer of the generation model or..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.42866262779008013,
+          "chunk_id": "survey_on_rag2_p8_c5",
+          "page": 8,
+          "chunk_index": 5,
+          "preview": "Output-Layer Integration. Another kind of augmentation is post-hoc, i.e., output-layer integration, which joints retrieval and generation results. For example,..."
+        },
+        {
+          "score": 0.2639493483069932,
+          "chunk_id": "survey_on_rag2_p8_c4",
+          "page": 8,
+          "chunk_index": 4,
+          "preview": "at a time. In general, most black-box generation-based RAG methods apply input-layer integration since neither the intermediate layer of the generation model or..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6998021400175845,
+          "chunk_id": "survey_on_rag2_p8_c5",
+          "page": 8,
+          "chunk_index": 5,
+          "preview": "Output-Layer Integration. Another kind of augmentation is post-hoc, i.e., output-layer integration, which joints retrieval and generation results. For example,..."
+        },
+        {
+          "score": 0.618965497907671,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What is intermediate-layer integration?",
+    "results": {
+      "bm25": [
+        {
+          "score": 9.73639475930112,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        },
+        {
+          "score": 9.120632100733433,
+          "chunk_id": "survey_on_rag2_p8_c8",
+          "page": 8,
+          "chunk_index": 8,
+          "preview": "alternative to incorporate a large number of text chunks frequently retrieved, which are challenging to process with input-layer integration due to the input le..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.2712650677922109,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        },
+        {
+          "score": 0.2272524566053813,
+          "chunk_id": "survey_on_rag2_p8_c8",
+          "page": 8,
+          "chunk_index": 8,
+          "preview": "alternative to incorporate a large number of text chunks frequently retrieved, which are challenging to process with input-layer integration due to the input le..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6374870469478637,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        },
+        {
+          "score": 0.60624938390702,
+          "chunk_id": "survey_on_rag2_p8_c5",
+          "page": 8,
+          "chunk_index": 5,
+          "preview": "Output-Layer Integration. Another kind of augmentation is post-hoc, i.e., output-layer integration, which joints retrieval and generation results. For example,..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What are independent training, sequential training, and joint training?",
+    "results": {
+      "bm25": [
+        {
+          "score": 21.421469324473236,
+          "chunk_id": "survey_on_rag2_p9_c6",
+          "page": 9,
+          "chunk_index": 6,
+          "preview": "However, one potential challenge is that the retriever and generator components are not specifically optimized for downstream tasks, which could easily lead to..."
+        },
+        {
+          "score": 20.213586614347165,
+          "chunk_id": "survey_on_rag2_p10_c1",
+          "page": 10,
+          "chunk_index": 1,
+          "preview": "Existing RA- LLMs approaches can be categorized into two classes: training-free approaches usually directly leverage retrieved information during the inference..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.3570558793838692,
+          "chunk_id": "survey_on_rag2_p9_c6",
+          "page": 9,
+          "chunk_index": 6,
+          "preview": "However, one potential challenge is that the retriever and generator components are not specifically optimized for downstream tasks, which could easily lead to..."
+        },
+        {
+          "score": 0.33434976034112057,
+          "chunk_id": "survey_on_rag2_p11_c2",
+          "page": 11,
+          "chunk_index": 2,
+          "preview": "retrieval and reformulate the text generation as multiple copy-and-paste operations from existing source text collection. 4.3 Sequential Training Independent tr..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7061155541816433,
+          "chunk_id": "survey_on_rag2_p9_c7",
+          "page": 9,
+          "chunk_index": 7,
+          "preview": "train retriever and generator simultaneously. In the following section, we will comprehensively review the training-free, independent training, sequential train..."
+        },
+        {
+          "score": 0.6936761103984039,
+          "chunk_id": "survey_on_rag2_p11_c2",
+          "page": 11,
+          "chunk_index": 2,
+          "preview": "retrieval and reformulate the text generation as multiple copy-and-paste operations from existing source text collection. 4.3 Sequential Training Independent tr..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What are the future challenges of RA-LLMs?",
+    "results": {
+      "bm25": [
+        {
+          "score": 16.119641723978813,
+          "chunk_id": "survey_on_rag2_p13_c3",
+          "page": 13,
+          "chunk_index": 3,
+          "preview": "analysis. In addition, financial QA is another primary task of financial analysis, which usually extracts relevant knowledge from financial docu- ments. As prof..."
+        },
+        {
+          "score": 12.881214202185355,
+          "chunk_id": "survey_on_rag2_p1_c2",
+          "page": 1,
+          "chunk_index": 2,
+          "preview": "existing research studies in RA-LLMs, covering three pri- mary technical perspectives: architectures, training strategies, and applications. As the preliminary..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.2780862364538806,
+          "chunk_id": "survey_on_rag2_p13_c3",
+          "page": 13,
+          "chunk_index": 3,
+          "preview": "analysis. In addition, financial QA is another primary task of financial analysis, which usually extracts relevant knowledge from financial docu- ments. As prof..."
+        },
+        {
+          "score": 0.17297527443846838,
+          "chunk_id": "survey_on_rag2_p2_c5",
+          "page": 2,
+          "chunk_index": 5,
+          "preview": "research from several primary perspectives of RA-LLMs in terms of retrieval, generation, and augmentation in Section 3, as well as the necessity and application..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.738954755750661,
+          "chunk_id": "survey_on_rag2_p1_c2",
+          "page": 1,
+          "chunk_index": 2,
+          "preview": "existing research studies in RA-LLMs, covering three pri- mary technical perspectives: architectures, training strategies, and applications. As the preliminary..."
+        },
+        {
+          "score": 0.7132785254494362,
+          "chunk_id": "survey_on_rag2_p2_c5",
+          "page": 2,
+          "chunk_index": 5,
+          "preview": "research from several primary perspectives of RA-LLMs in terms of retrieval, generation, and augmentation in Section 3, as well as the necessity and application..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "Why can irrelevant retrieved passages hurt generation?",
+    "results": {
+      "bm25": [
+        {
+          "score": 11.044456359056657,
+          "chunk_id": "survey_on_rag2_p9_c0",
+          "page": 9,
+          "chunk_index": 0,
+          "preview": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models Conference’17, July 2017, Washington, DC, USA 3.4 Retrieval Augmentation Necessi..."
+        },
+        {
+          "score": 6.002702137923725,
+          "chunk_id": "survey_on_rag2_p8_c6",
+          "page": 8,
+          "chunk_index": 6,
+          "preview": "integration. REFEED [183] proposes an answer refining mechanism that applies an LLM to evaluate the retrieved information and adjust the initial answer accordin..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.21186322107514294,
+          "chunk_id": "survey_on_rag2_p9_c0",
+          "page": 9,
+          "chunk_index": 0,
+          "preview": "A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models Conference’17, July 2017, Washington, DC, USA 3.4 Retrieval Augmentation Necessi..."
+        },
+        {
+          "score": 0.11671701504806067,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6583584578023204,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        },
+        {
+          "score": 0.6205163851225323,
+          "chunk_id": "survey_on_rag2_p8_c3",
+          "page": 8,
+          "chunk_index": 3,
+          "preview": "the origi- nal input and all retrieved documents into a single sequence as the new input for the generation model. Despite the effectiveness, such integration i..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What applications use retrieval-augmented large language models?",
+    "results": {
+      "bm25": [
+        {
+          "score": 7.757317832335119,
+          "chunk_id": "survey_on_rag2_p11_c7",
+          "page": 11,
+          "chunk_index": 7,
+          "preview": "paradigm to that of RAG [74], and Maximum Inner Product Search (MIPS) [15, 29, 119, 131] technique is used to locate the most relevant documents. To employ MIPS..."
+        },
+        {
+          "score": 6.775174039404767,
+          "chunk_id": "survey_on_rag2_p14_c1",
+          "page": 14,
+          "chunk_index": 1,
+          "preview": "By enhancing the quality of the external knowledge and tailing robust mechanisms by filtering out low-quality or unreliable information, the RA-LLM systems migh..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.1840900061990584,
+          "chunk_id": "survey_on_rag2_p11_c7",
+          "page": 11,
+          "chunk_index": 7,
+          "preview": "paradigm to that of RAG [74], and Maximum Inner Product Search (MIPS) [15, 29, 119, 131] technique is used to locate the most relevant documents. To employ MIPS..."
+        },
+        {
+          "score": 0.158614684851733,
+          "chunk_id": "survey_on_rag2_p12_c1",
+          "page": 12,
+          "chunk_index": 1,
+          "preview": "et al. [178], etc. Figure 6: A summary of applications of RA-LLMs categorized by NLP applications, downstream tasks, and domain-specific application. Specifical..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7975534387576693,
+          "chunk_id": "survey_on_rag2_p1_c1",
+          "page": 1,
+          "chunk_index": 1,
+          "preview": "external knowl- edge, providing huge convenience for numerous tasks. Particularly in the era of AI-Generated Content (AIGC), the powerful capac- ity of retrieva..."
+        },
+        {
+          "score": 0.7946021029065972,
+          "chunk_id": "survey_on_rag2_p14_c2",
+          "page": 14,
+          "chunk_index": 2,
+          "preview": "by leveraging retrieval to provide the latest auxiliary information and teaching LLMs to harness the retrieved external knowledge. With the rapid advancements i..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How can the model use outside knowledge to avoid wrong answers?",
+    "results": {
+      "bm25": [
+        {
+          "score": 10.493808040722092,
+          "chunk_id": "survey_on_rag2_p8_c7",
+          "page": 8,
+          "chunk_index": 7,
+          "preview": "add addi- tional complexity and is promising to enhance the capability of the generation model with effective training. Typically, a Transformer module is intro..."
+        },
+        {
+          "score": 9.32402316889409,
+          "chunk_id": "survey_on_rag2_p7_c2",
+          "page": 7,
+          "chunk_index": 2,
+          "preview": "[22, 39, 46, 62, 74, 117, 135, 168, 180] to trillion token- level [6]. Domain-specific database is also used for downstream tasks. For example, for the code gen..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.1667723300897359,
+          "chunk_id": "survey_on_rag2_p8_c7",
+          "page": 8,
+          "chunk_index": 7,
+          "preview": "add addi- tional complexity and is promising to enhance the capability of the generation model with effective training. Typically, a Transformer module is intro..."
+        },
+        {
+          "score": 0.16351800950422765,
+          "chunk_id": "survey_on_rag2_p10_c3",
+          "page": 10,
+          "chunk_index": 3,
+          "preview": "Instead of retrieving knowledge from a large corpus, GENREAD [182] first prompts a LLM to generate contextual documents based on the query, and then generate an..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.689727517157588,
+          "chunk_id": "survey_on_rag2_p9_c8",
+          "page": 9,
+          "chunk_index": 8,
+          "preview": "[54, 57, 63], instead of relying solely on the implicit knowledge encoded in the model’s parameters. These approaches have shown significant performance improve..."
+        },
+        {
+          "score": 0.637735637766601,
+          "chunk_id": "survey_on_rag2_p10_c3",
+          "page": 10,
+          "chunk_index": 3,
+          "preview": "Instead of retrieving knowledge from a large corpus, GENREAD [182] first prompts a LLM to generate contextual documents based on the query, and then generate an..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How does the system decide whether to retrieve more information?",
+    "results": {
+      "bm25": [
+        {
+          "score": 10.812268454595264,
+          "chunk_id": "survey_on_rag2_p2_c4",
+          "page": 2,
+          "chunk_index": 4,
+          "preview": "in conversational tasks [137, 171]. As illustrated in Figure 1, an LLM-based dialog system will not be able to answer well for out-of-scope queries. With the he..."
+        },
+        {
+          "score": 10.673384565995038,
+          "chunk_id": "survey_on_rag2_p12_c3",
+          "page": 12,
+          "chunk_index": 3,
+          "preview": "indicate that the quality of the answers may rely more on the output of retrieval. 5.1.2 ChatBot. ChatBot is designed to interact with users in a natural and co..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.1243537355006343,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        },
+        {
+          "score": 0.12347941420580023,
+          "chunk_id": "survey_on_rag2_p2_c4",
+          "page": 2,
+          "chunk_index": 4,
+          "preview": "in conversational tasks [137, 171]. As illustrated in Figure 1, an LLM-based dialog system will not be able to answer well for out-of-scope queries. With the he..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.5963162211001197,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        },
+        {
+          "score": 0.5805057148171147,
+          "chunk_id": "survey_on_rag2_p9_c2",
+          "page": 9,
+          "chunk_index": 2,
+          "preview": "trainable models to offer self-knowledge as the reference for the adaptive calling of a retriever. In traditional RAGs, retrieval necessity judg- ment has also..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What methods modify the user question before searching?",
+    "results": {
+      "bm25": [
+        {
+          "score": 8.614198108205752,
+          "chunk_id": "survey_on_rag2_p10_c2",
+          "page": 10,
+          "chunk_index": 2,
+          "preview": "the LLMs’ generation performance highly depends on the input query, numerous training- free RAG approaches employ external knowledge by refining the original pr..."
+        },
+        {
+          "score": 7.550486429689817,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.14584386976881233,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        },
+        {
+          "score": 0.11453136030783605,
+          "chunk_id": "survey_on_rag2_p5_c2",
+          "page": 5,
+          "chunk_index": 2,
+          "preview": "4: Illustration of the retriever in RA-LLMs, which can be implemented in either dense or sparse manners, each with several key operations. granularity can signi..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.5882085244421976,
+          "chunk_id": "survey_on_rag2_p1_c3",
+          "page": 1,
+          "chunk_index": 3,
+          "preview": "Fine-tuning, In-context Learning, Prompting. ∗Corresponding author: Yujuan Ding 1This is the long version of the survey to appear at KDD 2024 [33] 1 INTRODUCTIO..."
+        },
+        {
+          "score": 0.5822264460669192,
+          "chunk_id": "survey_on_rag2_p4_c1",
+          "page": 4,
+          "chunk_index": 1,
+          "preview": "consists of several major processes: retrieval, generation, and augmentation, as well as the mechanism to determine whether the retrieval is needed. In this sec..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How can external documents make generated answers more reliable?",
+    "results": {
+      "bm25": [
+        {
+          "score": 10.29784277310475,
+          "chunk_id": "survey_on_rag2_p1_c4",
+          "page": 1,
+          "chunk_index": 4,
+          "preview": "in external databases, can provide faithful and timely external knowledge, thereby serving vital functions in various knowledge-intensive tasks. Due to their po..."
+        },
+        {
+          "score": 9.70112228749701,
+          "chunk_id": "survey_on_rag2_p6_c2",
+          "page": 6,
+          "chunk_index": 2,
+          "preview": "inspire the language model to rethink the generated results and enhance them. Com- pared to applying only the original query, such augmentation may contribute m..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.18912990809444696,
+          "chunk_id": "survey_on_rag2_p1_c4",
+          "page": 1,
+          "chunk_index": 4,
+          "preview": "in external databases, can provide faithful and timely external knowledge, thereby serving vital functions in various knowledge-intensive tasks. Due to their po..."
+        },
+        {
+          "score": 0.11838923776091122,
+          "chunk_id": "survey_on_rag2_p10_c3",
+          "page": 10,
+          "chunk_index": 3,
+          "preview": "Instead of retrieving knowledge from a large corpus, GENREAD [182] first prompts a LLM to generate contextual documents based on the query, and then generate an..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6521988718607284,
+          "chunk_id": "survey_on_rag2_p10_c3",
+          "page": 10,
+          "chunk_index": 3,
+          "preview": "Instead of retrieving knowledge from a large corpus, GENREAD [182] first prompts a LLM to generate contextual documents based on the query, and then generate an..."
+        },
+        {
+          "score": 0.6378207380989597,
+          "chunk_id": "survey_on_rag2_p6_c2",
+          "page": 6,
+          "chunk_index": 2,
+          "preview": "inspire the language model to rethink the generated results and enhance them. Com- pared to applying only the original query, such augmentation may contribute m..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "What happens when retrieved information is noisy or unrelated?",
+    "results": {
+      "bm25": [
+        {
+          "score": 7.15776060313624,
+          "chunk_id": "survey_on_rag2_p6_c4",
+          "page": 6,
+          "chunk_index": 4,
+          "preview": "for the task, or even worse, harm the generation process [159]. Wang et al. [159], Asai et al. [5], Yu et al. [183] propose different strategies to mitigate the..."
+        },
+        {
+          "score": 6.792028236459639,
+          "chunk_id": "survey_on_rag2_p17_c6",
+          "page": 17,
+          "chunk_index": 6,
+          "preview": "flow.arXiv preprint arXiv:2304.12825 (2023). [145] Ziteng Sun, Ananda Theertha Suresh, Jae Hun Ro, Ahmad Beirami, Himanshu Jain, and Felix Yu. 2024. Spectr: Fas..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.12208686736032327,
+          "chunk_id": "survey_on_rag2_p9_c1",
+          "page": 9,
+          "chunk_index": 1,
+          "preview": "re- trieved passages than on the relevant ones. Therefore, it is critical for RA-LLMs to accurately recall the prior knowledge while selec- tively incorporating..."
+        },
+        {
+          "score": 0.11263942221832682,
+          "chunk_id": "survey_on_rag2_p6_c4",
+          "page": 6,
+          "chunk_index": 4,
+          "preview": "for the task, or even worse, harm the generation process [159]. Wang et al. [159], Asai et al. [5], Yu et al. [183] propose different strategies to mitigate the..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.5802511700785344,
+          "chunk_id": "survey_on_rag2_p9_c3",
+          "page": 9,
+          "chunk_index": 3,
+          "preview": "re- trieval frequency (also called retrieval stride) is an important design aspect to determine the degree of using the retrieval in the gen- eration, thereby g..."
+        },
+        {
+          "score": 0.5678308509137099,
+          "chunk_id": "survey_on_rag2_p4_c8",
+          "page": 4,
+          "chunk_index": 8,
+          "preview": "and data. 3.1.2 Retrieval Granularity. Retrieval granularity denotes the re- trieval unit in which the corpus is indexed, e.g., document, passage, token, or oth..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How can a model answer questions about information not seen during training?",
+    "results": {
+      "bm25": [
+        {
+          "score": 11.455053820371251,
+          "chunk_id": "survey_on_rag2_p9_c5",
+          "page": 9,
+          "chunk_index": 5,
+          "preview": "strat- egy, which retrieves information for the prediction of every token during the generation. Overall, applying different frequencies of re- trieval can impa..."
+        },
+        {
+          "score": 10.473493387793265,
+          "chunk_id": "survey_on_rag2_p12_c2",
+          "page": 12,
+          "chunk_index": 2,
+          "preview": "91]. To address this limitation, the integration of RA-LLMs has played a cru- cial role in advancing the capabilities of QA systems by enhancing their ability t..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.17725688052355956,
+          "chunk_id": "survey_on_rag2_p9_c5",
+          "page": 9,
+          "chunk_index": 5,
+          "preview": "strat- egy, which retrieves information for the prediction of every token during the generation. Overall, applying different frequencies of re- trieval can impa..."
+        },
+        {
+          "score": 0.147855511084393,
+          "chunk_id": "survey_on_rag2_p10_c3",
+          "page": 10,
+          "chunk_index": 3,
+          "preview": "Instead of retrieving knowledge from a large corpus, GENREAD [182] first prompts a LLM to generate contextual documents based on the query, and then generate an..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.7019351178515156,
+          "chunk_id": "survey_on_rag2_p9_c8",
+          "page": 9,
+          "chunk_index": 8,
+          "preview": "[54, 57, 63], instead of relying solely on the implicit knowledge encoded in the model’s parameters. These approaches have shown significant performance improve..."
+        },
+        {
+          "score": 0.6377409077243763,
+          "chunk_id": "survey_on_rag2_p9_c2",
+          "page": 9,
+          "chunk_index": 2,
+          "preview": "trainable models to offer self-knowledge as the reference for the adaptive calling of a retriever. In traditional RAGs, retrieval necessity judg- ment has also..."
+        }
+      ]
+    }
+  },
+  {
+    "query": "How can retrieved passages be shortened before being given to the generator?",
+    "results": {
+      "bm25": [
+        {
+          "score": 15.82031478499132,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        },
+        {
+          "score": 14.667919054395991,
+          "chunk_id": "survey_on_rag2_p6_c2",
+          "page": 6,
+          "chunk_index": 2,
+          "preview": "inspire the language model to rethink the generated results and enhance them. Com- pared to applying only the original query, such augmentation may contribute m..."
+        }
+      ],
+      "tfidf": [
+        {
+          "score": 0.259952251174813,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        },
+        {
+          "score": 0.1972346491751627,
+          "chunk_id": "survey_on_rag2_p8_c1",
+          "page": 8,
+          "chunk_index": 1,
+          "preview": "structure to be altered or parameters to be updated. From another perspec- tive, LLMs, even those open for fine-tuning, are large in scale and difficult to tune..."
+        }
+      ],
+      "dense": [
+        {
+          "score": 0.6536295379179802,
+          "chunk_id": "survey_on_rag2_p6_c6",
+          "page": 6,
+          "chunk_index": 6,
+          "preview": "which adds an intermediate step to process the retrieved documents into a textual summary before in-context augmentation in the generation process. From another..."
+        },
+        {
+          "score": 0.618636459311532,
+          "chunk_id": "survey_on_rag2_p6_c3",
+          "page": 6,
+          "chunk_index": 3,
+          "preview": "between the retrieval and generation stages [173], particularly for closed-source generators such as LLMs. For example, Yang et al. [173] propose the Pluggable..."
+        }
+      ]
+    }
+  }
+]

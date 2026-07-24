@@ -1,0 +1,146 @@
+{
+  "entities": [
+    "NBA",
+    "2002년",
+    "Charlotte Hornets",
+    "2008년",
+    "사우스이스트 디비전",
+    "마이클 조던",
+    "뉴올리언스 호니츠",
+    "샬럿 스팅",
+    "샬럿",
+    "노스캐롤라이나주",
+    "2013년",
+    "1988년",
+    "2010년",
+    "동부 콘퍼런스",
+    "래리 브라운",
+    "Charlotte Bobcats",
+    "뉴올리언스 펠리컨스",
+    "샬럿 밥캐츠",
+    "뉴올리언스",
+    "샬럿 호니츠",
+    "프로농구 팀",
+    "2014년",
+    "위키미디어 공용",
+    "미국",
+    "2023년"
+  ],
+  "edges": [
+    "is based in",
+    "is a",
+    "hired",
+    "is part of",
+    "started management in",
+    "ended management in",
+    "hired in",
+    "was founded in",
+    "moved to",
+    "changed name in",
+    "moved in",
+    "changed name to",
+    "participated in management of"
+  ],
+  "relations": [
+    [
+      "샬럿 호니츠",
+      "is based in",
+      "샬럿"
+    ],
+    [
+      "샬럿 밥캐츠",
+      "changed name in",
+      "2014년"
+    ],
+    [
+      "샬럿 호니츠",
+      "is part of",
+      "사우스이스트 디비전"
+    ],
+    [
+      "샬럿 밥캐츠",
+      "changed name to",
+      "샬럿 호니츠"
+    ],
+    [
+      "뉴올리언스 호니츠",
+      "changed name in",
+      "2013년"
+    ],
+    [
+      "샬럿 밥캐츠",
+      "was founded in",
+      "2004년"
+    ],
+    [
+      "샬럿 호니츠",
+      "is part of",
+      "동부 콘퍼런스"
+    ],
+    [
+      "마이클 조던",
+      "participated in management of",
+      "샬럿 호니츠"
+    ],
+    [
+      "뉴올리언스 호니츠",
+      "changed name to",
+      "뉴올리언스 펠리컨스"
+    ],
+    [
+      "샬럿 호니츠",
+      "is a",
+      "프로농구 팀"
+    ],
+    [
+      "샬럿 호니츠",
+      "hired",
+      "래리 브라운"
+    ],
+    [
+      "마이클 조던",
+      "ended management in",
+      "2023년"
+    ],
+    [
+      "뉴올리언스 펠리컨스",
+      "moved to",
+      "뉴올리언스"
+    ],
+    [
+      "샬럿 호니츠",
+      "was founded in",
+      "1988년"
+    ],
+    [
+      "샬럿 호니츠",
+      "changed name to",
+      "뉴올리언스 호니츠"
+    ],
+    [
+      "마이클 조던",
+      "started management in",
+      "2010년"
+    ],
+    [
+      "샬럿 호니츠",
+      "moved to",
+      "뉴올리언스"
+    ],
+    [
+      "샬럿 호니츠",
+      "hired in",
+      "2008년"
+    ],
+    [
+      "뉴올리언스 펠리컨스",
+      "moved in",
+      "2002년"
+    ],
+    [
+      "샬럿 호니츠",
+      "is part of",
+      "NBA"
+    ]
+  ]
+}

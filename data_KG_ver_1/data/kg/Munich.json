@@ -1,0 +1,646 @@
+{
+  "entities": [
+    "베를린",
+    "크리스티안 우데",
+    "뮌헨 상업학교",
+    "베어크 암 라임",
+    "루트비히 4세",
+    "유대교",
+    "슈바빙-베스트",
+    "탈키어헨-오버젠틀링-푀어슈텐리트-퓌어슈텐리트-졸른",
+    "로자 리슈테",
+    "뮌헨",
+    "이자르강",
+    "빌헬름 콘라트 뢴트겐",
+    "삿포로시",
+    "알바니아인",
+    "루프트한자",
+    "함부르크",
+    "뮌헨 예술 아카데미",
+    "라머슈도어프-페어라흐",
+    "하데언",
+    "지멘스 AG",
+    "EADS",
+    "데비안",
+    "바이에른 자유 주",
+    "MTU 에어로엔진",
+    "München",
+    "테오도어 헨슈",
+    "크라우스-마파이",
+    "운터기징-하얼라힝",
+    "우크라이나 자유 대학교",
+    "그리스인",
+    "2thinknow",
+    "Monachium",
+    "젠틀링",
+    "막스포어슈타트",
+    "뉘른베르크",
+    "무니헨",
+    "오스트리아인",
+    "펠트모힝-하젠베어글",
+    "BMW",
+    "알라흐-운터멘칭",
+    "유럽 특허원",
+    "맥도날드",
+    "젠틀링-베스트파어크",
+    "루트비히슈포어슈타트-이자보어슈타트",
+    "마이크로소프트",
+    "독일 사회민주당",
+    "노이하우젠-님펜부어크",
+    "뮌헨 극 / 음학학교",
+    "연방 재정 법원",
+    "뮌헨 텔레비전/영화대학교",
+    "뮌헨 공과대학교",
+    "신시내티",
+    "베로나",
+    "ARD",
+    "보르도",
+    "이탈리아인",
+    "아우-하이트하우젠",
+    "하계 올림픽",
+    "세르비아인",
+    "개신교",
+    "국립 경영학교",
+    "오스람",
+    "막스 플랑크 분자 / 세포과학 연구학교",
+    "뮤닉 리",
+    "쥐트도이체 차이퉁",
+    "슈바빙-프라이만",
+    "바이에른 주의회",
+    "모우자흐",
+    "독일 언론학교",
+    "SCSDNGT",
+    "모노클",
+    "아우빙-로흐하우젠-랑비트",
+    "크로아티아인",
+    "유럽 연합",
+    "알트슈타트-레헬",
+    "보겐하우젠",
+    "뮌헨 전문과학대학교",
+    "Weltstadt mit Herz",
+    "카를스루에 공대",
+    "뮌헨 철학학교",
+    "오버기징",
+    "천주교",
+    "바이에른 기독교 사회연합",
+    "MAN SE",
+    "튀르키예인",
+    "슈반탈러회헤",
+    "바바리아 필름",
+    "린데",
+    "히포페어라인즈방크",
+    "마르실리오 다 파두아",
+    "아리",
+    "로데 & 슈바어츠",
+    "München mag Dich",
+    "뮌헨 가톨릭대학교",
+    "리묵스",
+    "터키계",
+    "프로지벤",
+    "키이우",
+    "뮌헨 연방대학교",
+    "뮌헨 지적재산센터",
+    "랜덤하우스",
+    "트루데어링-림",
+    "인피네온",
+    "뷔름강",
+    "미카엘 디 체세나",
+    "파징-오버멘칭",
+    "라임",
+    "바이에른주",
+    "이슬람교",
+    "알프스",
+    "발칸계",
+    "베네딕트",
+    "밀베어트쇼펜-암 하트",
+    "신성 로마 제국",
+    "오컴의 윌리엄",
+    "하라레",
+    "뮌헨 루트비히 막시밀리안 대학교",
+    "오버바이에른",
+    "Minga",
+    "SPD",
+    "바이에른 주립은행",
+    "후베어트 부어다 메디아",
+    "알리안츠",
+    "머서",
+    "녹색당",
+    "에든버러",
+    "뮌헨 정치학교"
+  ],
+  "edges": [
+    "has hub at",
+    "implemented",
+    "has population from",
+    "adopted colors for",
+    "hosted",
+    "belongs to",
+    "patronized philosophers in",
+    "ranked 15th in",
+    "has slogan",
+    "is a political hub in",
+    "contrasts with",
+    "is based on",
+    "is the largest city of",
+    "is mayor of",
+    "hosts",
+    "founded",
+    "has religion",
+    "has river",
+    "hosts headquarters of",
+    "has political party",
+    "ranked 4th in",
+    "is home to",
+    "was selected as the most livable city by",
+    "has population of",
+    "is sister city with",
+    "has coat of arms featuring",
+    "adopted colors",
+    "is similar in governance to",
+    "had motto",
+    "hosts European headquarters of",
+    "is located on",
+    "is located in",
+    "is governed by",
+    "is the origin of the name",
+    "is ranked 30th by",
+    "produced Nobel laureates like"
+  ],
+  "relations": [
+    [
+      "뮌헨",
+      "is governed by",
+      "SPD"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "후베어트 부어다 메디아"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "이탈리아인"
+    ],
+    [
+      "뮌헨",
+      "produced Nobel laureates like",
+      "빌헬름 콘라트 뢴트겐"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 공과대학교"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "키이우"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "EADS"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "국립 경영학교"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "히포페어라인즈방크"
+    ],
+    [
+      "뮌헨",
+      "hosts European headquarters of",
+      "맥도날드"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "ARD"
+    ],
+    [
+      "뮌헨",
+      "has political party",
+      "녹색당"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "크로아티아인"
+    ],
+    [
+      "크리스티안 우데",
+      "is mayor of",
+      "뮌헨"
+    ],
+    [
+      "리묵스",
+      "is based on",
+      "데비안"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 정치학교"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "아리"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "오스트리아인"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 상업학교"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "바이에른 주립은행"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "우크라이나 자유 대학교"
+    ],
+    [
+      "뮌헨",
+      "has population from",
+      "유럽 연합"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 루트비히 막시밀리안 대학교"
+    ],
+    [
+      "루트비히 4세",
+      "patronized philosophers in",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "하라레"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "베로나"
+    ],
+    [
+      "뮌헨",
+      "has coat of arms featuring",
+      "베네딕트"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "독일 언론학교"
+    ],
+    [
+      "뮌헨",
+      "hosted",
+      "하계 올림픽"
+    ],
+    [
+      "뮌헨",
+      "has political party",
+      "로자 리슈테"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "프로지벤"
+    ],
+    [
+      "뮌헨",
+      "produced Nobel laureates like",
+      "테오도어 헨슈"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "발칸계"
+    ],
+    [
+      "뮌헨",
+      "had motto",
+      "Weltstadt mit Herz"
+    ],
+    [
+      "뮌헨",
+      "hosts",
+      "유럽 특허원"
+    ],
+    [
+      "뉘른베르크",
+      "is similar in governance to",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "로데 & 슈바어츠"
+    ],
+    [
+      "뮌헨",
+      "ranked 15th in",
+      "2thinknow"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "에든버러"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "터키계"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "크라우스-마파이"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "막스 플랑크 분자 / 세포과학 연구학교"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "알리안츠"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "MTU 에어로엔진"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "오스람"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "랜덤하우스"
+    ],
+    [
+      "뮌헨",
+      "is the largest city of",
+      "바이에른주"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 극 / 음학학교"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "알바니아인"
+    ],
+    [
+      "베네딕트",
+      "founded",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "is located on",
+      "이자르강"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "신시내티"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "BMW"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 철학학교"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "삿포로시"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "세르비아인"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "그리스인"
+    ],
+    [
+      "뮌헨 루트비히 막시밀리안 대학교",
+      "is located in",
+      "뮌헨"
+    ],
+    [
+      "루프트한자",
+      "has hub at",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "hosts",
+      "바이에른 주의회"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 연방대학교"
+    ],
+    [
+      "뮌헨",
+      "has population of",
+      "튀르키예인"
+    ],
+    [
+      "뮌헨",
+      "contrasts with",
+      "바이에른 기독교 사회연합"
+    ],
+    [
+      "뮌헨",
+      "ranked 4th in",
+      "머서"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 텔레비전/영화대학교"
+    ],
+    [
+      "뮌헨",
+      "has religion",
+      "천주교"
+    ],
+    [
+      "뮌헨",
+      "hosts",
+      "연방 재정 법원"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "쥐트도이체 차이퉁"
+    ],
+    [
+      "무니헨",
+      "is the origin of the name",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "뮤닉 리"
+    ],
+    [
+      "뮌헨",
+      "hosts European headquarters of",
+      "마이크로소프트"
+    ],
+    [
+      "뮌헨",
+      "has religion",
+      "유대교"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "인피네온"
+    ],
+    [
+      "뮌헨 공과대학교",
+      "is located in",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 지적재산센터"
+    ],
+    [
+      "뮌헨",
+      "is ranked 30th by",
+      "SCSDNGT"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 가톨릭대학교"
+    ],
+    [
+      "루트비히 4세",
+      "adopted colors for",
+      "뮌헨"
+    ],
+    [
+      "뮌헨",
+      "has religion",
+      "이슬람교"
+    ],
+    [
+      "뮌헨",
+      "has river",
+      "뷔름강"
+    ],
+    [
+      "뮌헨",
+      "has slogan",
+      "München mag Dich"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 예술 아카데미"
+    ],
+    [
+      "뮌헨",
+      "is a political hub in",
+      "바이에른 자유 주"
+    ],
+    [
+      "뮌헨",
+      "is home to",
+      "뮌헨 전문과학대학교"
+    ],
+    [
+      "뮌헨",
+      "is located in",
+      "오버바이에른"
+    ],
+    [
+      "뮌헨",
+      "has religion",
+      "개신교"
+    ],
+    [
+      "뮌헨",
+      "was selected as the most livable city by",
+      "모노클"
+    ],
+    [
+      "뮌헨",
+      "is sister city with",
+      "보르도"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "지멘스 AG"
+    ],
+    [
+      "뮌헨",
+      "adopted colors",
+      "신성 로마 제국"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "MAN SE"
+    ],
+    [
+      "뮌헨",
+      "hosts",
+      "바바리아 필름"
+    ],
+    [
+      "뮌헨",
+      "implemented",
+      "리묵스"
+    ],
+    [
+      "크리스티안 우데",
+      "belongs to",
+      "독일 사회민주당"
+    ],
+    [
+      "뮌헨",
+      "hosts headquarters of",
+      "린데"
+    ]
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "베네수엘라",
+    "에콰도르",
+    "바르셀로나 주",
+    "Barcelona (음반)",
+    "바르셀로나",
+    "과야킬",
+    "FC 바르셀로나",
+    "스페인",
+    "바르셀로나 SC",
+    "Barcelona"
+  ],
+  "edges": [
+    "is a football club in",
+    "is a province in",
+    "is a city in"
+  ],
+  "relations": [
+    [
+      "바르셀로나",
+      "is a city in",
+      "스페인"
+    ],
+    [
+      "바르셀로나 주",
+      "is a province in",
+      "스페인"
+    ],
+    [
+      "FC 바르셀로나",
+      "is a football club in",
+      "바르셀로나"
+    ],
+    [
+      "바르셀로나",
+      "is a city in",
+      "베네수엘라"
+    ],
+    [
+      "바르셀로나 SC",
+      "is a football club in",
+      "과야킬"
+    ],
+    [
+      "바르셀로나 SC",
+      "is a football club in",
+      "에콰도르"
+    ]
+  ]
+}

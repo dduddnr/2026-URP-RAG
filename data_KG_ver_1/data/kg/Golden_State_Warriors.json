@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "San Francisco Warriors",
+    "체이스 센터",
+    "Golden State Warriors",
+    "캘리포니아주 샌프란시스코",
+    "골든스테이트 발키리스",
+    "오클랜드",
+    "로스앤젤레스 레이커스",
+    "서부 콘퍼런스",
+    "골든스테이트 워리어스",
+    "NBA",
+    "샌프란시스코 워리어스",
+    "퍼시픽 디비전",
+    "BAA",
+    "펜실베이니아주 필라델피아"
+  ],
+  "edges": [
+    "is based in",
+    "is part of",
+    "was part of",
+    "was founded in",
+    "moved to",
+    "was formerly known as",
+    "has rival",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Golden State Warriors",
+      "is based in",
+      "캘리포니아주 샌프란시스코"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "is part of",
+      "퍼시픽 디비전"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "is based in",
+      "캘리포니아주 샌프란시스코"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "was formerly known as",
+      "San Francisco Warriors"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "is part of",
+      "서부 콘퍼런스"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "moved to",
+      "오클랜드"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "plays at",
+      "체이스 센터"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "has rival",
+      "로스앤젤레스 레이커스"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "was founded in",
+      "펜실베이니아주 필라델피아"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "was formerly known as",
+      "샌프란시스코 워리어스"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "was part of",
+      "BAA"
+    ],
+    [
+      "골든스테이트 워리어스",
+      "is part of",
+      "NBA"
+    ]
+  ]
+}

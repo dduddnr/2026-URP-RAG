@@ -1,4 +1,7 @@
-.env
-data/kg/
-__pycache__/
-*.pyc
+# Environment files
+data_KG_ver_1/.env
+data_KG_ver_2/.env
+
+# Python cache
+**/__pycache__/
+*.py[cod]

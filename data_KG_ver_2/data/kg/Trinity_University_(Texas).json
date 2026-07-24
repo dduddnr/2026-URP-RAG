@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "143 graduate students",
+    "Tehuacana",
+    "Waxahachie",
+    "Cumberland Presbyterians",
+    "O'Neil Ford",
+    "liberal arts and sciences curriculum",
+    "Olmos Park",
+    "6 graduate programs",
+    "2,490 undergraduate students",
+    "288 faculty members",
+    "San Antonio",
+    "57 majors",
+    "Trinity University",
+    "Monte Vista Historic District",
+    "47 U.S. states",
+    "NCAA Division III Southern Athletic Association",
+    "Texas",
+    "Trinitonian",
+    "58 countries",
+    "KRTU-FM",
+    "Trinity Tigers",
+    "63 minors",
+    "National Historic Landmark District",
+    "100 student organizations"
+  ],
+  "edges": [
+    "has a campus radio station called",
+    "offers",
+    "has",
+    "is located in",
+    "represents",
+    "moved its campus to",
+    "competes in",
+    "has been designated as",
+    "has a campus designed by",
+    "has a campus newspaper called",
+    "has an enrollment of",
+    "was founded by"
+  ],
+  "relations": [
+    [
+      "Trinity University",
+      "was founded by",
+      "Cumberland Presbyterians"
+    ],
+    [
+      "Trinity University",
+      "has been designated as",
+      "National Historic Landmark District"
+    ],
+    [
+      "Trinity University",
+      "has a campus newspaper called",
+      "Trinitonian"
+    ],
+    [
+      "Trinity University",
+      "is located in",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "has a campus designed by",
+      "O'Neil Ford"
+    ],
+    [
+      "Trinity University",
+      "has a campus radio station called",
+      "KRTU-FM"
+    ],
+    [
+      "Trinity University",
+      "has an enrollment of",
+      "2,490 undergraduate students"
+    ],
+    [
+      "Trinity University",
+      "moved its campus to",
+      "San Antonio"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "63 minors"
+    ],
+    [
+      "Trinity University",
+      "represents",
+      "47 U.S. states"
+    ],
+    [
+      "Trinity University",
+      "represents",
+      "58 countries"
+    ],
+    [
+      "Trinity University",
+      "competes in",
+      "NCAA Division III Southern Athletic Association"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "57 majors"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "288 faculty members"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "143 graduate students"
+    ],
+    [
+      "Trinity University",
+      "has",
+      "100 student organizations"
+    ],
+    [
+      "Trinity University",
+      "offers",
+      "6 graduate programs"
+    ]
+  ]
+}

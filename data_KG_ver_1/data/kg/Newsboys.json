@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "뉴스보이스",
+    "뉴스보이스 - 공식 웹사이트",
+    "호주",
+    "밴드"
+  ],
+  "edges": [
+    "is a",
+    "has official website",
+    "originates from"
+  ],
+  "relations": [
+    [
+      "뉴스보이스",
+      "has official website",
+      "뉴스보이스 - 공식 웹사이트"
+    ],
+    [
+      "뉴스보이스",
+      "is a",
+      "밴드"
+    ],
+    [
+      "뉴스보이스",
+      "originates from",
+      "호주"
+    ]
+  ]
+}

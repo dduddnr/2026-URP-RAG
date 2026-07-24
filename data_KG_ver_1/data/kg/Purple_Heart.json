@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "1집 정규 음반",
+    "1997년",
+    "Purple Heart",
+    "자우림"
+  ],
+  "edges": [
+    "was released in",
+    "is",
+    "is by"
+  ],
+  "relations": [
+    [
+      "Purple Heart",
+      "is",
+      "1집 정규 음반"
+    ],
+    [
+      "Purple Heart",
+      "is by",
+      "자우림"
+    ],
+    [
+      "Purple Heart",
+      "was released in",
+      "1997년"
+    ]
+  ]
+}

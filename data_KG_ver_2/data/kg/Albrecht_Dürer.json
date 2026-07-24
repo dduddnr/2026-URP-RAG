@@ -1,0 +1,148 @@
+{
+  "entities": [
+    "German humanists",
+    "portraits",
+    "engravings",
+    "Raphael",
+    "Italian artists",
+    "Giovanni Bellini",
+    "books",
+    "Northern Renaissance",
+    "body proportions",
+    "self-portraits",
+    "Gothic",
+    "German Renaissance",
+    "mathematics",
+    "theoretical treatises",
+    "linear perspective",
+    "Emperor Maximilian I",
+    "woodcut prints",
+    "Europe",
+    "Albrecht Dürer",
+    "Nuremberg",
+    "altarpieces",
+    "Leonardo da Vinci",
+    "Northern art",
+    "watercolours"
+  ],
+  "edges": [
+    "established his reputation and influence across",
+    "was patronized by",
+    "wrote",
+    "introduced",
+    "involve principles of",
+    "was in contact with",
+    "was a",
+    "created",
+    "was born in",
+    "were stylistically more",
+    "secured his reputation as one of the most important figures of"
+  ],
+  "relations": [
+    [
+      "Albrecht Dürer",
+      "established his reputation and influence across",
+      "Europe"
+    ],
+    [
+      "Albrecht Dürer",
+      "was born in",
+      "Nuremberg"
+    ],
+    [
+      "Albrecht Dürer",
+      "was patronized by",
+      "Emperor Maximilian I"
+    ],
+    [
+      "Albrecht Dürer",
+      "wrote",
+      "theoretical treatises"
+    ],
+    [
+      "theoretical treatises",
+      "involve principles of",
+      "body proportions"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "books"
+    ],
+    [
+      "Albrecht Dürer",
+      "was in contact with",
+      "Italian artists"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "classical motifs"
+    ],
+    [
+      "theoretical treatises",
+      "involve principles of",
+      "linear perspective"
+    ],
+    [
+      "theoretical treatises",
+      "involve principles of",
+      "mathematics"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "the nude into Northern art"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "German painter"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "altarpieces"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "theorist of the German Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "watercolours"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "engravings"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "self-portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "secured his reputation as one of the most important figures of",
+      "the Northern Renaissance"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "portraits"
+    ],
+    [
+      "woodcut prints",
+      "were stylistically more",
+      "Gothic"
+    ],
+    [
+      "Albrecht Dürer",
+      "was a",
+      "printmaker"
+    ]
+  ]
+}

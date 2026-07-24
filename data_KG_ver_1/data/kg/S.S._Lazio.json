@@ -1,0 +1,470 @@
+{
+  "entities": [
+    "루이지 비자렐리",
+    "인테르",
+    "알레산드로 네스타",
+    "소치에타 스포르티바 라치오",
+    "제우스",
+    "에르난 크레스포",
+    "빈첸초 파파렐리",
+    "코파 이탈리아",
+    "피아자 아파리",
+    "가이즈카 멘디에타",
+    "제노아 1893",
+    "레알 마드리드",
+    "이탈리아",
+    "라치오",
+    "UEFA 슈퍼컵",
+    "톰마소 마에스텔리",
+    "로마",
+    "프라티",
+    "AC밀란",
+    "비안코첼레스티",
+    "포자",
+    "UEFA 컵위너스컵",
+    "스벤예란 에릭손",
+    "트리에스티나",
+    "크리스티안 비에리",
+    "마리오 프루스탈루피",
+    "AS 로마",
+    "잔마르코 탈리에리",
+    "델리오 로시",
+    "스타디오 플라미니오",
+    "클라우디오 로티토",
+    "에우제니오 파스체티",
+    "실비오 피올라",
+    "세르조 크라뇨티",
+    "맨체스터 유나이티드",
+    "델몬트 푸즈",
+    "로키",
+    "톰마소 로키",
+    "올림피코 경기장",
+    "프로 베르첼리",
+    "치리오",
+    "알도 푸치넬리",
+    "파벨 네드베드",
+    "클라우디오 비나차니",
+    "시모네 인차기",
+    "조르조 치나글리아",
+    "브루노 조르다노",
+    "마투잘렘",
+    "이리두치빌리 라치오",
+    "밀란",
+    "주세페 윌손",
+    "삼프도리아",
+    "주세페 파발리",
+    "유벤투스",
+    "수페르코파 이탈리아나",
+    "베르더 브레멘",
+    "후안 세바스티안 베론",
+    "세리에 A",
+    "루차노 레 체초니",
+    "엘라스 베로나",
+    "엔리코 델 데비오",
+    "루카 마르케자니",
+    "올림피아코스",
+    "소시에타 포디스티카 라치오",
+    "디나모 부쿠레슈티",
+    "스타디오 데이 마르미",
+    "시니샤 미하일로비치",
+    "데르비 델라 카피탈레",
+    "포로 이탈리코",
+    "스타디오 올림피코",
+    "마르셀로 살라스",
+    "카살레"
+  ],
+  "edges": [
+    "is based in",
+    "is a",
+    "was designed by",
+    "is symbolized by",
+    "is owned by",
+    "had coach",
+    "had fan",
+    "plays at",
+    "won",
+    "played at",
+    "was founded as",
+    "was managed by",
+    "has ultras group",
+    "signed player",
+    "was listed on",
+    "is sponsored by",
+    "was founded in",
+    "was involved in scandal with",
+    "was owned by",
+    "has rivalry with",
+    "was coached by",
+    "is also known as",
+    "competes in",
+    "was founded by",
+    "defeated",
+    "is nicknamed",
+    "had captain",
+    "shares stadium with",
+    "had player",
+    "competed against"
+  ],
+  "relations": [
+    [
+      "라치오",
+      "competed against",
+      "밀란"
+    ],
+    [
+      "라치오",
+      "defeated",
+      "삼프도리아"
+    ],
+    [
+      "라치오",
+      "won",
+      "수페르코파 이탈리아나"
+    ],
+    [
+      "라치오",
+      "was coached by",
+      "스벤예란 에릭손"
+    ],
+    [
+      "라치오",
+      "had fan",
+      "빈첸초 파파렐리"
+    ],
+    [
+      "라치오",
+      "has rivalry with",
+      "AS 로마"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "카살레"
+    ],
+    [
+      "라치오",
+      "had coach",
+      "톰마소 마에스텔리"
+    ],
+    [
+      "라치오",
+      "had player",
+      "알레산드로 네스타"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "AC밀란"
+    ],
+    [
+      "라치오",
+      "signed player",
+      "가이즈카 멘디에타"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "베르더 브레멘"
+    ],
+    [
+      "라치오",
+      "had player",
+      "마리오 프루스탈루피"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "제노아 1893"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "디나모 부쿠레슈티"
+    ],
+    [
+      "라치오",
+      "was coached by",
+      "델리오 로시"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "프로 베르첼리"
+    ],
+    [
+      "라치오",
+      "signed player",
+      "크리스티안 비에리"
+    ],
+    [
+      "라치오",
+      "had player",
+      "시니샤 미하일로비치"
+    ],
+    [
+      "라치오",
+      "was coached by",
+      "에우제니오 파스체티"
+    ],
+    [
+      "라치오",
+      "was owned by",
+      "클라우디오 로티토"
+    ],
+    [
+      "라치오",
+      "had player",
+      "루카 마르케자니"
+    ],
+    [
+      "스타디오 데이 마르미",
+      "was designed by",
+      "엔리코 델 데비오"
+    ],
+    [
+      "라치오",
+      "has rivalry with",
+      "트리에스티나"
+    ],
+    [
+      "라치오",
+      "had player",
+      "로키"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "유벤투스"
+    ],
+    [
+      "라치오",
+      "has rivalry with",
+      "인테르"
+    ],
+    [
+      "라치오",
+      "was involved in scandal with",
+      "치리오"
+    ],
+    [
+      "소시에타 포디스티카 라치오",
+      "was founded in",
+      "프라티"
+    ],
+    [
+      "라치오",
+      "played at",
+      "스타디오 플라미니오"
+    ],
+    [
+      "라치오",
+      "has ultras group",
+      "이리두치빌리 라치오"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "레알 마드리드"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "포자"
+    ],
+    [
+      "라치오",
+      "was managed by",
+      "잔마르코 탈리에리"
+    ],
+    [
+      "라치오",
+      "had player",
+      "마투잘렘"
+    ],
+    [
+      "라치오",
+      "is symbolized by",
+      "제우스"
+    ],
+    [
+      "라치오",
+      "played at",
+      "스타디오 데이 마르미"
+    ],
+    [
+      "라치오",
+      "had player",
+      "주세페 파발리"
+    ],
+    [
+      "라치오",
+      "is sponsored by",
+      "델몬트 푸즈"
+    ],
+    [
+      "소치에타 스포르티바 라치오",
+      "is also known as",
+      "라치오"
+    ],
+    [
+      "라치오",
+      "had player",
+      "브루노 조르다노"
+    ],
+    [
+      "라치오",
+      "was involved in scandal with",
+      "클라우디오 비나차니"
+    ],
+    [
+      "라치오",
+      "was listed on",
+      "피아자 아파리"
+    ],
+    [
+      "라치오",
+      "had player",
+      "알도 푸치넬리"
+    ],
+    [
+      "라치오",
+      "defeated",
+      "맨체스터 유나이티드"
+    ],
+    [
+      "라치오",
+      "competes in",
+      "세리에 A"
+    ],
+    [
+      "라치오",
+      "was founded by",
+      "루이지 비자렐리"
+    ],
+    [
+      "라치오",
+      "had captain",
+      "주세페 윌손"
+    ],
+    [
+      "라치오",
+      "is based in",
+      "로마"
+    ],
+    [
+      "라치오",
+      "won",
+      "코파 이탈리아"
+    ],
+    [
+      "라치오",
+      "had player",
+      "루차노 레 체초니"
+    ],
+    [
+      "라치오",
+      "signed player",
+      "후안 세바스티안 베론"
+    ],
+    [
+      "라치오",
+      "had player",
+      "마르셀로 살라스"
+    ],
+    [
+      "라치오",
+      "plays at",
+      "포로 이탈리코"
+    ],
+    [
+      "라치오",
+      "shares stadium with",
+      "AS 로마"
+    ],
+    [
+      "라치오",
+      "plays at",
+      "스타디오 올림피코"
+    ],
+    [
+      "라치오",
+      "won",
+      "UEFA 슈퍼컵"
+    ],
+    [
+      "라치오",
+      "plays at",
+      "올림피코 경기장"
+    ],
+    [
+      "라치오",
+      "had player",
+      "파벨 네드베드"
+    ],
+    [
+      "라치오",
+      "has rivalry with",
+      "엘라스 베로나"
+    ],
+    [
+      "라치오",
+      "is a",
+      "이탈리아"
+    ],
+    [
+      "라치오",
+      "was founded as",
+      "소시에타 포디스티카 라치오"
+    ],
+    [
+      "라치오",
+      "signed player",
+      "에르난 크레스포"
+    ],
+    [
+      "라치오",
+      "had player",
+      "톰마소 로키"
+    ],
+    [
+      "라치오",
+      "had player",
+      "실비오 피올라"
+    ],
+    [
+      "라치오",
+      "is nicknamed",
+      "비안코첼레스티"
+    ],
+    [
+      "라치오",
+      "was owned by",
+      "세르조 크라뇨티"
+    ],
+    [
+      "라치오",
+      "competed against",
+      "올림피아코스"
+    ],
+    [
+      "라치오",
+      "is owned by",
+      "클라우디오 로티토"
+    ],
+    [
+      "라치오",
+      "won",
+      "UEFA 컵위너스컵"
+    ],
+    [
+      "라치오",
+      "had player",
+      "시모네 인차기"
+    ],
+    [
+      "라치오",
+      "had player",
+      "조르조 치나글리아"
+    ]
+  ]
+}

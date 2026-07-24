@@ -1,0 +1,163 @@
+{
+  "entities": [
+    "Nürnberg Messe",
+    "Erlangen",
+    "University of Erlangen-Nuremberg",
+    "city walls",
+    "Martin Behaim",
+    "Technische Hochschule Nürnberg",
+    "Staatstheater Nürnberg",
+    "Holy Roman Empire",
+    "Johann Pachelbel",
+    "Fürth",
+    "Bavaria",
+    "2006 FIFA World Cup",
+    "Albrecht Dürer",
+    "Nuremberg Airport",
+    "University of Technology Nuremberg",
+    "Hans Sachs",
+    "Free Imperial City",
+    "Nuremberg",
+    "Franconia",
+    "Schwabach",
+    "Nuremberg trials",
+    "Nuremberg rallies",
+    "Hochschule für Musik Nürnberg",
+    "Old Town",
+    "Staatsphilharmonie Nürnberg",
+    "Imperial Regalia",
+    "Nuremberg Metropolitan Region",
+    "Nuremberg Castle",
+    "1. FC Nürnberg"
+  ],
+  "edges": [
+    "is the largest city in",
+    "was known for",
+    "developed around",
+    "is a major centre of",
+    "has a population of approximately",
+    "is among",
+    "was associated with",
+    "became a",
+    "was known as the site of",
+    "is located in",
+    "is known for its well-preserved",
+    "has inhabitants of",
+    "has institutions such as",
+    "is served by",
+    "was one of the host cities of",
+    "was first mentioned in"
+  ],
+  "relations": [
+    [
+      "Nuremberg",
+      "is located in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg",
+      "was known for",
+      "Nuremberg trials"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Albrecht Dürer"
+    ],
+    [
+      "Nuremberg",
+      "is a major centre of",
+      "transport"
+    ],
+    [
+      "Nuremberg",
+      "has institutions such as",
+      "Staatstheater Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Hans Sachs"
+    ],
+    [
+      "1. FC Nürnberg",
+      "is among",
+      "Germany's most successful football clubs"
+    ],
+    [
+      "Nuremberg",
+      "was one of the host cities of",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Nuremberg",
+      "is served by",
+      "Nuremberg Airport"
+    ],
+    [
+      "Nuremberg",
+      "is the largest city in",
+      "Franconia"
+    ],
+    [
+      "Nuremberg",
+      "is a major centre of",
+      "education"
+    ],
+    [
+      "Nuremberg",
+      "is a major centre of",
+      "commerce"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Martin Behaim"
+    ],
+    [
+      "Nuremberg",
+      "was known as the site of",
+      "Nuremberg rallies"
+    ],
+    [
+      "Nuremberg",
+      "developed around",
+      "an imperial castle"
+    ],
+    [
+      "Nuremberg",
+      "has a population of approximately",
+      "3.6 million"
+    ],
+    [
+      "Nuremberg",
+      "is known for its well-preserved",
+      "medieval heritage"
+    ],
+    [
+      "Nuremberg",
+      "became a",
+      "Free Imperial City"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Johann Pachelbel"
+    ],
+    [
+      "Nuremberg",
+      "has institutions such as",
+      "Staatsphilharmonie Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "was first mentioned in",
+      "1050"
+    ],
+    [
+      "Nuremberg",
+      "has inhabitants of",
+      "546,397"
+    ]
+  ]
+}
