@@ -1,0 +1,68 @@
+{
+  "entities": [
+    "Curly Howard",
+    "Harold Brauer",
+    "Joe DeRita",
+    "Moe Howard",
+    "Shemp Howard",
+    "Curly",
+    "The Middle Stooge",
+    "The Three Stooges",
+    "Emil Sitka",
+    "Larry Fine",
+    "Joe Besser",
+    "DeRita"
+  ],
+  "edges": [
+    "served the role of",
+    "is one of only two actors to have worked with",
+    "is best known for",
+    "was initially considered to replace",
+    "earned the informal title of being",
+    "died from",
+    "suffered a stroke in",
+    "was tapped to be"
+  ],
+  "relations": [
+    [
+      "Emil Sitka",
+      "is one of only two actors to have worked with",
+      "The Three Stooges"
+    ],
+    [
+      "Emil Sitka",
+      "served the role of",
+      "stooge"
+    ],
+    [
+      "Emil Sitka",
+      "earned the informal title of being",
+      "the fourth stooge"
+    ],
+    [
+      "Emil Sitka",
+      "is best known for",
+      "The Three Stooges"
+    ],
+    [
+      "Larry Fine",
+      "suffered a stroke in",
+      "1970"
+    ],
+    [
+      "Emil Sitka",
+      "was initially considered to replace",
+      "Larry Fine"
+    ],
+    [
+      "Emil Sitka",
+      "was tapped to be",
+      "The Middle Stooge"
+    ],
+    [
+      "Moe Howard",
+      "died from",
+      "a heart attack"
+    ]
+  ]
+}

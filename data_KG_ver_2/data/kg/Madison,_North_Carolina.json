@@ -1,0 +1,55 @@
+{
+  "entities": [
+    "Rockingham County",
+    "North Carolina",
+    "Sturm, Ruger & Co",
+    "Piedmont Triad",
+    "2020 census",
+    "bankruptcy",
+    "Greensboro-High Point Metropolitan Statistical Area",
+    "Remington Arms",
+    "population",
+    "Marlin Firearms",
+    "Madison"
+  ],
+  "edges": [
+    "is located in",
+    "has a population of",
+    "is part of",
+    "is owned by",
+    "was home to",
+    "was made defunct by"
+  ],
+  "relations": [
+    [
+      "Madison",
+      "was home to",
+      "Remington Arms"
+    ],
+    [
+      "Marlin Firearms",
+      "is owned by",
+      "Sturm, Ruger & Co"
+    ],
+    [
+      "Madison",
+      "has a population of",
+      "2,132"
+    ],
+    [
+      "Madison",
+      "is part of",
+      "Greensboro-High Point Metropolitan Statistical Area"
+    ],
+    [
+      "Madison",
+      "is located in",
+      "Rockingham County"
+    ],
+    [
+      "Remington Arms",
+      "was made defunct by",
+      "bankruptcy"
+    ]
+  ]
+}

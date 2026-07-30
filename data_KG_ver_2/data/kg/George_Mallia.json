@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Qormi FC",
+    "Sliema",
+    "10 October 1978",
+    "Maltese Premier League",
+    "Malta",
+    "midfielder",
+    "retired professional footballer",
+    "George Mallia"
+  ],
+  "edges": [
+    "is a",
+    "was born on",
+    "is a team in",
+    "was born in",
+    "played as a",
+    "last played for",
+    "is from"
+  ],
+  "relations": [
+    [
+      "George Mallia",
+      "was born in",
+      "Sliema"
+    ],
+    [
+      "George Mallia",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "George Mallia",
+      "last played for",
+      "Qormi FC"
+    ],
+    [
+      "George Mallia",
+      "is from",
+      "Malta"
+    ],
+    [
+      "George Mallia",
+      "is a",
+      "retired professional footballer"
+    ],
+    [
+      "George Mallia",
+      "was born on",
+      "10 October 1978"
+    ],
+    [
+      "Qormi FC",
+      "is a team in",
+      "Maltese Premier League"
+    ]
+  ]
+}

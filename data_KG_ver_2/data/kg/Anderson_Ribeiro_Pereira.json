@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "Indonesia Super League",
+    "Tegao",
+    "footballer",
+    "PSMS Medan",
+    "Brazilian",
+    "Anderson Ribeiro Pereira"
+  ],
+  "edges": [
+    "is in",
+    "is known as",
+    "is a",
+    "previously played for"
+  ],
+  "relations": [
+    [
+      "Anderson Ribeiro Pereira",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Anderson Ribeiro Pereira",
+      "is a",
+      "footballer"
+    ],
+    [
+      "PSMS Medan",
+      "is in",
+      "Indonesia Super League"
+    ],
+    [
+      "Anderson Ribeiro Pereira",
+      "is known as",
+      "Tegao"
+    ],
+    [
+      "Anderson Ribeiro Pereira",
+      "previously played for",
+      "PSMS Medan"
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "Joe Simitian",
+    "2016",
+    "American politician",
+    "2012",
+    "Santa Clara County Board of Supervisors",
+    "11th State Senate district",
+    "Santa Cruz County",
+    "State Senator",
+    "San Mateo County",
+    "Saren Joseph Simitian",
+    "February 1, 1953",
+    "California",
+    "2020",
+    "Democratic Party",
+    "Santa Clara County"
+  ],
+  "edges": [
+    "was member of",
+    "was elected to",
+    "was elected in",
+    "is",
+    "was State Senator representing",
+    "ran for",
+    "was re-elected to",
+    "encompasses part of"
+  ],
+  "relations": [
+    [
+      "Saren Joseph Simitian",
+      "is",
+      "American politician"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was elected in",
+      "2016"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was member of",
+      "Democratic Party"
+    ],
+    [
+      "California's 11th State Senate district",
+      "encompasses part of",
+      "San Mateo County"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "ran for",
+      "Santa Clara County Board of Supervisors"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was re-elected to",
+      "Santa Clara County Board of Supervisors"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was State Senator representing",
+      "California's 11th State Senate district"
+    ],
+    [
+      "California's 11th State Senate district",
+      "encompasses part of",
+      "Santa Cruz County"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was elected to",
+      "Santa Clara County Board of Supervisors"
+    ],
+    [
+      "Saren Joseph Simitian",
+      "was elected in",
+      "2020"
+    ],
+    [
+      "California's 11th State Senate district",
+      "encompasses part of",
+      "Santa Clara County"
+    ]
+  ]
+}

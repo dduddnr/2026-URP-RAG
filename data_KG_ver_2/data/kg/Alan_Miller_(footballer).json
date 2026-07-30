@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "under-16",
+    "Premier League",
+    "Coventry City",
+    "Middlesbrough",
+    "Alan John Miller",
+    "Scottish Premier League",
+    "under-21",
+    "West Bromwich Albion",
+    "goalkeeper",
+    "Plymouth Argyle",
+    "Bristol City",
+    "England",
+    "St Johnstone",
+    "Birmingham City",
+    "Blackburn Rovers",
+    "schoolboy",
+    "footballer",
+    "Grimsby Town",
+    "Arsenal",
+    "First Division"
+  ],
+  "edges": [
+    "represented",
+    "represented at",
+    "was",
+    "had",
+    "played in the Scottish Premier League for",
+    "played in the Football League for",
+    "made most appearances for",
+    "played in the Premier League for",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Alan John Miller",
+      "played in the Football League for",
+      "Blackburn Rovers"
+    ],
+    [
+      "Alan John Miller",
+      "represented at",
+      "under-16"
+    ],
+    [
+      "Alan John Miller",
+      "was",
+      "footballer"
+    ],
+    [
+      "Alan John Miller",
+      "represented at",
+      "schoolboy"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Premier League for",
+      "Coventry City"
+    ],
+    [
+      "Alan John Miller",
+      "represented",
+      "England"
+    ],
+    [
+      "Alan John Miller",
+      "represented at",
+      "under-21"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Football League for",
+      "Bristol City"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Football League for",
+      "Grimsby Town"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Football League for",
+      "Plymouth Argyle"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Premier League for",
+      "Arsenal"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Football League for",
+      "Birmingham City"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Scottish Premier League for",
+      "St Johnstone"
+    ],
+    [
+      "Alan John Miller",
+      "made most appearances for",
+      "West Bromwich Albion"
+    ],
+    [
+      "Alan John Miller",
+      "had",
+      "108 First Division appearances"
+    ],
+    [
+      "Alan John Miller",
+      "played in the Premier League for",
+      "Middlesbrough"
+    ],
+    [
+      "Alan John Miller",
+      "played as",
+      "goalkeeper"
+    ]
+  ]
+}

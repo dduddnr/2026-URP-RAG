@@ -1,0 +1,158 @@
+{
+  "entities": [
+    "McGredy family",
+    "Hub of the North",
+    "Mid-Ulster F.A.",
+    "red shirts",
+    "Portadown",
+    "shamrock",
+    "rose",
+    "red and white stripes",
+    "NIFL Premiership",
+    "apple",
+    "1887",
+    "Glenavon",
+    "Shamrock Park",
+    "Glentoran",
+    "County Armagh",
+    "rose growers",
+    "white trim",
+    "red socks",
+    "Mid-Ulster Cup",
+    "Irish League",
+    "Orchard County",
+    "Mid Ulster Derby",
+    "red and white",
+    "Portadown railway station",
+    "club badge",
+    "red shorts",
+    "Portadown Football Club"
+  ],
+  "edges": [
+    "joined",
+    "is based in",
+    "colours are",
+    "participated in",
+    "is located in",
+    "home kit consists of",
+    "plays in",
+    "has a longstanding rivalry with",
+    "is part of",
+    "are",
+    "shows",
+    "represent",
+    "is known as",
+    "plays home matches at",
+    "has main rivals",
+    "represents",
+    "are known as",
+    "was formed in"
+  ],
+  "relations": [
+    [
+      "Portadown Football Club",
+      "is part of",
+      "Mid-Ulster F.A."
+    ],
+    [
+      "Portadown Football Club",
+      "has main rivals",
+      "Glenavon"
+    ],
+    [
+      "Portadown Football Club",
+      "is located in",
+      "County Armagh"
+    ],
+    [
+      "rose",
+      "represents",
+      "McGredy family"
+    ],
+    [
+      "Portadown railway station",
+      "is known as",
+      "Hub of the North"
+    ],
+    [
+      "Portadown Football Club",
+      "joined",
+      "Irish League"
+    ],
+    [
+      "Portadown Football Club",
+      "plays in",
+      "NIFL Premiership"
+    ],
+    [
+      "Portadown Football Club",
+      "participated in",
+      "Mid-Ulster Cup"
+    ],
+    [
+      "Portadown Football Club",
+      "home kit consists of",
+      "red shirts, red shorts and red socks with white trim"
+    ],
+    [
+      "club badge",
+      "shows",
+      "rose"
+    ],
+    [
+      "Portadown Football Club",
+      "is based in",
+      "Portadown"
+    ],
+    [
+      "club badge",
+      "shows",
+      "apple"
+    ],
+    [
+      "club badge",
+      "shows",
+      "shamrock"
+    ],
+    [
+      "McGredy family",
+      "are",
+      "rose growers"
+    ],
+    [
+      "Portadown Football Club",
+      "plays home matches at",
+      "Shamrock Park"
+    ],
+    [
+      "matches",
+      "are known as",
+      "Mid Ulster Derby"
+    ],
+    [
+      "Portadown Football Club",
+      "has a longstanding rivalry with",
+      "Glentoran"
+    ],
+    [
+      "red and white stripes",
+      "represent",
+      "Portadown railway station"
+    ],
+    [
+      "apple",
+      "represents",
+      "Orchard County"
+    ],
+    [
+      "Portadown Football Club",
+      "was formed in",
+      "1887"
+    ],
+    [
+      "Portadown Football Club",
+      "colours are",
+      "red and white"
+    ]
+  ]
+}

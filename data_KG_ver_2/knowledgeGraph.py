@@ -16,10 +16,12 @@ OUTPUT_DIR = os.path.join('data', 'kg')
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+limit = 150
+
 try:
     with open(INPUT_FILE, 'r', encoding='utf-8') as f:
         for i, line in enumerate(f):
-            if i >= 10: 
+            if i >= limit: 
                 break
                 
             data = json.loads(line)
@@ -27,11 +29,11 @@ try:
 
             output_path = os.path.join(OUTPUT_DIR, f"{entity_name.replace('/', '_')}.json")
             if os.path.exists(output_path):
-                print(f"⏭️ [{entity_name}] 이미 존재하여 건너뜁니다.")
+                print(f"⏭️ [{i+1}/{limit}] [{entity_name}] 이미 존재하여 건너뜁니다.")
                 continue
             
             text = f"Entity: {entity_name}\nSummary: {data.get('summary', '')}"
-            print(f"⚙️ [{entity_name}] 지식 그래프 추출 중", end="")
+            print(f"⚙️ [{i+1}/{limit}] [{entity_name}] 지식 그래프 추출 중", end="")
             
             try:
                 graph = kg.generate(input_data=text, context=entity_name)

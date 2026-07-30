@@ -1,0 +1,199 @@
+{
+  "entities": [
+    "Hayes Lane",
+    "Bromley",
+    "Bromley Football Club",
+    "FA Trophy",
+    "Kent League",
+    "FA Amateur Cup",
+    "Athenian League",
+    "Spartan League",
+    "Conference South",
+    "League Two",
+    "National League",
+    "Isthmian League",
+    "England",
+    "EFL League Two",
+    "English Football League",
+    "London League",
+    "EFL League One",
+    "Southern League",
+    "Greater London"
+  ],
+  "edges": [
+    "won the Conference South title in",
+    "joined the Conference South in",
+    "won the League Two title in",
+    "won the FA Amateur Cup in",
+    "won the FA Trophy in",
+    "won the Athenian League in",
+    "joined the Isthmian League again in",
+    "reached the English Football League for the first time in",
+    "won the division title in",
+    "was formed in",
+    "joined",
+    "won the National League play-offs in",
+    "is located in",
+    "was a founder member of",
+    "is based in",
+    "joined the Athenian League in",
+    "won the Isthmian League in",
+    "earned promotion to",
+    "competes in",
+    "was promoted from",
+    "won the Division Two title",
+    "plays home matches at"
+  ],
+  "relations": [
+    [
+      "Bromley Football Club",
+      "won the Athenian League in",
+      "1922–23"
+    ],
+    [
+      "Bromley Football Club",
+      "was promoted from",
+      "EFL League Two"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Isthmian League in",
+      "1908–09"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Athenian League in",
+      "1948–49"
+    ],
+    [
+      "Bromley Football Club",
+      "won the FA Trophy in",
+      "2021–22"
+    ],
+    [
+      "Bromley Football Club",
+      "won the division title in",
+      "Spartan League"
+    ],
+    [
+      "Bromley Football Club",
+      "is located in",
+      "Greater London"
+    ],
+    [
+      "Bromley Football Club",
+      "joined the Conference South in",
+      "2007–08"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Athenian League in",
+      "1950–51"
+    ],
+    [
+      "Bromley Football Club",
+      "joined the Isthmian League again in",
+      "1952–53"
+    ],
+    [
+      "Bromley Football Club",
+      "was a founder member of",
+      "Southern League"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Division Two title",
+      "Kent League"
+    ],
+    [
+      "Bromley Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Bromley Football Club",
+      "won the FA Amateur Cup in",
+      "1948–49"
+    ],
+    [
+      "Bromley Football Club",
+      "was formed in",
+      "1892"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Conference South title in",
+      "2014–15"
+    ],
+    [
+      "Bromley Football Club",
+      "won the FA Amateur Cup in",
+      "1910–11"
+    ],
+    [
+      "Bromley Football Club",
+      "joined the Athenian League in",
+      "1919"
+    ],
+    [
+      "Bromley Football Club",
+      "won the National League play-offs in",
+      "2023–24"
+    ],
+    [
+      "Bromley Football Club",
+      "won the League Two title in",
+      "2025–26"
+    ],
+    [
+      "Bromley Football Club",
+      "earned promotion to",
+      "League One"
+    ],
+    [
+      "Bromley Football Club",
+      "is based in",
+      "Bromley"
+    ],
+    [
+      "Bromley Football Club",
+      "was a founder member of",
+      "Spartan League"
+    ],
+    [
+      "Bromley Football Club",
+      "plays home matches at",
+      "Hayes Lane"
+    ],
+    [
+      "Bromley Football Club",
+      "joined",
+      "Isthmian League"
+    ],
+    [
+      "Bromley Football Club",
+      "was a founder member of",
+      "London League"
+    ],
+    [
+      "Bromley Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Bromley Football Club",
+      "won the Isthmian League in",
+      "1909–10"
+    ],
+    [
+      "Bromley Football Club",
+      "reached the English Football League for the first time in",
+      "2023–24"
+    ],
+    [
+      "Bromley Football Club",
+      "won the FA Amateur Cup in",
+      "1937–38"
+    ]
+  ]
+}

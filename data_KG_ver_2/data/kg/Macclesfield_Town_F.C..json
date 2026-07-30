@@ -1,0 +1,124 @@
+{
+  "entities": [
+    "Cheshire County League",
+    "Macclesfield F.C.",
+    "Football League",
+    "Second Division",
+    "Northern Premier League",
+    "FA Trophy",
+    "Conference",
+    "Robert Smethurst",
+    "Combination league",
+    "Macclesfield Town Football Club",
+    "North West Counties Football League",
+    "Moss Rose",
+    "National League",
+    "Third Division",
+    "Manchester League"
+  ],
+  "edges": [
+    "entered into the",
+    "was an association football club based in",
+    "competed in the",
+    "was wound-up after a High Court ruling on",
+    "was promoted to the",
+    "won the",
+    "purchased the assets of",
+    "was initially known as",
+    "stayed in the fourth tier of the",
+    "was established as",
+    "played home games at",
+    "was a founder member of the",
+    "was led by manager",
+    "won promotion in their inaugural",
+    "was relegated from the",
+    "was a member of the"
+  ],
+  "relations": [
+    [
+      "Macclesfield Town Football Club",
+      "was an association football club based in",
+      "Macclesfield"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a member of the",
+      "Manchester League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was led by manager",
+      "John Askey"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was relegated from the",
+      "Second Division"
+    ],
+    [
+      "Robert Smethurst",
+      "purchased the assets of",
+      "Macclesfield Town"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "played home games at",
+      "Moss Rose"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a founder member of the",
+      "Northern Premier League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "won the",
+      "FA Trophy"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was initially known as",
+      "Macclesfield F.C."
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "won promotion in their inaugural",
+      "Football League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was wound-up after a High Court ruling on",
+      "16 September 2020"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "competed in the",
+      "Combination league"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was a member of the",
+      "Cheshire County League"
+    ],
+    [
+      "Macclesfield F.C.",
+      "entered into the",
+      "North West Counties Football League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was established as",
+      "Macclesfield F.C."
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "stayed in the fourth tier of the",
+      "Football League"
+    ],
+    [
+      "Macclesfield Town Football Club",
+      "was promoted to the",
+      "Conference"
+    ]
+  ]
+}

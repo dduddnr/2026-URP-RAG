@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "Villa Nova Atlético Clube",
+    "Uruçuca-BA",
+    "Brazilian",
+    "attacking midfielder",
+    "Joelson Santos Silva",
+    "November 19, 1980"
+  ],
+  "edges": [
+    "is an",
+    "plays for",
+    "is a",
+    "was born on",
+    "was born in"
+  ],
+  "relations": [
+    [
+      "Joelson Santos Silva",
+      "plays for",
+      "Villa Nova Atlético Clube"
+    ],
+    [
+      "Joelson Santos Silva",
+      "was born on",
+      "November 19, 1980"
+    ],
+    [
+      "Joelson Santos Silva",
+      "was born in",
+      "Uruçuca-BA"
+    ],
+    [
+      "Joelson Santos Silva",
+      "is an",
+      "attacking midfielder"
+    ],
+    [
+      "Joelson Santos Silva",
+      "is a",
+      "Brazilian"
+    ]
+  ]
+}

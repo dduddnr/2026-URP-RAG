@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "Marcelo Rodrigues Alves",
+    "defensive midfielder",
+    "footballer",
+    "Super League Greece",
+    "Marcelo Goianira",
+    "AEL Kalloni",
+    "Brazilian"
+  ],
+  "edges": [
+    "is in",
+    "plays in",
+    "is a",
+    "is known as",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Marcelo Goianira",
+      "plays in",
+      "AEL Kalloni"
+    ],
+    [
+      "AEL Kalloni",
+      "is in",
+      "Super League Greece"
+    ],
+    [
+      "Marcelo Goianira",
+      "is known as",
+      "Marcelo Rodrigues Alves"
+    ],
+    [
+      "Marcelo Goianira",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Marcelo Goianira",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Marcelo Goianira",
+      "plays as a",
+      "defensive midfielder"
+    ]
+  ]
+}

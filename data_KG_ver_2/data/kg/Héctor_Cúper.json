@@ -1,0 +1,141 @@
+{
+  "entities": [
+    "Uzbekistan",
+    "Betis",
+    "former player",
+    "Africa Cup of Nations",
+    "Georgia",
+    "Racing Santander",
+    "UEFA Champions League",
+    "Inter Milan",
+    "Egypt",
+    "Valencia",
+    "Parma",
+    "UEFA Cup Winners' Cup",
+    "La Liga",
+    "Héctor Cúper",
+    "Ferro Carril Oeste",
+    "FIFA World Cup",
+    "defender",
+    "Peruvian club Universitario",
+    "Copa del Rey",
+    "Serie A",
+    "DR Congo",
+    "Argentina",
+    "football manager",
+    "Mallorca",
+    "Cabezón"
+  ],
+  "edges": [
+    "took",
+    "played for",
+    "reached the final of",
+    "is a",
+    "coached the national team of",
+    "managed",
+    "is the current manager of",
+    "was a"
+  ],
+  "relations": [
+    [
+      "Héctor Cúper",
+      "is a",
+      "former player"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Valencia"
+    ],
+    [
+      "Héctor Cúper",
+      "coached the national team of",
+      "DR Congo"
+    ],
+    [
+      "Héctor Cúper",
+      "coached the national team of",
+      "Uzbekistan"
+    ],
+    [
+      "Héctor Cúper",
+      "is the current manager of",
+      "Peruvian club Universitario"
+    ],
+    [
+      "Héctor Cúper",
+      "took",
+      "Egypt to the Africa Cup of Nations final"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Betis"
+    ],
+    [
+      "Héctor Cúper",
+      "is a",
+      "football manager"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "UEFA Cup Winners' Cup"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Parma"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Inter Milan"
+    ],
+    [
+      "Héctor Cúper",
+      "coached the national team of",
+      "Georgia"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Mallorca"
+    ],
+    [
+      "Héctor Cúper",
+      "took",
+      "Egypt to the FIFA World Cup"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "Copa del Rey"
+    ],
+    [
+      "Héctor Cúper",
+      "managed",
+      "Racing Santander"
+    ],
+    [
+      "Héctor Cúper",
+      "was a",
+      "defender"
+    ],
+    [
+      "Héctor Cúper",
+      "played for",
+      "Ferro Carril Oeste"
+    ],
+    [
+      "Héctor Cúper",
+      "coached the national team of",
+      "Egypt"
+    ],
+    [
+      "Héctor Cúper",
+      "reached the final of",
+      "UEFA Champions League"
+    ]
+  ]
+}

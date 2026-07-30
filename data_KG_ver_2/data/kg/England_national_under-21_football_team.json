@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "Wales",
+    "England under-21s",
+    "Football Association",
+    "England U21s",
+    "Jack Butland",
+    "2007 FA Cup final",
+    "John Stones",
+    "Harry Kane",
+    "Molineux Stadium",
+    "Calum Chambers",
+    "England national under-21 football team",
+    "Wembley Stadium",
+    "Emile Smith Rowe",
+    "England national football team",
+    "UEFA European Under-21 Championship"
+  ],
+  "edges": [
+    "played against",
+    "came into existence in",
+    "played in",
+    "is considered to be the feeder team for",
+    "is under the control of",
+    "set a record attendance on",
+    "hosted the match for",
+    "is also known as"
+  ],
+  "relations": [
+    [
+      "England national under-21 football team",
+      "is under the control of",
+      "Football Association"
+    ],
+    [
+      "England U21s",
+      "set a record attendance on",
+      "24 March 2007"
+    ],
+    [
+      "England U21s",
+      "played against",
+      "Wales"
+    ],
+    [
+      "England U21s",
+      "played against",
+      "Italy U21"
+    ],
+    [
+      "England U21s",
+      "played in",
+      "Molineux Stadium"
+    ],
+    [
+      "England national under-21 football team",
+      "is also known as",
+      "England under-21s"
+    ],
+    [
+      "England national under-21 football team",
+      "is considered to be the feeder team for",
+      "England national football team"
+    ],
+    [
+      "Wembley Stadium",
+      "hosted the match for",
+      "2007 FA Cup final"
+    ],
+    [
+      "England national under-21 football team",
+      "came into existence in",
+      "1976"
+    ],
+    [
+      "England national under-21 football team",
+      "is also known as",
+      "England U21s"
+    ]
+  ]
+}

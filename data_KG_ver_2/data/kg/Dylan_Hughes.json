@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "Dylan Hughes",
+    "Canada",
+    "former professional footballer",
+    "Wales",
+    "Dylan John Hughes",
+    "forward",
+    "youth level",
+    "January 23, 1985"
+  ],
+  "edges": [
+    "represented",
+    "played at",
+    "is",
+    "is a",
+    "was born on",
+    "was born in",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Dylan Hughes",
+      "is",
+      "Dylan John Hughes"
+    ],
+    [
+      "Dylan John Hughes",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Dylan John Hughes",
+      "was born on",
+      "January 23, 1985"
+    ],
+    [
+      "Dylan John Hughes",
+      "was born in",
+      "Canada"
+    ],
+    [
+      "Dylan John Hughes",
+      "played at",
+      "youth level"
+    ],
+    [
+      "Dylan John Hughes",
+      "played as a",
+      "forward"
+    ],
+    [
+      "Dylan John Hughes",
+      "represented",
+      "Wales"
+    ],
+    [
+      "Dylan John Hughes",
+      "represented",
+      "Canada"
+    ]
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "entities": [
     "soccer",
-    "American",
     "Dallas",
+    "American",
     "2003 NCAA Division III Player of the Year",
     "midfielder",
     "Josh Smith",
     "Texas"
   ],
   "edges": [
-    "is",
-    "is a",
     "was the",
-    "was born in"
+    "was born in",
+    "is",
+    "is a"
   ],
   "relations": [
     [
@@ -22,8 +22,8 @@
     ],
     [
       "Josh Smith",
-      "is a",
-      "midfielder"
+      "was born in",
+      "Dallas"
     ],
     [
       "Josh Smith",
@@ -32,8 +32,8 @@
     ],
     [
       "Josh Smith",
-      "was born in",
-      "Dallas"
+      "is a",
+      "midfielder"
     ],
     [
       "Josh Smith",

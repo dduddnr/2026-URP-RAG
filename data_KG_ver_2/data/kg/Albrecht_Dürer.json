@@ -1,74 +1,44 @@
 {
   "entities": [
-    "German humanists",
-    "portraits",
-    "engravings",
-    "Raphael",
-    "Italian artists",
-    "Giovanni Bellini",
-    "books",
-    "Northern Renaissance",
     "body proportions",
+    "Raphael",
+    "Emperor Maximilian I",
+    "Italian artists",
+    "books",
+    "Giovanni Bellini",
+    "Northern art",
+    "Leonardo da Vinci",
+    "watercolours",
     "self-portraits",
-    "Gothic",
+    "Northern Renaissance",
+    "altarpieces",
+    "portraits",
+    "Europe",
     "German Renaissance",
-    "mathematics",
+    "Albrecht Dürer",
+    "Gothic",
     "theoretical treatises",
     "linear perspective",
-    "Emperor Maximilian I",
     "woodcut prints",
-    "Europe",
-    "Albrecht Dürer",
+    "engravings",
     "Nuremberg",
-    "altarpieces",
-    "Leonardo da Vinci",
-    "Northern art",
-    "watercolours"
+    "mathematics",
+    "German humanists"
   ],
   "edges": [
-    "established his reputation and influence across",
-    "was patronized by",
-    "wrote",
-    "introduced",
-    "involve principles of",
-    "was in contact with",
-    "was a",
     "created",
-    "was born in",
+    "was in contact with",
     "were stylistically more",
-    "secured his reputation as one of the most important figures of"
+    "established his reputation and influence across",
+    "wrote",
+    "was born in",
+    "was patronized by",
+    "introduced",
+    "secured his reputation as one of the most important figures of",
+    "involve principles of",
+    "was a"
   ],
   "relations": [
-    [
-      "Albrecht Dürer",
-      "established his reputation and influence across",
-      "Europe"
-    ],
-    [
-      "Albrecht Dürer",
-      "was born in",
-      "Nuremberg"
-    ],
-    [
-      "Albrecht Dürer",
-      "was patronized by",
-      "Emperor Maximilian I"
-    ],
-    [
-      "Albrecht Dürer",
-      "wrote",
-      "theoretical treatises"
-    ],
-    [
-      "theoretical treatises",
-      "involve principles of",
-      "body proportions"
-    ],
-    [
-      "Albrecht Dürer",
-      "created",
-      "books"
-    ],
     [
       "Albrecht Dürer",
       "was in contact with",
@@ -76,13 +46,8 @@
     ],
     [
       "Albrecht Dürer",
-      "introduced",
-      "classical motifs"
-    ],
-    [
-      "theoretical treatises",
-      "involve principles of",
-      "linear perspective"
+      "was patronized by",
+      "Emperor Maximilian I"
     ],
     [
       "theoretical treatises",
@@ -91,13 +56,28 @@
     ],
     [
       "Albrecht Dürer",
-      "introduced",
-      "the nude into Northern art"
+      "was a",
+      "printmaker"
+    ],
+    [
+      "woodcut prints",
+      "were stylistically more",
+      "Gothic"
     ],
     [
       "Albrecht Dürer",
-      "was a",
-      "German painter"
+      "created",
+      "self-portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "portraits"
+    ],
+    [
+      "Albrecht Dürer",
+      "created",
+      "books"
     ],
     [
       "Albrecht Dürer",
@@ -111,8 +91,13 @@
     ],
     [
       "Albrecht Dürer",
-      "created",
-      "watercolours"
+      "was a",
+      "German painter"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "the nude into Northern art"
     ],
     [
       "Albrecht Dürer",
@@ -122,7 +107,27 @@
     [
       "Albrecht Dürer",
       "created",
-      "self-portraits"
+      "watercolours"
+    ],
+    [
+      "Albrecht Dürer",
+      "introduced",
+      "classical motifs"
+    ],
+    [
+      "Albrecht Dürer",
+      "wrote",
+      "theoretical treatises"
+    ],
+    [
+      "theoretical treatises",
+      "involve principles of",
+      "linear perspective"
+    ],
+    [
+      "Albrecht Dürer",
+      "was born in",
+      "Nuremberg"
     ],
     [
       "Albrecht Dürer",
@@ -130,19 +135,14 @@
       "the Northern Renaissance"
     ],
     [
-      "Albrecht Dürer",
-      "created",
-      "portraits"
-    ],
-    [
-      "woodcut prints",
-      "were stylistically more",
-      "Gothic"
+      "theoretical treatises",
+      "involve principles of",
+      "body proportions"
     ],
     [
       "Albrecht Dürer",
-      "was a",
-      "printmaker"
+      "established his reputation and influence across",
+      "Europe"
     ]
   ]
 }

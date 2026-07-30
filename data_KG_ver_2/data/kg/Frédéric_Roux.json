@@ -1,0 +1,76 @@
+{
+  "entities": [
+    "Nancy",
+    "2002",
+    "Ajaccio",
+    "French",
+    "Frédéric Roux",
+    "Coupe de la Ligue",
+    "Frederic Alain Roux",
+    "professional footballer",
+    "Châteauroux",
+    "1973",
+    "Bordeaux",
+    "goalkeeper"
+  ],
+  "edges": [
+    "previous clubs include",
+    "won",
+    "is",
+    "is a",
+    "won in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Frédéric Roux",
+      "won in",
+      "2002"
+    ],
+    [
+      "Frédéric Roux",
+      "is",
+      "Frederic Alain Roux"
+    ],
+    [
+      "Frédéric Roux",
+      "won",
+      "Coupe de la Ligue"
+    ],
+    [
+      "Frédéric Roux",
+      "previous clubs include",
+      "Ajaccio"
+    ],
+    [
+      "Frédéric Roux",
+      "is a",
+      "French"
+    ],
+    [
+      "Frédéric Roux",
+      "previous clubs include",
+      "Nancy"
+    ],
+    [
+      "Frédéric Roux",
+      "played as",
+      "goalkeeper"
+    ],
+    [
+      "Frédéric Roux",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Frédéric Roux",
+      "previous clubs include",
+      "Châteauroux"
+    ],
+    [
+      "Frédéric Roux",
+      "previous clubs include",
+      "Bordeaux"
+    ]
+  ]
+}

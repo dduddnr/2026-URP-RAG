@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "Europe",
+    "Aeroport de Tolosa–Blanhac",
+    "Haute-Garonne",
+    "7.8 million passengers",
+    "Northern Africa",
+    "Toulouse",
+    "France",
+    "Aéroport de Toulouse–Blagnac",
+    "Toulouse–Blagnac Airport",
+    "March 2024",
+    "Occitanie",
+    "9,264,611 passengers",
+    "Blagnac",
+    "TLS",
+    "84 destinations",
+    "2024",
+    "2017",
+    "LFBO"
+  ],
+  "edges": [
+    "is in",
+    "is located in",
+    "served",
+    "is part of",
+    "is projected to serve",
+    "has connections to",
+    "featured flights to"
+  ],
+  "relations": [
+    [
+      "Toulouse–Blagnac Airport",
+      "is part of",
+      "Haute-Garonne"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "is located in",
+      "Blagnac"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "is projected to serve",
+      "7.8 million passengers"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "has connections to",
+      "Northern Africa"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "is located in",
+      "Toulouse"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "has connections to",
+      "Europe"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "served",
+      "9,264,611 passengers"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "featured flights to",
+      "84 destinations"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "is in",
+      "Occitanie"
+    ],
+    [
+      "Toulouse–Blagnac Airport",
+      "is in",
+      "France"
+    ]
+  ]
+}

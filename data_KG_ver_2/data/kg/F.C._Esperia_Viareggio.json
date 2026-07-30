@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Viareggio, Tuscany",
+    "Associazione Sportiva Dilettanistica Viareggio Calcio",
+    "Tuscan Second Category",
+    "Viareggio",
+    "F.C. Esperia Viareggio",
+    "2021–22 season",
+    "Italian football club"
+  ],
+  "edges": [
+    "is an",
+    "as of",
+    "is located in",
+    "plays in",
+    "is referred to simply as"
+  ],
+  "relations": [
+    [
+      "Viareggio Calcio",
+      "as of",
+      "2021–22 season"
+    ],
+    [
+      "Viareggio Calcio",
+      "plays in",
+      "Tuscan Second Category"
+    ],
+    [
+      "Associazione Sportiva Dilettanistica Viareggio Calcio",
+      "is located in",
+      "Viareggio, Tuscany"
+    ],
+    [
+      "Associazione Sportiva Dilettanistica Viareggio Calcio",
+      "is referred to simply as",
+      "Viareggio"
+    ],
+    [
+      "Associazione Sportiva Dilettanistica Viareggio Calcio",
+      "is an",
+      "Italian football club"
+    ]
+  ]
+}

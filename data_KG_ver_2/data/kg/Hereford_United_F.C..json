@@ -1,0 +1,208 @@
+{
+  "entities": [
+    "Hereford cattle",
+    "A49 derby",
+    "Graham Turner",
+    "Hereford Bull",
+    "Fourth Division",
+    "Birmingham Combination",
+    "North-West Division",
+    "FA Cup",
+    "Forever United",
+    "League Two",
+    "Edgar Street",
+    "The Whites",
+    "The Lilywhites",
+    "Shrewsbury Town",
+    "phoenix club",
+    "debts",
+    "The Bulls",
+    "non-League football",
+    "Football League",
+    "Division One",
+    "High Court",
+    "Southern League",
+    "Hereford United Football Club",
+    "Conference",
+    "National League North",
+    "Hereford",
+    "Birmingham & District League"
+  ],
+  "edges": [
+    "won promotion after winning",
+    "switched to",
+    "was wound up in",
+    "remained in",
+    "won",
+    "played at",
+    "finished second",
+    "knocked out",
+    "achieved national prominence in",
+    "gained promotion to",
+    "lost their Football League status with",
+    "contested with",
+    "were elected into",
+    "promoted out of",
+    "contested",
+    "were nicknamed",
+    "was founded in",
+    "had debts around",
+    "were relegated",
+    "entered",
+    "was set up after the demise of",
+    "incorporates the words",
+    "was based in"
+  ],
+  "relations": [
+    [
+      "Hereford United Football Club",
+      "entered",
+      "Southern League"
+    ],
+    [
+      "Hereford United Football Club",
+      "entered",
+      "Birmingham Combination"
+    ],
+    [
+      "Hereford United Football Club",
+      "contested with",
+      "Shrewsbury Town"
+    ],
+    [
+      "Hereford United Football Club",
+      "switched to",
+      "Birmingham & District League"
+    ],
+    [
+      "Hereford United Football Club",
+      "promoted out of",
+      "League Two"
+    ],
+    [
+      "Hereford United Football Club",
+      "won",
+      "North-West Division"
+    ],
+    [
+      "Hereford United Football Club",
+      "were nicknamed",
+      "The Lilywhites"
+    ],
+    [
+      "Hereford United Football Club",
+      "achieved national prominence in",
+      "1972"
+    ],
+    [
+      "Hereford United Football Club",
+      "were nicknamed",
+      "The Bulls"
+    ],
+    [
+      "Hereford United Football Club",
+      "was wound up in",
+      "High Court"
+    ],
+    [
+      "Hereford United Football Club",
+      "were relegated",
+      "Second Division"
+    ],
+    [
+      "Hereford United Football Club",
+      "won",
+      "Third Division title"
+    ],
+    [
+      "Hereford United Football Club",
+      "were elected into",
+      "Football League"
+    ],
+    [
+      "Hereford United Football Club",
+      "had debts around",
+      "£1.3 million"
+    ],
+    [
+      "Hereford United Football Club",
+      "lost their Football League status with",
+      "last-place finish"
+    ],
+    [
+      "Hereford United Football Club",
+      "knocked out",
+      "Newcastle United"
+    ],
+    [
+      "Hereford United Football Club",
+      "contested",
+      "A49 derby"
+    ],
+    [
+      "Hereford United Football Club",
+      "was based in",
+      "Hereford"
+    ],
+    [
+      "Hereford United Football Club",
+      "won",
+      "Division One"
+    ],
+    [
+      "Hereford United Football Club",
+      "won promotion after winning",
+      "2006 play-off final"
+    ],
+    [
+      "Hereford United Football Club",
+      "played at",
+      "Edgar Street"
+    ],
+    [
+      "Hereford United Football Club",
+      "were relegated",
+      "non-League football"
+    ],
+    [
+      "Hereford",
+      "gained promotion to",
+      "National League North"
+    ],
+    [
+      "Hereford United Football Club",
+      "remained in",
+      "Conference"
+    ],
+    [
+      "Hereford",
+      "was set up after the demise of",
+      "Hereford United Football Club"
+    ],
+    [
+      "Hereford United Football Club",
+      "were nicknamed",
+      "The Whites"
+    ],
+    [
+      "Hereford",
+      "incorporates the words",
+      "Forever United"
+    ],
+    [
+      "Hereford United Football Club",
+      "was founded in",
+      "1924"
+    ],
+    [
+      "Hereford United Football Club",
+      "finished second",
+      "three consecutive times"
+    ],
+    [
+      "Hereford United Football Club",
+      "promoted out of",
+      "Fourth Division"
+    ]
+  ]
+}

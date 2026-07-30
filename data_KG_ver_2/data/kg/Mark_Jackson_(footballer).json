@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "Marc Jackson",
+    "head coach",
+    "Mark Jackson",
+    "Golden State Warriors",
+    "basketball guard"
+  ],
+  "edges": [
+    "was head coach of",
+    "is"
+  ],
+  "relations": [
+    [
+      "Mark Jackson",
+      "is",
+      "head coach"
+    ],
+    [
+      "Mark Jackson",
+      "is",
+      "basketball guard"
+    ],
+    [
+      "Mark Jackson",
+      "was head coach of",
+      "Golden State Warriors"
+    ]
+  ]
+}

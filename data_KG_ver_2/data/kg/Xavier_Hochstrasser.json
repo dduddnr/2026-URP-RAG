@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "winger",
+    "Xavier Daniel Hochstrasser",
+    "defensive midfielder",
+    "goals",
+    "footballer",
+    "crossing",
+    "corner kicks",
+    "FC Onex",
+    "Swiss"
+  ],
+  "edges": [
+    "specializes in",
+    "is known for",
+    "is a",
+    "currently plays for",
+    "plays as a"
+  ],
+  "relations": [
+    [
+      "Xavier Daniel Hochstrasser",
+      "plays as a",
+      "winger"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "specializes in",
+      "corner kicks"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "plays as a",
+      "defensive midfielder"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "is known for",
+      "crossing"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "is a",
+      "Swiss footballer"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "is known for",
+      "ability to set up goals"
+    ],
+    [
+      "Xavier Daniel Hochstrasser",
+      "currently plays for",
+      "FC Onex"
+    ]
+  ]
+}

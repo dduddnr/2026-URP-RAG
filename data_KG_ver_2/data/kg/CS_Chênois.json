@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "CS_Chênois",
+    "1. Liga Classic",
+    "Club Sportif Chênois",
+    "Switzerland",
+    "Thônex",
+    "Swiss football"
+  ],
+  "edges": [
+    "is based in",
+    "is located in",
+    "plays in",
+    "is part of",
+    "is a"
+  ],
+  "relations": [
+    [
+      "Club Sportif Chênois",
+      "plays in",
+      "1. Liga Classic"
+    ],
+    [
+      "Club Sportif Chênois",
+      "is based in",
+      "Thônex"
+    ],
+    [
+      "Club Sportif Chênois",
+      "is located in",
+      "Switzerland"
+    ],
+    [
+      "1. Liga Classic",
+      "is part of",
+      "Swiss football"
+    ],
+    [
+      "CS_Chênois",
+      "is a",
+      "Club Sportif Chênois"
+    ]
+  ]
+}

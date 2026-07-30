@@ -1,0 +1,284 @@
+{
+  "entities": [
+    "Old Trafford",
+    "2016–17",
+    "Premier League",
+    "Newton Heath LYR Football Club",
+    "New York Stock Exchange",
+    "Leeds United",
+    "Bobby Charlton",
+    "Denis Law",
+    "Manchester United Football Club",
+    "George Best",
+    "Glazer family",
+    "London Stock Exchange",
+    "José Mourinho",
+    "United",
+    "Man United",
+    "England",
+    "United Trinity",
+    "£6.55 billion",
+    "Busby Babes",
+    "Alex Ferguson",
+    "$5.22 billion",
+    "Man Utd",
+    "Manchester City",
+    "Liverpool",
+    "Malcolm Glazer",
+    "Greater Manchester",
+    "Red Devils",
+    "€676.3 million",
+    "Matt Busby",
+    "Arsenal"
+  ],
+  "edges": [
+    "moved to",
+    "became the first English club to win",
+    "became the first English club to compete in",
+    "changed their name to",
+    "had shares listed on",
+    "was the highest-earning football club in the world for",
+    "is located in",
+    "won",
+    "was appointed as manager in",
+    "was valued at",
+    "is commonly referred to as",
+    "had an annual revenue of",
+    "valued at",
+    "built a team known as",
+    "is nicknamed",
+    "is based in",
+    "was founded as",
+    "achieved the continental treble of",
+    "was taken private after a purchase by",
+    "became one of five clubs to have won",
+    "competes in",
+    "became the club's longest-serving and most successful manager",
+    "was founded in",
+    "had over",
+    "retains overall ownership and control of",
+    "was rebuilt around"
+  ],
+  "relations": [
+    [
+      "Manchester United Football Club",
+      "had an annual revenue of",
+      "€676.3 million"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the UEFA Super Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the European Cup/UEFA Champions League"
+    ],
+    [
+      "Alex Ferguson",
+      "became the club's longest-serving and most successful manager",
+      "Manchester United Football Club"
+    ],
+    [
+      "Matt Busby",
+      "was appointed as manager in",
+      "1945"
+    ],
+    [
+      "Manchester United Football Club",
+      "is nicknamed",
+      "Red Devils"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "twenty top-flight league titles"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "thirteen FA Cups"
+    ],
+    [
+      "Manchester United Football Club",
+      "became the first English club to compete in",
+      "the European Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the UEFA Cup Winners' Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "was rebuilt around",
+      "star players George Best, Denis Law and Bobby Charlton"
+    ],
+    [
+      "Manchester United Football Club",
+      "became one of five clubs to have won",
+      "the original three main UEFA club competitions"
+    ],
+    [
+      "Manchester United Football Club",
+      "had over",
+      "£500 million of borrowed money as debt"
+    ],
+    [
+      "Manchester United Football Club",
+      "had shares listed on",
+      "the New York Stock Exchange"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the FIFA Club World Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "is commonly referred to as",
+      "Man United"
+    ],
+    [
+      "Manchester United Football Club",
+      "was valued at",
+      "£6.55 billion"
+    ],
+    [
+      "Manchester United Football Club",
+      "is commonly referred to as",
+      "Man Utd"
+    ],
+    [
+      "Matt Busby",
+      "won",
+      "successive league titles"
+    ],
+    [
+      "Manchester United Football Club",
+      "achieved the continental treble of",
+      "the Premier League, FA Cup and UEFA Champions League"
+    ],
+    [
+      "Alex Ferguson",
+      "won",
+      "38 trophies"
+    ],
+    [
+      "Alex Ferguson",
+      "won",
+      "two Champions League titles"
+    ],
+    [
+      "Alex Ferguson",
+      "won",
+      "five FA Cups"
+    ],
+    [
+      "Malcolm Glazer",
+      "valued at",
+      "almost £800 million"
+    ],
+    [
+      "Alex Ferguson",
+      "won",
+      "13 league titles"
+    ],
+    [
+      "Manchester United Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Manchester United Football Club",
+      "was the highest-earning football club in the world for",
+      "2016–17"
+    ],
+    [
+      "Manchester United Football Club",
+      "moved to",
+      "Old Trafford"
+    ],
+    [
+      "Matt Busby",
+      "built a team known as",
+      "Busby Babes"
+    ],
+    [
+      "Manchester United Football Club",
+      "was founded in",
+      "1878"
+    ],
+    [
+      "Glazer family",
+      "retains overall ownership and control of",
+      "Manchester United Football Club"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "twenty-one FA Community Shields"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "six League Cups"
+    ],
+    [
+      "Manchester United Football Club",
+      "was founded as",
+      "Newton Heath LYR Football Club"
+    ],
+    [
+      "Manchester United Football Club",
+      "is located in",
+      "Greater Manchester"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "two more league titles"
+    ],
+    [
+      "Manchester United Football Club",
+      "is commonly referred to as",
+      "United"
+    ],
+    [
+      "Manchester United Football Club",
+      "changed their name to",
+      "Manchester United"
+    ],
+    [
+      "Manchester United Football Club",
+      "became the first English club to win",
+      "the European Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Manchester United Football Club",
+      "is based in",
+      "Old Trafford"
+    ],
+    [
+      "Manchester United Football Club",
+      "was taken private after a purchase by",
+      "Malcolm Glazer"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the Intercontinental Cup"
+    ],
+    [
+      "Manchester United Football Club",
+      "won",
+      "the UEFA Europa League"
+    ]
+  ]
+}

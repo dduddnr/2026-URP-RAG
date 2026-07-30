@@ -1,0 +1,44 @@
+{
+  "entities": [
+    "former professional footballer",
+    "French",
+    "right-back",
+    "Arthur Sorin",
+    "midfield",
+    "1 November 1985"
+  ],
+  "edges": [
+    "normally played as",
+    "could also play on the right side of",
+    "is",
+    "is a",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Arthur Sorin",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Arthur Sorin",
+      "could also play on the right side of",
+      "midfield"
+    ],
+    [
+      "Arthur Sorin",
+      "is",
+      "French"
+    ],
+    [
+      "Arthur Sorin",
+      "normally played as",
+      "right-back"
+    ],
+    [
+      "Arthur Sorin",
+      "was born on",
+      "1 November 1985"
+    ]
+  ]
+}

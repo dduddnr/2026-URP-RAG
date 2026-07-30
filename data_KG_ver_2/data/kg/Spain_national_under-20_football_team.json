@@ -1,0 +1,31 @@
+{
+  "entities": [
+    "Spain national under-20 football team",
+    "international football",
+    "RFEF",
+    "Royal Spanish Football Federation",
+    "Spain"
+  ],
+  "edges": [
+    "is controlled by",
+    "governs",
+    "represents"
+  ],
+  "relations": [
+    [
+      "Spain national under-20 football team",
+      "represents",
+      "Spain"
+    ],
+    [
+      "Spain national under-20 football team",
+      "is controlled by",
+      "Royal Spanish Football Federation"
+    ],
+    [
+      "Royal Spanish Football Federation",
+      "governs",
+      "international football"
+    ]
+  ]
+}

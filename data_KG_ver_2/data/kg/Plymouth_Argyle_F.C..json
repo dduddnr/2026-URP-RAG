@@ -1,0 +1,309 @@
+{
+  "entities": [
+    "fifth time",
+    "1998",
+    "1958–59",
+    "1950",
+    "1995–96",
+    "2003–04",
+    "New World",
+    "1951–52",
+    "2016–17",
+    "Paul Sturrock",
+    "Premier League",
+    "2022–23 season",
+    "1929–30",
+    "The Pilgrims",
+    "Argyle green",
+    "Bob Jack",
+    "1977",
+    "Plymouth Argyle Football Club",
+    "Massachusetts",
+    "2001–02",
+    "2019–20",
+    "Devon",
+    "1974–75",
+    "2011",
+    "1992",
+    "Plymouth",
+    "England",
+    "1620",
+    "Second Division",
+    "1985–86",
+    "Third Division South",
+    "1995",
+    "1968",
+    "Pilgrim Fathers",
+    "2001–02 season",
+    "Mayflower",
+    "EFL League One",
+    "Football League First Division",
+    "Championship",
+    "1956",
+    "Third Division",
+    "Home Park"
+  ],
+  "edges": [
+    "returned to the Championship as champions in",
+    "won the Southern League title in",
+    "has played at",
+    "turned professional in",
+    "won promotion again in",
+    "had a stay in",
+    "has predominantly played in",
+    "was adopted in",
+    "is the most southerly and westerly League club in",
+    "adopted",
+    "won promotion under the management of",
+    "won promotion to",
+    "takes its nickname from",
+    "remained in",
+    "is located in",
+    "carried",
+    "was relegated to the fourth tier in",
+    "won immediate promotion in",
+    "left in",
+    "returned as",
+    "is based in",
+    "was founded as",
+    "won the third-tier league title for a record",
+    "has yet to compete in",
+    "won promotion out of the Third Division as runners-up in",
+    "are derived from",
+    "competes in",
+    "was left in",
+    "finished as runners-up on six consecutive occasions before winning promotion as",
+    "won election into",
+    "left",
+    "secured a record fourth third-tier league title in",
+    "was relegated in",
+    "was relegated again in",
+    "went to",
+    "is the nation's only professional club named",
+    "was promoted as champions in",
+    "won the Western League title in",
+    "features"
+  ],
+  "relations": [
+    [
+      "Plymouth Argyle Football Club",
+      "has yet to compete in",
+      "Premier League"
+    ],
+    [
+      "Mayflower",
+      "carried",
+      "Pilgrims"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "finished as runners-up on six consecutive occasions before winning promotion as",
+      "Third Division South champions"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "turned professional in",
+      "1903"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated again in",
+      "1998"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "remained in",
+      "Championship"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "takes its nickname from",
+      "The Pilgrims"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won the third-tier league title for a record",
+      "fifth time"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "has yet to compete in",
+      "Football League First Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "secured a record fourth third-tier league title in",
+      "2003–04"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "features",
+      "Mayflower"
+    ],
+    [
+      "Pilgrim Fathers",
+      "left",
+      "Plymouth"
+    ],
+    [
+      "Pilgrim Fathers",
+      "left in",
+      "1620"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated to the fourth tier in",
+      "1995"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was promoted as champions in",
+      "2001–02"
+    ],
+    [
+      "Argyle green",
+      "was adopted in",
+      "2001–02 season"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "adopted",
+      "Argyle green"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is the most southerly and westerly League club in",
+      "England"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Pilgrim Fathers",
+      "went to",
+      "New World"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion to",
+      "League One"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is based in",
+      "Plymouth"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is the nation's only professional club named",
+      "Argyle"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won the Western League title in",
+      "1904–05"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won the Southern League title in",
+      "1912–13"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "has predominantly played in",
+      "green and white"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion out of the Third Division as runners-up in",
+      "1974–75"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "returned as",
+      "Third Division South champions"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "returned to the Championship as champions in",
+      "2022–23 season"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was left in",
+      "League Two"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated in",
+      "1968"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won immediate promotion in",
+      "1995–96"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won election into",
+      "Football League Third Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "had a stay in",
+      "Second Division"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "is located in",
+      "Devon"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was founded as",
+      "Argyle"
+    ],
+    [
+      "The Pilgrims",
+      "are derived from",
+      "Pilgrim Fathers"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion under the management of",
+      "Bob Jack"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated in",
+      "1992"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "was relegated in",
+      "1977"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion again in",
+      "2019–20"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "won promotion out of the Third Division as runners-up in",
+      "1985–86"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Plymouth Argyle Football Club",
+      "has played at",
+      "Home Park"
+    ]
+  ]
+}

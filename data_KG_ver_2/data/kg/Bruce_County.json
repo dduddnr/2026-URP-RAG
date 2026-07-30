@@ -1,0 +1,135 @@
+{
+  "entities": [
+    "Southwestern Ontario",
+    "farming",
+    "Bruce Peninsula",
+    "12th Earl of Kincardine",
+    "hiking trails",
+    "Bruce Trail",
+    "73,396",
+    "fresh water",
+    "rock formations",
+    "2021 population",
+    "James Bruce",
+    "8th Earl of Elgin",
+    "soft sandy beaches",
+    "Interior Region",
+    "Bruce County",
+    "Canada",
+    "cliffs",
+    "Niagara Escarpment",
+    "Lakeshore",
+    "Governor General of the Province of Canada"
+  ],
+  "edges": [
+    "is known for its",
+    "includes nearly",
+    "is located in",
+    "has distinct areas including",
+    "is the",
+    "is part of",
+    "is named for",
+    "has a total 2021 population of",
+    "is a county in",
+    "includes",
+    "is linked to",
+    "has a strong history in"
+  ],
+  "relations": [
+    [
+      "Lakeshore",
+      "includes",
+      "soft sandy beaches"
+    ],
+    [
+      "Bruce County",
+      "has distinct areas including",
+      "Interior Region"
+    ],
+    [
+      "James Bruce",
+      "is the",
+      "12th Earl of Kincardine"
+    ],
+    [
+      "James Bruce",
+      "is the",
+      "Governor General of the Province of Canada"
+    ],
+    [
+      "Bruce County",
+      "includes",
+      "Lakeshore"
+    ],
+    [
+      "Bruce County",
+      "includes",
+      "Bruce Peninsula"
+    ],
+    [
+      "Bruce Peninsula",
+      "is part of",
+      "Niagara Escarpment"
+    ],
+    [
+      "Bruce Peninsula",
+      "is known for its",
+      "rock formations"
+    ],
+    [
+      "Bruce County",
+      "is located in",
+      "Canada"
+    ],
+    [
+      "Bruce County",
+      "has a total 2021 population of",
+      "73,396"
+    ],
+    [
+      "Bruce County",
+      "has a strong history in",
+      "farming"
+    ],
+    [
+      "Bruce County",
+      "is a county in",
+      "Southwestern Ontario"
+    ],
+    [
+      "Bruce Peninsula",
+      "is known for its",
+      "hiking trails"
+    ],
+    [
+      "Bruce County",
+      "is linked to",
+      "Bruce Trail"
+    ],
+    [
+      "James Bruce",
+      "is the",
+      "8th Earl of Elgin"
+    ],
+    [
+      "Bruce Peninsula",
+      "is known for its",
+      "cliffs"
+    ],
+    [
+      "Bruce County",
+      "is named for",
+      "James Bruce"
+    ],
+    [
+      "Lakeshore",
+      "includes nearly",
+      "100 km of fresh water"
+    ],
+    [
+      "Bruce Peninsula",
+      "is known for its",
+      "views"
+    ]
+  ]
+}

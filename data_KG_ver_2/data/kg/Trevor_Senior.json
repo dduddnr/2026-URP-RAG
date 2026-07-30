@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "assistant manager",
+    "former professional footballer",
+    "28 November 1961",
+    "Reading",
+    "striker",
+    "Dorchester Town",
+    "Trevor Senior"
+  ],
+  "edges": [
+    "is associated with",
+    "is the",
+    "is a",
+    "primarily played at",
+    "is born on",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Trevor Senior",
+      "primarily played at",
+      "Reading"
+    ],
+    [
+      "Trevor Senior",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Trevor Senior",
+      "is the",
+      "assistant manager"
+    ],
+    [
+      "Trevor Senior",
+      "is associated with",
+      "Dorchester Town"
+    ],
+    [
+      "Trevor Senior",
+      "is born on",
+      "28 November 1961"
+    ],
+    [
+      "Trevor Senior",
+      "played as",
+      "striker"
+    ]
+  ]
+}

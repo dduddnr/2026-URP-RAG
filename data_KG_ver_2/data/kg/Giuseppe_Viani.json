@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Gipo Viani",
+    "Giuseppe Viani",
+    "manager",
+    "Province of Treviso",
+    "midfielder",
+    "6 January 1969",
+    "Italian",
+    "football player",
+    "13 September 1909"
+  ],
+  "edges": [
+    "was born on",
+    "died on",
+    "played as a",
+    "is also known as",
+    "was a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Giuseppe Viani",
+      "is also known as",
+      "Gipo Viani"
+    ],
+    [
+      "Giuseppe Viani",
+      "was a",
+      "manager"
+    ],
+    [
+      "Giuseppe Viani",
+      "is from",
+      "Province of Treviso"
+    ],
+    [
+      "Giuseppe Viani",
+      "was born on",
+      "13 September 1909"
+    ],
+    [
+      "Giuseppe Viani",
+      "played as a",
+      "midfielder"
+    ],
+    [
+      "Giuseppe Viani",
+      "was a",
+      "football player"
+    ],
+    [
+      "Giuseppe Viani",
+      "died on",
+      "6 January 1969"
+    ]
+  ]
+}

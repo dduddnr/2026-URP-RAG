@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "Natalie Talmadge",
+    "John G. Blystone",
+    "Joe Roberts",
+    "Turner Classic Movies",
+    "Hatfield–McCoy feud",
+    "Joseph M. Schenck",
+    "November 19, 1923",
+    "Buster Keaton",
+    "Our Hospitality",
+    "Metro Pictures"
+  ],
+  "edges": [
+    "is produced by",
+    "was released on",
+    "describes",
+    "is released by",
+    "is based on",
+    "is directed by",
+    "features"
+  ],
+  "relations": [
+    [
+      "Our Hospitality",
+      "is based on",
+      "Hatfield–McCoy feud"
+    ],
+    [
+      "Our Hospitality",
+      "features",
+      "Natalie Talmadge"
+    ],
+    [
+      "Our Hospitality",
+      "is directed by",
+      "Buster Keaton"
+    ],
+    [
+      "Turner Classic Movies",
+      "describes",
+      "Our Hospitality"
+    ],
+    [
+      "Our Hospitality",
+      "is directed by",
+      "John G. Blystone"
+    ],
+    [
+      "Our Hospitality",
+      "is produced by",
+      "Joseph M. Schenck"
+    ],
+    [
+      "Our Hospitality",
+      "was released on",
+      "November 19, 1923"
+    ],
+    [
+      "Our Hospitality",
+      "features",
+      "Joe Roberts"
+    ],
+    [
+      "Our Hospitality",
+      "is released by",
+      "Metro Pictures"
+    ]
+  ]
+}

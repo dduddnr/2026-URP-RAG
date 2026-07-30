@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "29 September 1988",
+    "Serigne Diop",
+    "French",
+    "footballer",
+    "Mor Serigne Diop"
+  ],
+  "edges": [
+    "is",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Mor Serigne Diop",
+      "was born on",
+      "29 September 1988"
+    ],
+    [
+      "Mor Serigne Diop",
+      "is",
+      "footballer"
+    ],
+    [
+      "Mor Serigne Diop",
+      "is",
+      "French"
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "entities": [
+    "Bilbao",
+    "Real Sociedad",
+    "Navarre",
+    "San Mamés",
+    "Biscay",
+    "Basque",
+    "Alavés",
+    "Real Madrid",
+    "Athletic Club",
+    "Spain",
+    "Lehoiak",
+    "Soule",
+    "Lower Navarre",
+    "Primera División Femenina",
+    "Spanish Civil War",
+    "Gipuzkoa",
+    "Athletic Bilbao",
+    "Saint Mammes",
+    "La Liga",
+    "San Mamés Stadium",
+    "Barcelona",
+    "Álava",
+    "Eibar",
+    "Copa del Rey",
+    "Labourd",
+    "Osasuna"
+  ],
+  "edges": [
+    "is based in",
+    "is commonly known as",
+    "is one of three founding members of the Primera División that have never been relegated from",
+    "is located in",
+    "has won",
+    "is the most successful Basque football club in",
+    "has contested further Basque league derbies against",
+    "is named after",
+    "is the fourth most successful club in",
+    "has one of the most successful women's teams in",
+    "has a minor rivalry with",
+    "has a cantera policy of bringing young players through the ranks from",
+    "is known as",
+    "has played exclusively with players meeting its own criteria to be deemed",
+    "has main rivals",
+    "plays its home matches at"
+  ],
+  "relations": [
+    [
+      "Athletic Club",
+      "has main rivals",
+      "Real Sociedad"
+    ],
+    [
+      "Athletic Club",
+      "is located in",
+      "Spain"
+    ],
+    [
+      "Athletic Club",
+      "is the most successful Basque football club in",
+      "league and cup titles"
+    ],
+    [
+      "Athletic Club",
+      "is one of three founding members of the Primera División that have never been relegated from",
+      "the top division"
+    ],
+    [
+      "Athletic Club",
+      "is known as",
+      "Lehoiak"
+    ],
+    [
+      "Athletic Club",
+      "is based in",
+      "Bilbao"
+    ],
+    [
+      "Athletic Club",
+      "has contested further Basque league derbies against",
+      "Alavés"
+    ],
+    [
+      "Athletic Club",
+      "has contested further Basque league derbies against",
+      "Osasuna"
+    ],
+    [
+      "Athletic Club",
+      "is the fourth most successful club in",
+      "La Liga"
+    ],
+    [
+      "Athletic Club",
+      "has played exclusively with players meeting its own criteria to be deemed",
+      "Basque"
+    ],
+    [
+      "Athletic Club",
+      "has won",
+      "24 times"
+    ],
+    [
+      "San Mamés",
+      "is named after",
+      "Saint Mammes"
+    ],
+    [
+      "Athletic Club",
+      "has a cantera policy of bringing young players through the ranks from",
+      "the greater Basque Country"
+    ],
+    [
+      "Athletic Club",
+      "has a minor rivalry with",
+      "Barcelona"
+    ],
+    [
+      "Athletic Club",
+      "has contested further Basque league derbies against",
+      "Eibar"
+    ],
+    [
+      "Athletic Club",
+      "has one of the most successful women's teams in",
+      "Spain"
+    ],
+    [
+      "Athletic Club",
+      "is commonly known as",
+      "Athletic Bilbao"
+    ],
+    [
+      "Athletic Club",
+      "plays its home matches at",
+      "San Mamés Stadium"
+    ]
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "entities": [
+    "Azuis",
+    "Azuis do Restelo",
+    "1945–46 Primeira Liga",
+    "football",
+    "Championship of Portugal",
+    "handball",
+    "athletics",
+    "Belenenses",
+    "Estádio do Restelo",
+    "Os Belenenses",
+    "A Cruz de Cristo",
+    "Primeira Liga",
+    "futsal",
+    "basketball",
+    "Os Rapazes da Praia",
+    "Os Pastéis",
+    "Belém",
+    "Liga 3",
+    "Portuguese Cup",
+    "Clube de Futebol Os Belenenses",
+    "C.F. Os Belenenses",
+    "rugby union",
+    "Lisbon",
+    "UEFA Europa League",
+    "Big Three",
+    "O Belém"
+  ],
+  "edges": [
+    "is based in",
+    "is commonly known as",
+    "has won",
+    "is the fifth most decorated team in",
+    "is the fourth club with the most podium finishes in",
+    "won the",
+    "is best known for",
+    "has won more than",
+    "competes in",
+    "is a sports club based in",
+    "has won national championships in",
+    "was also the first Portuguese club to participate in",
+    "was founded in",
+    "was the first Portuguese team with a turf pitch and artificial lighting"
+  ],
+  "relations": [
+    [
+      "Belenenses",
+      "is based in",
+      "Estádio do Restelo"
+    ],
+    [
+      "Belenenses",
+      "is the fourth club with the most podium finishes in",
+      "Primeira Liga"
+    ],
+    [
+      "Belenenses",
+      "has won",
+      "six Championship of Portugal/Portuguese Cup trophies"
+    ],
+    [
+      "Belenenses",
+      "competes in",
+      "Liga 3"
+    ],
+    [
+      "Belenenses",
+      "is the fifth most decorated team in",
+      "Portuguese football"
+    ],
+    [
+      "Belenenses",
+      "has won national championships in",
+      "football, handball, basketball, futsal, athletics, and rugby union"
+    ],
+    [
+      "Belenenses",
+      "won the",
+      "1945–46 Primeira Liga"
+    ],
+    [
+      "Belenenses",
+      "is best known for",
+      "football"
+    ],
+    [
+      "Belenenses",
+      "is commonly known as",
+      "Os Belenenses"
+    ],
+    [
+      "Belenenses",
+      "was also the first Portuguese club to participate in",
+      "UEFA Europa League"
+    ],
+    [
+      "Belenenses",
+      "has won more than",
+      "10,000 trophies"
+    ],
+    [
+      "Belenenses",
+      "was founded in",
+      "1919"
+    ],
+    [
+      "Belenenses",
+      "was the first Portuguese team with a turf pitch and artificial lighting",
+      ""
+    ],
+    [
+      "Belenenses",
+      "is a sports club based in",
+      "Lisbon"
+    ]
+  ]
+}

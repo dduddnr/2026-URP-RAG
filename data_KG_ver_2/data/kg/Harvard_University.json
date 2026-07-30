@@ -1,0 +1,247 @@
+{
+  "entities": [
+    "Harvard Yard",
+    "Longwood Medical Area",
+    "heads of government",
+    "Association of American Universities",
+    "U.S. presidents",
+    "Faculty of Arts and Sciences",
+    "Turing Award Recipients",
+    "Massachusetts General Court",
+    "Charles River",
+    "Allston",
+    "Pulitzer Prize recipients",
+    "heads of state",
+    "Fields Medalists",
+    "Fulbright Scholars",
+    "Massachusetts",
+    "Harvard Radcliffe Institute",
+    "Harvard College",
+    "John Harvard",
+    "United States",
+    "Cambridge",
+    "Harvard University",
+    "Academy Awards",
+    "Nobel laureates",
+    "billionaires",
+    "Olympic medals",
+    "James B. Conant",
+    "members of Congress",
+    "Rhodes Scholars",
+    "MacArthur Fellows",
+    "Massachusetts Bay Colony",
+    "Medical Institution of Harvard University",
+    "Constitution of Massachusetts",
+    "Marshall Scholars",
+    "Harvard Library",
+    "Charles William Eliot"
+  ],
+  "edges": [
+    "have won",
+    "has a president",
+    "has campuses including",
+    "was established in",
+    "include",
+    "is located in",
+    "is the wealthiest academic institution in",
+    "is the world's largest academic library",
+    "was authorized by",
+    "has a faculty attached to",
+    "has an endowment valued at",
+    "is in",
+    "is the undergraduate division of",
+    "refers to",
+    "was founded by",
+    "was led by",
+    "offers study in",
+    "governs",
+    "co-founded"
+  ],
+  "relations": [
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "MacArthur Fellows"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Nobel laureates"
+    ],
+    [
+      "Harvard University",
+      "has an endowment valued at",
+      "$55.7 billion"
+    ],
+    [
+      "Harvard University",
+      "is in",
+      "Massachusetts"
+    ],
+    [
+      "Harvard University",
+      "was founded by",
+      "John Harvard"
+    ],
+    [
+      "Harvard University",
+      "co-founded",
+      "Association of American Universities"
+    ],
+    [
+      "Massachusetts General Court",
+      "governs",
+      "Massachusetts Bay Colony"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "24 heads of state"
+    ],
+    [
+      "Harvard University",
+      "is the wealthiest academic institution in",
+      "the world"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Fulbright Scholars"
+    ],
+    [
+      "Harvard University",
+      "was authorized by",
+      "Massachusetts General Court"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Rhodes Scholars"
+    ],
+    [
+      "Harvard Library",
+      "is the world's largest academic library",
+      ""
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "8 U.S. presidents"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "188 living billionaires"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Turing Award Recipients"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Pulitzer Prize recipients"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "members of Congress"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Harvard Yard"
+    ],
+    [
+      "Constitution of Massachusetts",
+      "refers to",
+      "Harvard University"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Allston"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Marshall Scholars"
+    ],
+    [
+      "Harvard students and alumni",
+      "have won",
+      "10 Academy Awards"
+    ],
+    [
+      "Harvard University",
+      "has a president",
+      "Charles William Eliot"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Charles River"
+    ],
+    [
+      "Faculty of Arts and Sciences",
+      "offers study in",
+      "a wide range of undergraduate and graduate academic disciplines"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "Fields Medalists"
+    ],
+    [
+      "Harvard students and alumni",
+      "have won",
+      "110 Olympic medals"
+    ],
+    [
+      "Harvard students and alumni",
+      "have won",
+      "46 gold medals"
+    ],
+    [
+      "Harvard University",
+      "was led by",
+      "James B. Conant"
+    ],
+    [
+      "Harvard University",
+      "is in",
+      "United States"
+    ],
+    [
+      "Harvard University",
+      "has campuses including",
+      "Longwood Medical Area"
+    ],
+    [
+      "Harvard University",
+      "is located in",
+      "Cambridge"
+    ],
+    [
+      "Harvard College",
+      "is the undergraduate division of",
+      "Harvard University"
+    ],
+    [
+      "Harvard University",
+      "has a faculty attached to",
+      "Harvard Radcliffe Institute"
+    ],
+    [
+      "Harvard alumni, faculty, and researchers",
+      "include",
+      "31 heads of government"
+    ],
+    [
+      "Medical Institution of Harvard University",
+      "was established in",
+      "1782"
+    ]
+  ]
+}

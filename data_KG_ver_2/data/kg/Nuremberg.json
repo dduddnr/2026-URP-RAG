@@ -1,58 +1,63 @@
 {
   "entities": [
-    "Nürnberg Messe",
-    "Erlangen",
     "University of Erlangen-Nuremberg",
-    "city walls",
-    "Martin Behaim",
-    "Technische Hochschule Nürnberg",
-    "Staatstheater Nürnberg",
-    "Holy Roman Empire",
-    "Johann Pachelbel",
-    "Fürth",
-    "Bavaria",
-    "2006 FIFA World Cup",
-    "Albrecht Dürer",
-    "Nuremberg Airport",
-    "University of Technology Nuremberg",
-    "Hans Sachs",
-    "Free Imperial City",
-    "Nuremberg",
-    "Franconia",
-    "Schwabach",
+    "1. FC Nürnberg",
     "Nuremberg trials",
+    "University of Technology Nuremberg",
     "Nuremberg rallies",
-    "Hochschule für Musik Nürnberg",
-    "Old Town",
+    "Schwabach",
+    "Hans Sachs",
+    "Technische Hochschule Nürnberg",
     "Staatsphilharmonie Nürnberg",
-    "Imperial Regalia",
+    "Franconia",
+    "Martin Behaim",
+    "Bavaria",
     "Nuremberg Metropolitan Region",
+    "city walls",
+    "Albrecht Dürer",
+    "Imperial Regalia",
+    "Hochschule für Musik Nürnberg",
+    "Johann Pachelbel",
+    "Nuremberg Airport",
+    "Old Town",
+    "Staatstheater Nürnberg",
+    "Erlangen",
+    "Fürth",
+    "Nürnberg Messe",
     "Nuremberg Castle",
-    "1. FC Nürnberg"
+    "Holy Roman Empire",
+    "Nuremberg",
+    "2006 FIFA World Cup",
+    "Free Imperial City"
   ],
   "edges": [
-    "is the largest city in",
-    "was known for",
-    "developed around",
-    "is a major centre of",
-    "has a population of approximately",
-    "is among",
-    "was associated with",
-    "became a",
-    "was known as the site of",
-    "is located in",
     "is known for its well-preserved",
+    "is located in",
+    "is among",
     "has inhabitants of",
+    "is a major centre of",
+    "became a",
     "has institutions such as",
+    "developed around",
+    "is the largest city in",
+    "was associated with",
+    "was known as the site of",
+    "has a population of approximately",
     "is served by",
+    "was known for",
     "was one of the host cities of",
     "was first mentioned in"
   ],
   "relations": [
     [
       "Nuremberg",
-      "is located in",
-      "Bavaria"
+      "was associated with",
+      "Albrecht Dürer"
+    ],
+    [
+      "Nuremberg",
+      "has institutions such as",
+      "Staatsphilharmonie Nürnberg"
     ],
     [
       "Nuremberg",
@@ -61,23 +66,8 @@
     ],
     [
       "Nuremberg",
-      "was associated with",
-      "Albrecht Dürer"
-    ],
-    [
-      "Nuremberg",
-      "is a major centre of",
-      "transport"
-    ],
-    [
-      "Nuremberg",
-      "has institutions such as",
-      "Staatstheater Nürnberg"
-    ],
-    [
-      "Nuremberg",
-      "was associated with",
-      "Hans Sachs"
+      "developed around",
+      "an imperial castle"
     ],
     [
       "1. FC Nürnberg",
@@ -86,43 +76,13 @@
     ],
     [
       "Nuremberg",
-      "was one of the host cities of",
-      "2006 FIFA World Cup"
-    ],
-    [
-      "Nuremberg",
-      "is served by",
-      "Nuremberg Airport"
-    ],
-    [
-      "Nuremberg",
-      "is the largest city in",
-      "Franconia"
-    ],
-    [
-      "Nuremberg",
       "is a major centre of",
       "education"
     ],
     [
       "Nuremberg",
-      "is a major centre of",
-      "commerce"
-    ],
-    [
-      "Nuremberg",
       "was associated with",
       "Martin Behaim"
-    ],
-    [
-      "Nuremberg",
-      "was known as the site of",
-      "Nuremberg rallies"
-    ],
-    [
-      "Nuremberg",
-      "developed around",
-      "an imperial castle"
     ],
     [
       "Nuremberg",
@@ -136,8 +96,23 @@
     ],
     [
       "Nuremberg",
-      "became a",
-      "Free Imperial City"
+      "has institutions such as",
+      "Staatstheater Nürnberg"
+    ],
+    [
+      "Nuremberg",
+      "is the largest city in",
+      "Franconia"
+    ],
+    [
+      "Nuremberg",
+      "was one of the host cities of",
+      "2006 FIFA World Cup"
+    ],
+    [
+      "Nuremberg",
+      "is a major centre of",
+      "transport"
     ],
     [
       "Nuremberg",
@@ -146,8 +121,18 @@
     ],
     [
       "Nuremberg",
-      "has institutions such as",
-      "Staatsphilharmonie Nürnberg"
+      "became a",
+      "Free Imperial City"
+    ],
+    [
+      "Nuremberg",
+      "is located in",
+      "Bavaria"
+    ],
+    [
+      "Nuremberg",
+      "has inhabitants of",
+      "546,397"
     ],
     [
       "Nuremberg",
@@ -156,8 +141,23 @@
     ],
     [
       "Nuremberg",
-      "has inhabitants of",
-      "546,397"
+      "was known as the site of",
+      "Nuremberg rallies"
+    ],
+    [
+      "Nuremberg",
+      "is a major centre of",
+      "commerce"
+    ],
+    [
+      "Nuremberg",
+      "is served by",
+      "Nuremberg Airport"
+    ],
+    [
+      "Nuremberg",
+      "was associated with",
+      "Hans Sachs"
     ]
   ]
 }

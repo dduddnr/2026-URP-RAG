@@ -1,0 +1,184 @@
+{
+  "entities": [
+    "Associate Members' Cup",
+    "Bournemouth",
+    "Fourth Division",
+    "Premier League",
+    "Kings Park",
+    "League Two",
+    "League One",
+    "A.F.C. Bournemouth",
+    "Eddie Howe",
+    "Andoni Iraola",
+    "Third Division South Cup",
+    "Dorset",
+    "England",
+    "Third Division South",
+    "Scott Parker",
+    "Bournemouth & Boscombe Athletic",
+    "Football League",
+    "Boscombe",
+    "Championship",
+    "UEFA Europa League",
+    "Third Division"
+  ],
+  "edges": [
+    "was elected into",
+    "entered administration for a second time and were relegated back into",
+    "earned their highest ever league finish by finishing",
+    "returned in",
+    "achieved a second-place finish in",
+    "was formed as",
+    "is located in",
+    "remained in",
+    "won",
+    "appointed",
+    "gained promotion by winning",
+    "won a Championship title in",
+    "was placed in",
+    "is based in",
+    "was known as",
+    "won three promotions in",
+    "suffered relegation in",
+    "competes in",
+    "entered administration in",
+    "qualified for"
+  ],
+  "relations": [
+    [
+      "A.F.C. Bournemouth",
+      "achieved a second-place finish in",
+      "League Two"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "returned in",
+      "2022"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "is based in",
+      "Kings Park"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "won",
+      "Third Division South Cup"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "qualified for",
+      "UEFA Europa League"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "was elected into",
+      "Football League"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "remained in",
+      "Premier League"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "earned their highest ever league finish by finishing",
+      "6th in 2025–26"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "entered administration for a second time and were relegated back into",
+      "League Two"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "appointed",
+      "Eddie Howe"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "was formed as",
+      "Boscombe"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "won a Championship title in",
+      "2014–15"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "is located in",
+      "Bournemouth"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "suffered relegation in",
+      "Fourth Division"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "is located in",
+      "Dorset"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "is located in",
+      "Boscombe"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "was known as",
+      "Bournemouth & Boscombe Athletic"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "gained promotion by winning",
+      "play-offs"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "won",
+      "Third Division title"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "suffered relegation in",
+      "2020"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "is located in",
+      "England"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "was placed in",
+      "Third Division"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "achieved a second-place finish in",
+      "League One"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "won three promotions in",
+      "six years"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "entered administration in",
+      "1997"
+    ],
+    [
+      "A.F.C. Bournemouth",
+      "won",
+      "Associate Members' Cup"
+    ]
+  ]
+}

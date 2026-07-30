@@ -1,0 +1,176 @@
+{
+  "entities": [
+    "Cheshire County League",
+    "Associate Members' Cup",
+    "League Cup",
+    "Fourth Division",
+    "Football League Trophy",
+    "FA Trophy",
+    "Wigan Athletic Football Club",
+    "Lancashire Combination",
+    "2021–22",
+    "FA Cup",
+    "Northern Premier League",
+    "League Two",
+    "League One",
+    "Bolton Wanderers",
+    "Springfield Park",
+    "England",
+    "Second Division",
+    "administration",
+    "Brick Community Stadium",
+    "2023–24",
+    "May 2023",
+    "Manchester City",
+    "Greater Manchester",
+    "Football League",
+    "Wigan",
+    "EFL League One",
+    "Championship",
+    "UEFA Europa League",
+    "Third Division",
+    "2020–21"
+  ],
+  "edges": [
+    "was placed in",
+    "is based in",
+    "was elected to",
+    "has played at",
+    "is located in",
+    "secured promotion out of",
+    "competed in",
+    "won",
+    "played at",
+    "beat",
+    "lost in",
+    "was placed into",
+    "competes in",
+    "started the 2023–24 season with",
+    "gained a place in",
+    "was relegated",
+    "was relegated from",
+    "regards"
+  ],
+  "relations": [
+    [
+      "Wigan Athletic Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "secured promotion out of",
+      "Championship"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "competed in",
+      "Cheshire County League"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "Associate Members' Cup"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "FA Cup"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "started the 2023–24 season with",
+      "minus eight points"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "was relegated",
+      "Premier League"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "is based in",
+      "Wigan"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "played at",
+      "Springfield Park"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "competes in",
+      "EFL League One"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "was placed into",
+      "administration"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "has played at",
+      "Brick Community Stadium"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "Third Division"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "beat",
+      "Manchester City"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "League One"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "Football League Trophy"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "lost in",
+      "League Cup"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "is located in",
+      "Greater Manchester"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "was elected to",
+      "Football League"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "regards",
+      "Bolton Wanderers"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "was placed in",
+      "Lancashire Combination"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "gained a place in",
+      "UEFA Europa League"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "won",
+      "Second Division"
+    ],
+    [
+      "Wigan Athletic Football Club",
+      "was relegated from",
+      "Championship"
+    ]
+  ]
+}

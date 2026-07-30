@@ -1,0 +1,74 @@
+{
+  "entities": [
+    "male",
+    "male reproductive organs",
+    "humans",
+    "ovum",
+    "gender identity",
+    "fertilisation",
+    "female",
+    "sperm",
+    "male organism",
+    "gender",
+    "testosterone",
+    "Y chromosome",
+    "gender role"
+  ],
+  "edges": [
+    "codes for",
+    "have",
+    "fuses with",
+    "produces",
+    "is related to",
+    "can refer to",
+    "cannot reproduce sexually without access to",
+    "develops"
+  ],
+  "relations": [
+    [
+      "male mammals",
+      "have",
+      "Y chromosome"
+    ],
+    [
+      "sperm",
+      "fuses with",
+      "ovum"
+    ],
+    [
+      "testosterone",
+      "develops",
+      "male reproductive organs"
+    ],
+    [
+      "gender",
+      "is related to",
+      "gender identity"
+    ],
+    [
+      "Y chromosome",
+      "codes for",
+      "production of testosterone"
+    ],
+    [
+      "male organism",
+      "cannot reproduce sexually without access to",
+      "ovum"
+    ],
+    [
+      "male",
+      "produces",
+      "sperm"
+    ],
+    [
+      "male",
+      "can refer to",
+      "gender"
+    ],
+    [
+      "gender",
+      "is related to",
+      "gender role"
+    ]
+  ]
+}

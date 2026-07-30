@@ -1,0 +1,110 @@
+{
+  "entities": [
+    "90th overall",
+    "Club Sportivo Sergipe",
+    "Sergipe",
+    "Confiança",
+    "Estádio João Hora de Oliveira",
+    "CBF's national club ranking",
+    "Sparta Prague",
+    "six state championships",
+    "state of Sergipe",
+    "Ghana national team",
+    "Argentina youth team",
+    "Alianza Lima",
+    "Aracaju",
+    "8,000",
+    "17 October 1909"
+  ],
+  "edges": [
+    "is the only team to have won",
+    "is in",
+    "was founded on",
+    "is the third-best ranked team from",
+    "is the only team from",
+    "is a",
+    "has played against",
+    "is ranked",
+    "has a home field",
+    "has a capacity of",
+    "is from",
+    "has a main rival"
+  ],
+  "relations": [
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Argentina youth team"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Sparta Prague"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is from",
+      "Aracaju"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "was founded on",
+      "17 October 1909"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Ghana national team"
+    ],
+    [
+      "Sergipe",
+      "is the only team to have won",
+      "six state championships"
+    ],
+    [
+      "Sergipe",
+      "has a home field",
+      "Estádio João Hora de Oliveira"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "has played against",
+      "Alianza Lima"
+    ],
+    [
+      "Sergipe",
+      "has a main rival",
+      "Confiança"
+    ],
+    [
+      "Estádio João Hora de Oliveira",
+      "has a capacity of",
+      "8,000"
+    ],
+    [
+      "Sergipe",
+      "is the third-best ranked team from",
+      "state of Sergipe"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is a",
+      "Brazilian football team"
+    ],
+    [
+      "Sergipe",
+      "is ranked",
+      "90th overall"
+    ],
+    [
+      "Club Sportivo Sergipe",
+      "is the only team from",
+      "state of Sergipe"
+    ],
+    [
+      "Sergipe",
+      "is in",
+      "CBF's national club ranking"
+    ]
+  ]
+}

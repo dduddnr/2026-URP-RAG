@@ -1,0 +1,66 @@
+{
+  "entities": [
+    "attendance games",
+    "basketball club",
+    "European-wide competition",
+    "Meridian Sports Complex",
+    "seating capacity",
+    "7,000 seat",
+    "Kyiv",
+    "Kyiv Sports Palace",
+    "BC Kyiv",
+    "Ukrainian",
+    "1,500"
+  ],
+  "edges": [
+    "has home court at",
+    "participates in",
+    "has seating capacity of",
+    "is based in",
+    "is a",
+    "hosts",
+    "holds games at"
+  ],
+  "relations": [
+    [
+      "BC Kyiv",
+      "is based in",
+      "Kyiv"
+    ],
+    [
+      "BC Kyiv",
+      "has home court at",
+      "Meridian Sports Complex"
+    ],
+    [
+      "Kyiv Sports Palace",
+      "has seating capacity of",
+      "7,000 seat"
+    ],
+    [
+      "BC Kyiv",
+      "participates in",
+      "European-wide competition"
+    ],
+    [
+      "BC Kyiv",
+      "is a",
+      "basketball club"
+    ],
+    [
+      "BC Kyiv",
+      "holds games at",
+      "Kyiv Sports Palace"
+    ],
+    [
+      "BC Kyiv",
+      "hosts",
+      "attendance games"
+    ],
+    [
+      "Meridian Sports Complex",
+      "has seating capacity of",
+      "1,500"
+    ]
+  ]
+}

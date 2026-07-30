@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "Spanish football team",
+    "Segunda Federación – Group 5",
+    "Unión Balompédica Conquense",
+    "Castile-La Mancha",
+    "Estadio La Fuensanta",
+    "6,000-seat capacity",
+    "1946",
+    "Cuenca"
+  ],
+  "edges": [
+    "is based in",
+    "was founded in",
+    "is located in",
+    "plays in",
+    "is a",
+    "holds home games at",
+    "has a capacity of"
+  ],
+  "relations": [
+    [
+      "Estadio La Fuensanta",
+      "has a capacity of",
+      "6,000-seat capacity"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "is a",
+      "Spanish football team"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "holds home games at",
+      "Estadio La Fuensanta"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "was founded in",
+      "1946"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "is based in",
+      "Cuenca"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "plays in",
+      "Segunda Federación – Group 5"
+    ],
+    [
+      "Unión Balompédica Conquense",
+      "is located in",
+      "Castile-La Mancha"
+    ]
+  ]
+}

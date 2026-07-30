@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "Irish Football Association",
+    "Northern Ireland under-21s",
+    "European Under-21 Football Championship campaign",
+    "youth football",
+    "senior side",
+    "Northern Ireland",
+    "players",
+    "grandparents",
+    "Northern Ireland national under-21 football team",
+    "Northern Ireland U21s",
+    "parents",
+    "UEFA European Under-21 Football Championship"
+  ],
+  "edges": [
+    "is open to",
+    "is controlled by",
+    "can play for",
+    "can be up to",
+    "competes in",
+    "can be born in",
+    "is the highest level of",
+    "is also known as",
+    "is for",
+    "can have parents or grandparents born in",
+    "can play at any level including"
+  ],
+  "relations": [
+    [
+      "players",
+      "can be born in",
+      "Northern Ireland"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is controlled by",
+      "Irish Football Association"
+    ],
+    [
+      "national under-21 team",
+      "is the highest level of",
+      "youth football"
+    ],
+    [
+      "players",
+      "can play for",
+      "U21s"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is for",
+      "Northern Irish players"
+    ],
+    [
+      "players",
+      "can play at any level including",
+      "senior side"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is open to",
+      "players"
+    ],
+    [
+      "players",
+      "can be up to",
+      "23 years old"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is also known as",
+      "Northern Ireland under-21s"
+    ],
+    [
+      "players",
+      "can have parents or grandparents born in",
+      "Northern Ireland"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "is also known as",
+      "Northern Ireland U21s"
+    ],
+    [
+      "Northern Ireland national under-21 football team",
+      "competes in",
+      "UEFA European Under-21 Football Championship"
+    ]
+  ]
+}

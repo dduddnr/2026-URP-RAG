@@ -1,0 +1,184 @@
+{
+  "entities": [
+    "Campeonato Brasileiro – Série A",
+    "Sport Club do Recife",
+    "Santa Cruz Futebol Clube",
+    "Givanildo",
+    "Recife",
+    "Nunes",
+    "Clássico das Multidões",
+    "Copa Sudamericana",
+    "Ramón",
+    "Copa Pernambuco",
+    "Santa Cruz",
+    "Clube Náutico Capibaribe",
+    "Campeonato Pernambucano",
+    "Fumanchu",
+    "Campeonato Brasileiro – Série C",
+    "Copa do Nordeste",
+    "Supercampeonato Pernambucano",
+    "white",
+    "red",
+    "Clássico das Emoções",
+    "black",
+    "Estádio do Arruda",
+    "Fita Azul"
+  ],
+  "edges": [
+    "has state titles including",
+    "is better known as",
+    "has achievements including",
+    "won state titles between",
+    "is the sixth largest in",
+    "was founded on",
+    "plays its matches at",
+    "won",
+    "is the first club in the Northeast Region to reach",
+    "plays the Clássico das Emoções with",
+    "has sporting rivals including",
+    "has official colors",
+    "is nicknamed",
+    "is based in",
+    "came in fourth place in",
+    "is the second most popular club in",
+    "inaugurated",
+    "participated in",
+    "had its best finish in",
+    "plays the Clássico das Multidões with",
+    "is the only three-time",
+    "is considered the best in its history during",
+    "has wins in"
+  ],
+  "relations": [
+    [
+      "Santa Cruz Futebol Clube",
+      "plays the Clássico das Emoções with",
+      "Clube Náutico Capibaribe"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has sporting rivals including",
+      "Sport Club do Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is the second most popular club in",
+      "Pernambuco"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is based in",
+      "Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is the only three-time",
+      "Pernambuco Super Champion"
+    ],
+    [
+      "Estádio do Arruda",
+      "is the sixth largest in",
+      "Brazil"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "plays its matches at",
+      "Estádio do Arruda"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is better known as",
+      "Santa Cruz"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has official colors",
+      "black, white and red"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has achievements including",
+      "Campeonato Brasileiro – Série C"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "was founded on",
+      "3 February 1914"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has wins in",
+      "Copa Pernambuco"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "participated in",
+      "2016 Copa Sudamericana"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is the first club in the Northeast Region to reach",
+      "10,000 goals scored"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has state titles including",
+      "Campeonato Pernambucano"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "won",
+      "1979 Fita Azul"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "inaugurated",
+      "Estádio do Arruda"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "came in fourth place in",
+      "1975"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "won state titles between",
+      "1969 and 1983"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "came in fourth place in",
+      "1960"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has achievements including",
+      "Copa do Nordeste"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is considered the best in its history during",
+      "its golden age"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "has sporting rivals including",
+      "Clube Náutico Capibaribe"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "is nicknamed",
+      "O Mais Querido das Multidões"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "plays the Clássico das Multidões with",
+      "Sport Club do Recife"
+    ],
+    [
+      "Santa Cruz Futebol Clube",
+      "had its best finish in",
+      "Campeonato Brasileiro – Série A"
+    ]
+  ]
+}

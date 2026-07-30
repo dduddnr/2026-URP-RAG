@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "North American Soccer League",
+    "Rochdale",
+    "Peter Anthony Creamer",
+    "Football League",
+    "Middlesbrough",
+    "Doncaster Rovers",
+    "Dallas Tornado",
+    "English",
+    "Hartlepool United",
+    "professional footballer",
+    "1953",
+    "defender",
+    "York City"
+  ],
+  "edges": [
+    "played in the",
+    "played for",
+    "is",
+    "is a",
+    "played as a"
+  ],
+  "relations": [
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "Doncaster Rovers"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played in the",
+      "North American Soccer League"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played in the",
+      "Football League"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "is",
+      "English"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "Rochdale"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "Middlesbrough"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played as a",
+      "defender"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "Dallas Tornado"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "Hartlepool United"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "is a",
+      "professional footballer"
+    ],
+    [
+      "Peter Anthony Creamer",
+      "played for",
+      "York City"
+    ]
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "entities": [
+    "Walter Winterbottom",
+    "Cheshire",
+    "Warren Bradley",
+    "Manchester United ex-players association",
+    "Hatfield College",
+    "Durham City",
+    "Munich air disaster",
+    "Deane School",
+    "Bury",
+    "Stretford",
+    "Northern League",
+    "Bolton Wanderers",
+    "Bolton",
+    "Northwich Victoria",
+    "Hyde",
+    "England",
+    "Manchester United",
+    "Hyde Grammar School",
+    "Macclesfield Town",
+    "footballer",
+    "Bishop Auckland",
+    "University of Durham",
+    "Matt Busby",
+    "Bangor City"
+  ],
+  "edges": [
+    "joined",
+    "was educated at",
+    "is in",
+    "was selected by",
+    "appeared for",
+    "was a headteacher at",
+    "played for",
+    "worked with",
+    "is part of",
+    "was loaned to",
+    "was transferred to",
+    "is a",
+    "attended",
+    "was impressed by",
+    "was born in",
+    "made his first-team debut for",
+    "was a"
+  ],
+  "relations": [
+    [
+      "Hyde",
+      "is in",
+      "Cheshire"
+    ],
+    [
+      "Warren Bradley",
+      "was educated at",
+      "Hyde Grammar School"
+    ],
+    [
+      "Warren Bradley",
+      "was transferred to",
+      "Bury"
+    ],
+    [
+      "Warren Bradley",
+      "was a headteacher at",
+      "Deane School"
+    ],
+    [
+      "Hatfield College",
+      "is part of",
+      "University of Durham"
+    ],
+    [
+      "Warren Bradley",
+      "worked with",
+      "Manchester United ex-players association"
+    ],
+    [
+      "Warren Bradley",
+      "made his first-team debut for",
+      "Manchester United"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "England"
+    ],
+    [
+      "Warren Bradley",
+      "was born in",
+      "Hyde"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Manchester United"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Bangor City"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Bolton Wanderers"
+    ],
+    [
+      "Warren Bradley",
+      "appeared for",
+      "Durham City"
+    ],
+    [
+      "Warren Bradley",
+      "attended",
+      "Hatfield College"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Macclesfield Town"
+    ],
+    [
+      "Bishop Auckland",
+      "is a",
+      "Northern League"
+    ],
+    [
+      "Matt Busby",
+      "was impressed by",
+      "Warren Bradley"
+    ],
+    [
+      "Warren Bradley",
+      "played for",
+      "Northwich Victoria"
+    ],
+    [
+      "Warren Bradley",
+      "joined",
+      "Bishop Auckland"
+    ],
+    [
+      "Warren Bradley",
+      "was selected by",
+      "Walter Winterbottom"
+    ],
+    [
+      "Warren Bradley",
+      "was loaned to",
+      "Manchester United"
+    ],
+    [
+      "Warren Bradley",
+      "was a",
+      "footballer"
+    ]
+  ]
+}

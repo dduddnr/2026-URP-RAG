@@ -1,0 +1,147 @@
+{
+  "entities": [
+    "David Dobkin",
+    "domestic box office",
+    "Bradley Cooper",
+    "July 15, 2005",
+    "romantic comedy film",
+    "New Line Cinema",
+    "Bob Fisher",
+    "American",
+    "Rachel McAdams",
+    "Wedding Crashers",
+    "U.S. Treasury Secretary",
+    "R-rated comedies",
+    "Owen Wilson",
+    "$40 million",
+    "Isla Fisher",
+    "Christopher Walken",
+    "$288.5 million",
+    "commercial success",
+    "critical success",
+    "2005",
+    "Jane Seymour",
+    "Steve Faber",
+    "adult-oriented",
+    "6th highest grossing film of 2005",
+    "Vince Vaughn",
+    "first R-rated comedy"
+  ],
+  "edges": [
+    "was directed by",
+    "was released by",
+    "was written by",
+    "was released on",
+    "stars",
+    "is a",
+    "grossed",
+    "was the",
+    "was the first",
+    "achieved",
+    "features",
+    "helped to revive the popularity of",
+    "had a budget of"
+  ],
+  "relations": [
+    [
+      "Wedding Crashers",
+      "stars",
+      "Owen Wilson"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Bradley Cooper"
+    ],
+    [
+      "Wedding Crashers",
+      "was released by",
+      "New Line Cinema"
+    ],
+    [
+      "Wedding Crashers",
+      "was written by",
+      "Steve Faber"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Christopher Walken"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Isla Fisher"
+    ],
+    [
+      "Wedding Crashers",
+      "was the",
+      "6th highest grossing film of 2005"
+    ],
+    [
+      "Wedding Crashers",
+      "was the first",
+      "R-rated comedy to make $200 million at the domestic box office"
+    ],
+    [
+      "Wedding Crashers",
+      "is a",
+      "2005 American romantic comedy film"
+    ],
+    [
+      "Wedding Crashers",
+      "grossed",
+      "$288.5 million"
+    ],
+    [
+      "Wedding Crashers",
+      "achieved",
+      "commercial success"
+    ],
+    [
+      "Wedding Crashers",
+      "features",
+      "Jane Seymour"
+    ],
+    [
+      "Wedding Crashers",
+      "was written by",
+      "Bob Fisher"
+    ],
+    [
+      "Wedding Crashers",
+      "helped to revive the popularity of",
+      "adult-oriented R-rated comedies"
+    ],
+    [
+      "Wedding Crashers",
+      "achieved",
+      "critical success"
+    ],
+    [
+      "Wedding Crashers",
+      "had a budget of",
+      "$40 million"
+    ],
+    [
+      "Wedding Crashers",
+      "was directed by",
+      "David Dobkin"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Vince Vaughn"
+    ],
+    [
+      "Wedding Crashers",
+      "was released on",
+      "July 15, 2005"
+    ],
+    [
+      "Wedding Crashers",
+      "stars",
+      "Rachel McAdams"
+    ]
+  ]
+}

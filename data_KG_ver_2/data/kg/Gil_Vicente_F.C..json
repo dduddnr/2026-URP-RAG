@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "Barcelos",
+    "women's football team",
+    "2021–22",
+    "Primeira Liga",
+    "Segunda Liga",
+    "Gil Vicente Futebol Clube",
+    "Gil Vicente",
+    "1924",
+    "Primeira Liga 1990–91",
+    "Gil Vicente (playwright)",
+    "Portugal",
+    "1999–2000",
+    "Estádio Cidade de Barcelos",
+    "2018–19 season"
+  ],
+  "edges": [
+    "first played in",
+    "plays in",
+    "won back promotion by winning",
+    "has participated in",
+    "created a women's football team for",
+    "competes in",
+    "had highest league finishes of",
+    "has been relegated to",
+    "plays home matches at",
+    "has played",
+    "is named after",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Gil Vicente Futebol Clube",
+      "had highest league finishes of",
+      "two fifth-places in 1999–2000 and 2021–22"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "was founded in",
+      "1924"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "is named after",
+      "Gil Vicente (playwright)"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "won back promotion by winning",
+      "Segunda Liga"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "created a women's football team for",
+      "2018–19 season"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "has participated in",
+      "the top tier"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "first played in",
+      "Primeira Liga 1990–91"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "plays in",
+      "Barcelos"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "has played",
+      "six straight seasons in it"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "has been relegated to",
+      "the second tier"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "competes in",
+      "Primeira Liga"
+    ],
+    [
+      "Gil Vicente Futebol Clube",
+      "plays home matches at",
+      "Estádio Cidade de Barcelos"
+    ]
+  ]
+}

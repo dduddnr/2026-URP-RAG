@@ -1,0 +1,203 @@
+{
+  "entities": [
+    "Ontario",
+    "Great Lakes drainage system",
+    "Lake Erie",
+    "Southern Ontario",
+    "manufacturing",
+    "38.5% of the country's population",
+    "14 million people",
+    "Minnesota",
+    "1,700 mi border",
+    "Hudson Bay",
+    "2,700-kilometre border",
+    "Height of Land Portage",
+    "Toronto",
+    "Central Canada",
+    "U.S. states",
+    "Ohio",
+    "Ottawa",
+    "James Bay",
+    "provincial capital",
+    "2021 Canadian census",
+    "Michigan",
+    "mining",
+    "Canada",
+    "Quebec",
+    "Pennsylvania",
+    "Manitoba",
+    "forestry",
+    "New York",
+    "Northern Ontario",
+    "agriculture"
+  ],
+  "edges": [
+    "is home to its most populous city",
+    "is home to the nation's capital",
+    "has significant industry of",
+    "is bordered by the province of",
+    "is located in",
+    "is the second-largest province by total area (after)",
+    "is the country's most populous province",
+    "includes",
+    "is home to",
+    "contains the great majority of",
+    "is the southernmost province of",
+    "is bordered by",
+    "depends highly on",
+    "follows rivers and lakes of",
+    "is bordered by the U.S. states of",
+    "is equivalent to",
+    "is",
+    "has major industries of",
+    "has a border of",
+    "is sparsely populated with"
+  ],
+  "relations": [
+    [
+      "Ontario",
+      "is home to the nation's capital",
+      "Ottawa"
+    ],
+    [
+      "Ontario",
+      "is home to its most populous city",
+      "Toronto"
+    ],
+    [
+      "Ontario",
+      "includes",
+      "Height of Land Portage"
+    ],
+    [
+      "Southern Ontario",
+      "contains the great majority of",
+      "Ontario's arable land"
+    ],
+    [
+      "14 million people",
+      "is",
+      "38.5% of the country's population"
+    ],
+    [
+      "Ontario",
+      "is located in",
+      "Central Canada"
+    ],
+    [
+      "Ontario",
+      "is bordered by the province of",
+      "Manitoba"
+    ],
+    [
+      "Ontario",
+      "is bordered by",
+      "James Bay"
+    ],
+    [
+      "Northern Ontario",
+      "is sparsely populated with",
+      "cold winters"
+    ],
+    [
+      "Southern Ontario",
+      "contains the great majority of",
+      "Ontario's population"
+    ],
+    [
+      "Southern Ontario",
+      "has significant industry of",
+      "agriculture"
+    ],
+    [
+      "Ontario",
+      "is the southernmost province of",
+      "Canada"
+    ],
+    [
+      "Ontario",
+      "has a border of",
+      "2,700-kilometre border"
+    ],
+    [
+      "Southern Ontario",
+      "depends highly on",
+      "manufacturing"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. states of",
+      "Minnesota"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. states of",
+      "Pennsylvania"
+    ],
+    [
+      "Toronto",
+      "is",
+      "Ontario's provincial capital"
+    ],
+    [
+      "Ontario",
+      "is bordered by",
+      "Hudson Bay"
+    ],
+    [
+      "Northern Ontario",
+      "is sparsely populated with",
+      "heavy forestation"
+    ],
+    [
+      "Ontario",
+      "is home to",
+      "14 million people"
+    ],
+    [
+      "2,700-kilometre border",
+      "is equivalent to",
+      "1,700 mi border"
+    ],
+    [
+      "Ontario",
+      "follows rivers and lakes of",
+      "Great Lakes drainage system"
+    ],
+    [
+      "Northern Ontario",
+      "has major industries of",
+      "forestry"
+    ],
+    [
+      "Ontario",
+      "is the second-largest province by total area (after)",
+      "Quebec"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. states of",
+      "Ohio"
+    ],
+    [
+      "Ontario",
+      "is the country's most populous province",
+      "Canada"
+    ],
+    [
+      "Northern Ontario",
+      "has major industries of",
+      "mining"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. states of",
+      "Michigan"
+    ],
+    [
+      "Ontario",
+      "is bordered by the U.S. states of",
+      "New York"
+    ]
+  ]
+}

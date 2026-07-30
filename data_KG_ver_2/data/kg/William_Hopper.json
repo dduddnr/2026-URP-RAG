@@ -1,0 +1,69 @@
+{
+  "entities": [
+    "1950s",
+    "stage actor",
+    "Hedda Hopper",
+    "American",
+    "United States Navy",
+    "World War II",
+    "television actor",
+    "William DeWolf Hopper Jr.",
+    "Paul Drake",
+    "1930s",
+    "Perry Mason",
+    "80 feature films",
+    "CBS",
+    "William Wellman",
+    "1940s",
+    "January 26, 1915",
+    "William Hopper",
+    "DeWolf Hopper",
+    "film actor",
+    "March 6, 1970"
+  ],
+  "edges": [
+    "appeared in",
+    "is in the CBS television series",
+    "served in",
+    "is the only child of",
+    "was persuaded by",
+    "is best known for his portrayal of"
+  ],
+  "relations": [
+    [
+      "William Hopper",
+      "is best known for his portrayal of",
+      "Paul Drake"
+    ],
+    [
+      "William Hopper",
+      "is the only child of",
+      "DeWolf Hopper"
+    ],
+    [
+      "Paul Drake",
+      "is in the CBS television series",
+      "Perry Mason"
+    ],
+    [
+      "William Hopper",
+      "was persuaded by",
+      "William Wellman"
+    ],
+    [
+      "William Hopper",
+      "served in",
+      "United States Navy"
+    ],
+    [
+      "William Hopper",
+      "is the only child of",
+      "Hedda Hopper"
+    ],
+    [
+      "William Hopper",
+      "appeared in",
+      "80 feature films"
+    ]
+  ]
+}

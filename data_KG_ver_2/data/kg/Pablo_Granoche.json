@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "FC Clivense",
+    "Pablo Granoche",
+    "Uruguayan",
+    "Pablo Mariano Granoche Louro",
+    "Eccellenza amateur league",
+    "striker",
+    "assistant coach",
+    "former player",
+    "El Diablo",
+    "football coach"
+  ],
+  "edges": [
+    "is in",
+    "works for",
+    "is",
+    "is a",
+    "is in charge as",
+    "played as a",
+    "was nicknamed"
+  ],
+  "relations": [
+    [
+      "FC Clivense",
+      "is in",
+      "Eccellenza amateur league"
+    ],
+    [
+      "Pablo Granoche",
+      "is",
+      "Pablo Mariano Granoche Louro"
+    ],
+    [
+      "Pablo Granoche",
+      "is a",
+      "Uruguayan"
+    ],
+    [
+      "Pablo Granoche",
+      "is a",
+      "former player"
+    ],
+    [
+      "Pablo Granoche",
+      "works for",
+      "FC Clivense"
+    ],
+    [
+      "Pablo Granoche",
+      "was nicknamed",
+      "El Diablo"
+    ],
+    [
+      "Pablo Granoche",
+      "played as a",
+      "striker"
+    ],
+    [
+      "Pablo Granoche",
+      "is in charge as",
+      "assistant coach"
+    ],
+    [
+      "Pablo Granoche",
+      "is a",
+      "football coach"
+    ]
+  ]
+}

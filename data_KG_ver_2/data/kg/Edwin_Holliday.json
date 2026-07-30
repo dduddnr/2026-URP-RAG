@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "outside left",
+    "4 October 2021",
+    "English",
+    "17 June 1939",
+    "Edwin Holliday",
+    "professional footballer"
+  ],
+  "edges": [
+    "played as",
+    "died on",
+    "was",
+    "born on"
+  ],
+  "relations": [
+    [
+      "Edwin Holliday",
+      "played as",
+      "outside left"
+    ],
+    [
+      "Edwin Holliday",
+      "was",
+      "professional footballer"
+    ],
+    [
+      "Edwin Holliday",
+      "died on",
+      "4 October 2021"
+    ],
+    [
+      "Edwin Holliday",
+      "born on",
+      "17 June 1939"
+    ],
+    [
+      "Edwin Holliday",
+      "was",
+      "English"
+    ]
+  ]
+}

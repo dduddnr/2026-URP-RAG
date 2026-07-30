@@ -1,0 +1,112 @@
+{
+  "entities": [
+    "academy",
+    "Chilean Primera División",
+    "youth Chilean champions",
+    "7 June 1947",
+    "Estadio Huachipato-CAP Acero",
+    "youth talent production",
+    "Huachipato FC",
+    "Talcahuano",
+    "Chilean professional football clubs",
+    "steel mill",
+    "Chilean top flight title",
+    "U-20 Copa Libertadores",
+    "Southern Chile",
+    "Chilean champions",
+    "Chilean football club"
+  ],
+  "edges": [
+    "is based in",
+    "was founded on",
+    "plays in",
+    "won",
+    "is known for",
+    "was founded by",
+    "is a",
+    "is the only team from",
+    "plays its home games at",
+    "qualified for",
+    "has been",
+    "qualified as",
+    "owns",
+    "is one of"
+  ],
+  "relations": [
+    [
+      "Huachipato FC",
+      "is a",
+      "Chilean football club"
+    ],
+    [
+      "Huachipato FC",
+      "is based in",
+      "Talcahuano"
+    ],
+    [
+      "Huachipato FC",
+      "plays in",
+      "Chilean Primera División"
+    ],
+    [
+      "Huachipato FC",
+      "plays its home games at",
+      "Estadio Huachipato-CAP Acero"
+    ],
+    [
+      "Huachipato FC",
+      "won",
+      "Chilean top flight title"
+    ],
+    [
+      "Huachipato FC",
+      "is known for",
+      "academy"
+    ],
+    [
+      "Huachipato FC",
+      "is known for",
+      "youth talent production"
+    ],
+    [
+      "Huachipato FC",
+      "is one of",
+      "Chilean professional football clubs"
+    ],
+    [
+      "Huachipato FC",
+      "was founded by",
+      "workers of the steel mill"
+    ],
+    [
+      "Huachipato FC",
+      "has been",
+      "Chilean champions"
+    ],
+    [
+      "Huachipato FC",
+      "is the only team from",
+      "Southern Chile"
+    ],
+    [
+      "Huachipato FC",
+      "qualified for",
+      "U-20 Copa Libertadores"
+    ],
+    [
+      "Huachipato FC",
+      "was founded on",
+      "7 June 1947"
+    ],
+    [
+      "Huachipato FC",
+      "owns",
+      "Estadio Huachipato-CAP Acero"
+    ],
+    [
+      "Huachipato FC",
+      "qualified as",
+      "youth Chilean champions"
+    ]
+  ]
+}

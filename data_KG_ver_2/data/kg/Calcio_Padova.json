@@ -1,0 +1,121 @@
+{
+  "entities": [
+    "Serie B",
+    "Padova",
+    "Padua",
+    "Veneto",
+    "2014–15 Serie D",
+    "white",
+    "red",
+    "2014",
+    "Calcio Padova",
+    "1996",
+    "Serie A",
+    "phoenix club",
+    "2014–15 Lega Pro",
+    "Football Padova",
+    "liquidation",
+    "2015",
+    "Italian football club",
+    "Biancoscudati Padova"
+  ],
+  "edges": [
+    "was expelled from",
+    "is an",
+    "is based in",
+    "is located in",
+    "was refounded in",
+    "was renamed to allow",
+    "was allowed to use the original name in",
+    "was in the process of",
+    "is a",
+    "is commonly referred to as",
+    "currently plays in",
+    "was awarded to",
+    "was awarded for",
+    "last played in",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Calcio Padova",
+      "is located in",
+      "Veneto"
+    ],
+    [
+      "Calcio Padova",
+      "was awarded to",
+      "Biancoscudati Padova"
+    ],
+    [
+      "Biancoscudati Padova",
+      "was awarded for",
+      "2014–15 Serie D"
+    ],
+    [
+      "Calcio Padova",
+      "is a",
+      "phoenix club"
+    ],
+    [
+      "Calcio Padova",
+      "is based in",
+      "Padua"
+    ],
+    [
+      "Football Padova",
+      "was renamed to allow",
+      "Calcio Padova"
+    ],
+    [
+      "Calcio Padova",
+      "is commonly referred to as",
+      "Padova"
+    ],
+    [
+      "Calcio Padova",
+      "last played in",
+      "Serie A"
+    ],
+    [
+      "Calcio Padova",
+      "was in the process of",
+      "liquidation"
+    ],
+    [
+      "Calcio Padova",
+      "was allowed to use the original name in",
+      "2015"
+    ],
+    [
+      "Calcio Padova",
+      "was expelled from",
+      "2014–15 Lega Pro"
+    ],
+    [
+      "Calcio Padova",
+      "currently plays in",
+      "Serie B"
+    ],
+    [
+      "Calcio Padova",
+      "was refounded in",
+      "2014"
+    ],
+    [
+      "Calcio Padova",
+      "is an",
+      "Italian football club"
+    ],
+    [
+      "Calcio Padova",
+      "last played in",
+      "1996"
+    ],
+    [
+      "Calcio Padova",
+      "was founded in",
+      "1910"
+    ]
+  ]
+}

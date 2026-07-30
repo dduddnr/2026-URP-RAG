@@ -1,0 +1,172 @@
+{
+  "entities": [
+    "Acts of Union 1707",
+    "Charles I",
+    "Norman Conquest",
+    "Norman/Angevin",
+    "Tudor dynasty",
+    "Æthelstan",
+    "British Empire",
+    "Union of the Crowns",
+    "French throne",
+    "Edward III",
+    "Alfred the Great",
+    "Edward the Elder",
+    "English Renaissance",
+    "Parliament of Great Britain",
+    "Hundred Years' War",
+    "York",
+    "John Beaufort",
+    "Tudor",
+    "Winchester",
+    "Westminster",
+    "House of Wessex",
+    "Stuart",
+    "Henry VII",
+    "Civil War",
+    "Lancaster",
+    "Elizabeth I",
+    "Edward I",
+    "Henry VIII",
+    "Margaret Tudor",
+    "Interregnum",
+    "Scotland",
+    "City of London",
+    "Kingdom of England",
+    "Wales",
+    "Plantagenet",
+    "Cnut the Great",
+    "Wars of the Roses",
+    "Great Britain",
+    "James VI and I",
+    "Laws in Wales Acts",
+    "Glorious Revolution",
+    "Henry II",
+    "Ireland",
+    "United Kingdom",
+    "Calais"
+  ],
+  "edges": [
+    "conquered the last remaining Viking kingdom,",
+    "was among the most powerful states in",
+    "was a sovereign state on the island of",
+    "transformed the Kingdom of England into one of the most formidable military powers in",
+    "reigned",
+    "reoccupied",
+    "was the grandson of",
+    "led to the transfer of the English capital city from",
+    "was executed during the",
+    "ruled during the",
+    "mutually abolished the parliaments of both",
+    "resulted in the Union of the Crowns with the",
+    "established itself as England's largest and principal commercial centre",
+    "became part of the North Sea Empire of",
+    "oversaw the",
+    "relinquished its sovereignty along with",
+    "formed the Kingdom of",
+    "adopted the title King of the",
+    "was the son of"
+  ],
+  "relations": [
+    [
+      "Æthelstan",
+      "was the grandson of",
+      "Alfred the Great"
+    ],
+    [
+      "Æthelstan",
+      "conquered the last remaining Viking kingdom,",
+      "York"
+    ],
+    [
+      "Henry VIII",
+      "oversaw the",
+      "English Reformation"
+    ],
+    [
+      "Kingdom of England",
+      "became part of the North Sea Empire of",
+      "Cnut the Great"
+    ],
+    [
+      "Elizabeth I",
+      "reigned",
+      "1558–1603"
+    ],
+    [
+      "Alfred the Great",
+      "reoccupied",
+      "London"
+    ],
+    [
+      "Edward III",
+      "transformed the Kingdom of England into one of the most formidable military powers in",
+      "Europe"
+    ],
+    [
+      "Kingdom of England",
+      "was a sovereign state on the island of",
+      "Great Britain"
+    ],
+    [
+      "Tudor dynasty",
+      "ruled during the",
+      "English Renaissance"
+    ],
+    [
+      "Norman Conquest",
+      "led to the transfer of the English capital city from",
+      "Winchester"
+    ],
+    [
+      "Kingdom of England",
+      "relinquished its sovereignty along with",
+      "Scotland"
+    ],
+    [
+      "City of London",
+      "established itself as England's largest and principal commercial centre",
+      ""
+    ],
+    [
+      "Henry II",
+      "reigned",
+      "1154–1189"
+    ],
+    [
+      "Kingdom of England",
+      "formed the Kingdom of",
+      "Great Britain"
+    ],
+    [
+      "Kingdom of England",
+      "was among the most powerful states in",
+      "Europe"
+    ],
+    [
+      "Edward the Elder",
+      "was the son of",
+      "Alfred the Great"
+    ],
+    [
+      "Charles I",
+      "was executed during the",
+      "Civil War"
+    ],
+    [
+      "James VI and I",
+      "resulted in the Union of the Crowns with the",
+      "Stuart dynasty"
+    ],
+    [
+      "Alfred the Great",
+      "adopted the title King of the",
+      "Anglo-Saxons"
+    ],
+    [
+      "Acts of Union 1707",
+      "mutually abolished the parliaments of both",
+      "England and Scotland"
+    ]
+  ]
+}

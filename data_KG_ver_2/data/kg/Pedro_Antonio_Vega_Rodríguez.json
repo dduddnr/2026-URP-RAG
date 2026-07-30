@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "Spanish",
+    "footballer",
+    "left winger",
+    "Pedro Antonio Vega Rodríguez",
+    "19 July 1979"
+  ],
+  "edges": [
+    "played as a",
+    "is a",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Pedro Antonio Vega Rodríguez",
+      "was born on",
+      "19 July 1979"
+    ],
+    [
+      "Pedro Antonio Vega Rodríguez",
+      "is a",
+      "Spanish"
+    ],
+    [
+      "Pedro Antonio Vega Rodríguez",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Pedro Antonio Vega Rodríguez",
+      "played as a",
+      "left winger"
+    ]
+  ]
+}

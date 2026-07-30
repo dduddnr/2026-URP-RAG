@@ -1,0 +1,95 @@
+{
+  "entities": [
+    "Torino",
+    "Atalanta",
+    "UEFA Euro 2016",
+    "Viareggio",
+    "Juve Stabia",
+    "Ascoli",
+    "Juventus",
+    "Sassuolo",
+    "West Ham United",
+    "Sampdoria",
+    "Italy",
+    "Valencia",
+    "Simone Zaza"
+  ],
+  "edges": [
+    "joined",
+    "played for",
+    "moved to",
+    "won a domestic double with",
+    "was sent on loan spells to",
+    "represented his nation at",
+    "made his senior debut for",
+    "returned to Italy and played for",
+    "began his professional club career with"
+  ],
+  "relations": [
+    [
+      "Simone Zaza",
+      "moved to",
+      "Sampdoria"
+    ],
+    [
+      "Simone Zaza",
+      "was sent on loan spells to",
+      "Viareggio"
+    ],
+    [
+      "Simone Zaza",
+      "joined",
+      "Sassuolo"
+    ],
+    [
+      "Simone Zaza",
+      "played for",
+      "West Ham United"
+    ],
+    [
+      "Simone Zaza",
+      "played for",
+      "Valencia"
+    ],
+    [
+      "Simone Zaza",
+      "began his professional club career with",
+      "Atalanta"
+    ],
+    [
+      "Simone Zaza",
+      "won a domestic double with",
+      "Juventus"
+    ],
+    [
+      "Simone Zaza",
+      "made his senior debut for",
+      "Italy"
+    ],
+    [
+      "Simone Zaza",
+      "represented his nation at",
+      "UEFA Euro 2016"
+    ],
+    [
+      "Simone Zaza",
+      "was sent on loan spells to",
+      "Ascoli"
+    ],
+    [
+      "Simone Zaza",
+      "joined",
+      "Juventus"
+    ],
+    [
+      "Simone Zaza",
+      "was sent on loan spells to",
+      "Juve Stabia"
+    ],
+    [
+      "Simone Zaza",
+      "returned to Italy and played for",
+      "Torino"
+    ]
+  ]
+}

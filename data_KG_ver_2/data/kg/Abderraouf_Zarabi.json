@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Algeria national team",
+    "footballer",
+    "Algeria",
+    "Abderraouf Zarabi",
+    "left-back"
+  ],
+  "edges": [
+    "made appearances for",
+    "played as",
+    "is a",
+    "represents"
+  ],
+  "relations": [
+    [
+      "Algeria national team",
+      "represents",
+      "Algeria"
+    ],
+    [
+      "Abderraouf Zarabi",
+      "made appearances for",
+      "Algeria national team"
+    ],
+    [
+      "Abderraouf Zarabi",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Abderraouf Zarabi",
+      "played as",
+      "left-back"
+    ]
+  ]
+}

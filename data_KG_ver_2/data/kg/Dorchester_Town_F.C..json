@@ -1,0 +1,78 @@
+{
+  "entities": [
+    "Magpies",
+    "Dorset",
+    "England",
+    "Dorchester",
+    "Dorset County Football Association",
+    "Avenue Stadium",
+    "Dorchester Town Football Club",
+    "Southern League Division One South",
+    "English football league system",
+    "Duchy of Cornwall",
+    "FA Chartered Standard club"
+  ],
+  "edges": [
+    "is nicknamed",
+    "is based in",
+    "is an",
+    "is affiliated with",
+    "is located in",
+    "is part of",
+    "competes in",
+    "plays home matches at",
+    "is on land owned by"
+  ],
+  "relations": [
+    [
+      "Dorchester Town Football Club",
+      "is an",
+      "FA Chartered Standard club"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "is nicknamed",
+      "Magpies"
+    ],
+    [
+      "Southern League Division One South",
+      "is part of",
+      "English football league system"
+    ],
+    [
+      "Avenue Stadium",
+      "is on land owned by",
+      "Duchy of Cornwall"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "plays home matches at",
+      "Avenue Stadium"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "is located in",
+      "Dorset"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "is located in",
+      "England"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "is affiliated with",
+      "Dorset County Football Association"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "competes in",
+      "Southern League Division One South"
+    ],
+    [
+      "Dorchester Town Football Club",
+      "is based in",
+      "Dorchester"
+    ]
+  ]
+}

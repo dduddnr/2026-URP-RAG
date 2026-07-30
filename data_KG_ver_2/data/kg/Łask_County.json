@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "18,684",
+    "50,874",
+    "32,190",
+    "Polish local government reforms",
+    "Łask",
+    "20 mi",
+    "32 kilometres",
+    "238.4 sq mi",
+    "Poland",
+    "Łódź",
+    "2006",
+    "January 1, 1999",
+    "Łask County",
+    "Łódź Voivodeship",
+    "617.38 square kilometres"
+  ],
+  "edges": [
+    "came into being on",
+    "lies south-west of",
+    "has a total population of",
+    "is located in",
+    "has its administrative seat in",
+    "has a population of",
+    "covers an area of",
+    "is a unit of",
+    "was created as a result of",
+    "has a rural population of"
+  ],
+  "relations": [
+    [
+      "Łask",
+      "lies south-west of",
+      "Łódź"
+    ],
+    [
+      "Łask County",
+      "is located in",
+      "Łódź Voivodeship"
+    ],
+    [
+      "Łask County",
+      "has a total population of",
+      "50,874"
+    ],
+    [
+      "Łask County",
+      "has its administrative seat in",
+      "Łask"
+    ],
+    [
+      "Łask",
+      "has a population of",
+      "18,684"
+    ],
+    [
+      "Łask County",
+      "has a rural population of",
+      "32,190"
+    ],
+    [
+      "Łask County",
+      "came into being on",
+      "January 1, 1999"
+    ],
+    [
+      "Łask County",
+      "is a unit of",
+      "territorial administration and local government"
+    ],
+    [
+      "Łask County",
+      "covers an area of",
+      "617.38 square kilometres"
+    ],
+    [
+      "Łask County",
+      "was created as a result of",
+      "Polish local government reforms"
+    ]
+  ]
+}

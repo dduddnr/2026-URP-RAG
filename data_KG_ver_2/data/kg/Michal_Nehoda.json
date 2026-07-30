@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Czech Republic",
+    "Czech Republic U21",
+    "football forward",
+    "Zlín",
+    "Czech",
+    "Ethnikos Achna",
+    "2002",
+    "Michal Nehoda",
+    "Gambrinus liga"
+  ],
+  "edges": [
+    "played in",
+    "played for",
+    "is a",
+    "returned to",
+    "played international football at under-21 level for"
+  ],
+  "relations": [
+    [
+      "Michal Nehoda",
+      "is a",
+      "football forward"
+    ],
+    [
+      "Michal Nehoda",
+      "played international football at under-21 level for",
+      "Czech Republic U21"
+    ],
+    [
+      "Michal Nehoda",
+      "played for",
+      "Zlín"
+    ],
+    [
+      "Michal Nehoda",
+      "played in",
+      "Gambrinus liga"
+    ],
+    [
+      "Michal Nehoda",
+      "played for",
+      "Ethnikos Achna"
+    ],
+    [
+      "Michal Nehoda",
+      "played in",
+      "2002"
+    ],
+    [
+      "Michal Nehoda",
+      "returned to",
+      "Czech Republic"
+    ]
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "Ontario",
+    "Italy national team",
+    "Vaughan Sun Devils",
+    "2006",
+    "CSL",
+    "City of Vaughan",
+    "blue and white",
+    "CSL Championship",
+    "2014",
+    "Glen Shields Sun Devils",
+    "cultural heritage",
+    "Canadian soccer team",
+    "York Region Shooters",
+    "Canadian Professional Soccer League",
+    "Vaughan Shooters",
+    "Canadian Soccer League",
+    "Italia Shooters",
+    "St. Joan of Arc Turf Field",
+    "2017"
+  ],
+  "edges": [
+    "has achievements",
+    "is in",
+    "was formed as the merger of",
+    "is located in",
+    "plays in",
+    "won",
+    "mirrors those of",
+    "has colours",
+    "was an inaugural member of",
+    "played their home games at",
+    "is a",
+    "reflects",
+    "won in"
+  ],
+  "relations": [
+    [
+      "York Region Shooters",
+      "is a",
+      "Canadian soccer team"
+    ],
+    [
+      "City of Vaughan",
+      "is in",
+      "Ontario"
+    ],
+    [
+      "York Region Shooters",
+      "reflects",
+      "cultural heritage"
+    ],
+    [
+      "York Region Shooters",
+      "was formed as the merger of",
+      "Glen Shields Sun Devils"
+    ],
+    [
+      "York Region Shooters",
+      "won in",
+      "2014"
+    ],
+    [
+      "York Region Shooters",
+      "played their home games at",
+      "St. Joan of Arc Turf Field"
+    ],
+    [
+      "York Region Shooters",
+      "won in",
+      "2017"
+    ],
+    [
+      "York Region Shooters",
+      "won in",
+      "2006"
+    ],
+    [
+      "Glen Shields Sun Devils",
+      "was an inaugural member of",
+      "Canadian Professional Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "won",
+      "CSL Championship"
+    ],
+    [
+      "original York Region Shooters",
+      "was an inaugural member of",
+      "Canadian Professional Soccer League"
+    ],
+    [
+      "St. Joan of Arc Turf Field",
+      "is located in",
+      "City of Vaughan"
+    ],
+    [
+      "York Region Shooters",
+      "has achievements",
+      "CSL Championship"
+    ],
+    [
+      "York Region Shooters",
+      "plays in",
+      "Canadian Soccer League"
+    ],
+    [
+      "York Region Shooters",
+      "has colours",
+      "blue and white"
+    ],
+    [
+      "York Region Shooters",
+      "was formed as the merger of",
+      "original York Region Shooters"
+    ],
+    [
+      "blue and white",
+      "mirrors those of",
+      "Italy national team"
+    ]
+  ]
+}

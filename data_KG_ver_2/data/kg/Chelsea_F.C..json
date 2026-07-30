@@ -1,0 +1,137 @@
+{
+  "entities": [
+    "Stamford Bridge",
+    "West London",
+    "Chelsea Football Club",
+    "FA Community Shields",
+    "Fulham",
+    "UEFA Conference League",
+    "Premier League",
+    "UEFA Super Cups",
+    "Leeds United",
+    "UEFA Champions Leagues",
+    "FIFA Club World Cups",
+    "Full Members' Cups",
+    "UEFA Cup Winners' Cups",
+    "League Cups",
+    "England",
+    "UEFA Europa Leagues",
+    "FA Cups",
+    "Tottenham Hotspur",
+    "Arsenal",
+    "First Division"
+  ],
+  "edges": [
+    "is in",
+    "is based in",
+    "has won",
+    "is located in",
+    "competes in",
+    "won their first major domestic trophy",
+    "shares rivalries with",
+    "was founded in",
+    "plays at"
+  ],
+  "relations": [
+    [
+      "Chelsea Football Club",
+      "is located in",
+      "West London"
+    ],
+    [
+      "Chelsea Football Club",
+      "is based in",
+      "Fulham"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "Full Members' Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Champions Leagues"
+    ],
+    [
+      "Chelsea Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Cup Winners' Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Super Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "was founded in",
+      "1905"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Tottenham Hotspur"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FIFA Club World Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Conference League"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "UEFA Europa Leagues"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Arsenal"
+    ],
+    [
+      "Chelsea Football Club",
+      "shares rivalries with",
+      "Leeds United"
+    ],
+    [
+      "Chelsea Football Club",
+      "is in",
+      "England"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FA Community Shields"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "League Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "won their first major domestic trophy",
+      "First Division"
+    ],
+    [
+      "Chelsea Football Club",
+      "has won",
+      "FA Cups"
+    ],
+    [
+      "Chelsea Football Club",
+      "plays at",
+      "Stamford Bridge"
+    ]
+  ]
+}

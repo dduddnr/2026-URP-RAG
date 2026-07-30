@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "professional association football player",
+    "Ben Iroha",
+    "Nigerian",
+    "left midfielder",
+    "29 November 1969",
+    "Benedict Iroha",
+    "left-back"
+  ],
+  "edges": [
+    "played as",
+    "is",
+    "is a",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Benedict Iroha",
+      "was born on",
+      "29 November 1969"
+    ],
+    [
+      "Benedict Iroha",
+      "is a",
+      "professional association football player"
+    ],
+    [
+      "Benedict Iroha",
+      "played as",
+      "left-back"
+    ],
+    [
+      "Benedict Iroha",
+      "is",
+      "Ben Iroha"
+    ],
+    [
+      "Benedict Iroha",
+      "is a",
+      "Nigerian"
+    ],
+    [
+      "Benedict Iroha",
+      "played as",
+      "left midfielder"
+    ]
+  ]
+}

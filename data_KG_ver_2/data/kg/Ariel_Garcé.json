@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "Chino Garcé",
+    "Argentine",
+    "Ariel Hernán Garcé",
+    "River Plate",
+    "Atlético de Rafaela",
+    "Colón de Santa Fe",
+    "Ariel Garcé",
+    "central defender",
+    "Olimpo de Bahía Blanca",
+    "right back",
+    "defender",
+    "football"
+  ],
+  "edges": [
+    "is a",
+    "played for"
+  ],
+  "relations": [
+    [
+      "Ariel Garcé",
+      "is a",
+      "right back"
+    ],
+    [
+      "Ariel Garcé",
+      "is a",
+      "central defender"
+    ],
+    [
+      "Ariel Garcé",
+      "is a",
+      "defender"
+    ],
+    [
+      "Ariel Garcé",
+      "played for",
+      "Atlético de Rafaela"
+    ],
+    [
+      "Ariel Garcé",
+      "played for",
+      "Colón de Santa Fe"
+    ],
+    [
+      "Ariel Garcé",
+      "played for",
+      "Olimpo de Bahía Blanca"
+    ],
+    [
+      "Ariel Garcé",
+      "played for",
+      "River Plate"
+    ]
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "entities": [
+    "New York Giants",
+    "nineteen caps",
+    "Soccer Wars",
+    "1929 National Challenge Cup",
+    "László Sternberg",
+    "Hakoah All-Stars",
+    "Red Star Paris",
+    "Brooklyn Hakoah",
+    "Italy",
+    "Eastern Professional Soccer League",
+    "Újpest FC",
+    "New York Americans",
+    "1934 FIFA World Cup",
+    "1937",
+    "United States",
+    "Andrea Doria",
+    "American Soccer League",
+    "defender",
+    "coach",
+    "Novese Novi Ligure",
+    "Jewish team",
+    "United States Football Federation",
+    "Hungarian",
+    "1938",
+    "footballer",
+    "Hungary national football team"
+  ],
+  "edges": [
+    "joined",
+    "captained",
+    "briefly played for",
+    "was",
+    "began his career with",
+    "played in",
+    "won",
+    "finished his career with",
+    "signed with",
+    "moved to",
+    "coached",
+    "coached from",
+    "returned to",
+    "played as",
+    "gained"
+  ],
+  "relations": [
+    [
+      "László Sternberg",
+      "played as",
+      "defender"
+    ],
+    [
+      "László Sternberg",
+      "played in",
+      "Eastern Professional Soccer League"
+    ],
+    [
+      "László Sternberg",
+      "returned to",
+      "Hungary"
+    ],
+    [
+      "László Sternberg",
+      "captained",
+      "Hungary national football team"
+    ],
+    [
+      "László Sternberg",
+      "played in",
+      "1934 FIFA World Cup"
+    ],
+    [
+      "László Sternberg",
+      "joined",
+      "Újpest FC"
+    ],
+    [
+      "László Sternberg",
+      "signed with",
+      "New York Giants"
+    ],
+    [
+      "László Sternberg",
+      "coached",
+      "Újpest FC"
+    ],
+    [
+      "László Sternberg",
+      "began his career with",
+      "Novese Novi Ligure"
+    ],
+    [
+      "László Sternberg",
+      "gained",
+      "nineteen caps"
+    ],
+    [
+      "László Sternberg",
+      "was",
+      "Hungarian footballer"
+    ],
+    [
+      "László Sternberg",
+      "played in",
+      "American Soccer League"
+    ],
+    [
+      "Brooklyn Hakoah",
+      "won",
+      "1929 National Challenge Cup"
+    ],
+    [
+      "László Sternberg",
+      "briefly played for",
+      "New York Americans"
+    ],
+    [
+      "László Sternberg",
+      "finished his career with",
+      "Red Star Paris"
+    ],
+    [
+      "László Sternberg",
+      "coached from",
+      "1937 to 1938"
+    ],
+    [
+      "László Sternberg",
+      "moved to",
+      "Andrea Doria"
+    ],
+    [
+      "László Sternberg",
+      "returned to",
+      "Europe"
+    ],
+    [
+      "László Sternberg",
+      "moved to",
+      "Brooklyn Hakoah"
+    ]
+  ]
+}

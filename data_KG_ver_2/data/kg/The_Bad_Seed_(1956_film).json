@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "Harold Rosson",
+    "The Bad Seed",
+    "William March",
+    "John Lee Mahin",
+    "cinematography",
+    "Patty McCormack",
+    "1954 novel",
+    "eight-year-old girl",
+    "Academy Awards",
+    "Mervyn LeRoy",
+    "1956",
+    "psychopathic killer",
+    "1954 play",
+    "Maxwell Anderson",
+    "Nancy Kelly",
+    "Eileen Heckart",
+    "Henry Jones"
+  ],
+  "edges": [
+    "was written by",
+    "is associated with",
+    "adapts",
+    "is a",
+    "garnered",
+    "is based on",
+    "is directed by",
+    "is by",
+    "stars",
+    "is about"
+  ],
+  "relations": [
+    [
+      "The Bad Seed",
+      "stars",
+      "Eileen Heckart"
+    ],
+    [
+      "The Bad Seed",
+      "is directed by",
+      "Mervyn LeRoy"
+    ],
+    [
+      "The Bad Seed",
+      "stars",
+      "Henry Jones"
+    ],
+    [
+      "The Bad Seed",
+      "is about",
+      "psychopathic killer"
+    ],
+    [
+      "The Bad Seed",
+      "adapts",
+      "1954 play"
+    ],
+    [
+      "1954 novel",
+      "is by",
+      "William March"
+    ],
+    [
+      "The Bad Seed",
+      "was written by",
+      "John Lee Mahin"
+    ],
+    [
+      "Nancy Kelly",
+      "garnered",
+      "Academy Awards nominations"
+    ],
+    [
+      "The Bad Seed",
+      "stars",
+      "Patty McCormack"
+    ],
+    [
+      "1954 play",
+      "is by",
+      "Maxwell Anderson"
+    ],
+    [
+      "Patty McCormack",
+      "garnered",
+      "Academy Awards nominations"
+    ],
+    [
+      "Eileen Heckart",
+      "garnered",
+      "Academy Awards nominations"
+    ],
+    [
+      "1954 play",
+      "is based on",
+      "1954 novel"
+    ],
+    [
+      "The Bad Seed",
+      "stars",
+      "Nancy Kelly"
+    ],
+    [
+      "The Bad Seed",
+      "is a",
+      "1956"
+    ],
+    [
+      "Harold Rosson",
+      "is associated with",
+      "cinematography"
+    ],
+    [
+      "The Bad Seed",
+      "is about",
+      "eight-year-old girl"
+    ]
+  ]
+}

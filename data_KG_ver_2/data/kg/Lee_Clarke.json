@@ -1,0 +1,50 @@
+{
+  "entities": [
+    "England",
+    "U21",
+    "Northern Ireland",
+    "Colin Clarke",
+    "footballer",
+    "U23",
+    "Lee Colin Clarke"
+  ],
+  "edges": [
+    "represented",
+    "is a",
+    "was born in",
+    "played at youth levels",
+    "is the son of"
+  ],
+  "relations": [
+    [
+      "Lee Colin Clarke",
+      "played at youth levels",
+      "U21"
+    ],
+    [
+      "Lee Colin Clarke",
+      "is the son of",
+      "Colin Clarke"
+    ],
+    [
+      "Lee Colin Clarke",
+      "was born in",
+      "England"
+    ],
+    [
+      "Lee Colin Clarke",
+      "represented",
+      "Northern Ireland"
+    ],
+    [
+      "Lee Colin Clarke",
+      "played at youth levels",
+      "U23"
+    ],
+    [
+      "Lee Colin Clarke",
+      "is a",
+      "footballer"
+    ]
+  ]
+}

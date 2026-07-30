@@ -1,0 +1,191 @@
+{
+  "entities": [
+    "Jeunesse Sportive de Kabylie",
+    "Tifinagh alphabet",
+    "Tizi Ouzou",
+    "Berber Spring",
+    "1 November 1954 Stadium",
+    "African Cup Winners' Cup",
+    "Yaz",
+    "Berber language",
+    "Hocine Aït Ahmed Stadium",
+    "JET",
+    "African Super Cup",
+    "Tournament of Fraternity",
+    "Kabyle Berber",
+    "Algerian Ligue Professionnelle 1",
+    "CAF Cup",
+    "Kabylia",
+    "Jeunesse Électronique de Tizi-Ouzou",
+    "JST",
+    "Algerian Super Cup",
+    "Kabyle",
+    "Algerian Cup",
+    "FIFA",
+    "North Africa",
+    "CAF Champions League",
+    "Amazigh",
+    "Algerian League Cup",
+    "JS Kabylie",
+    "IFFHS",
+    "Trophée des Champions",
+    "Jeunesse Sportive de Tizi-Ouzou"
+  ],
+  "edges": [
+    "is based in",
+    "has won",
+    "has a total of",
+    "is located in",
+    "plays in",
+    "is the most successful club at the African level",
+    "had several names such as",
+    "is ranked among",
+    "previously played at",
+    "is supported throughout",
+    "has never been relegated to",
+    "is known as",
+    "is home to",
+    "has played its home games at",
+    "is the most successful club at the national level",
+    "was founded in",
+    "is elected by",
+    "is considered by some regionalists as being the torchbearer of"
+  ],
+  "relations": [
+    [
+      "JS Kabylie",
+      "previously played at",
+      "1 November 1954 Stadium"
+    ],
+    [
+      "JS Kabylie",
+      "is elected by",
+      "IFFHS as the best Algerian club of the 20th century"
+    ],
+    [
+      "JS Kabylie",
+      "is located in",
+      "Kabylia"
+    ],
+    [
+      "JS Kabylie",
+      "plays in",
+      "Algerian Ligue Professionnelle 1"
+    ],
+    [
+      "JS Kabylie",
+      "has played its home games at",
+      "Hocine Aït Ahmed Stadium"
+    ],
+    [
+      "JS Kabylie",
+      "is the most successful club at the African level",
+      "African titles"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "Trophée des Champions"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "CAF Champions League"
+    ],
+    [
+      "Jeunesse Sportive de Kabylie",
+      "had several names such as",
+      "Jeunesse Sportive de Tizi-Ouzou"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "African Super Cup"
+    ],
+    [
+      "JS Kabylie",
+      "is considered by some regionalists as being the torchbearer of",
+      "politico-cultural ideas of the Kabylia region"
+    ],
+    [
+      "Jeunesse Sportive de Kabylie",
+      "had several names such as",
+      "Jamiat Sari' Kawkabi"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "African Cup Winners' Cup"
+    ],
+    [
+      "Jeunesse Sportive de Kabylie",
+      "had several names such as",
+      "Jeunesse Électronique de Tizi-Ouzou"
+    ],
+    [
+      "JS Kabylie",
+      "was founded in",
+      "1946"
+    ],
+    [
+      "JS Kabylie",
+      "has a total of",
+      "28 major trophies"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "Algerian Cup"
+    ],
+    [
+      "JS Kabylie",
+      "is home to",
+      "Kabyle Berber"
+    ],
+    [
+      "JS Kabylie",
+      "is the most successful club at the national level",
+      "Algerian Ligue Professionnelle 1"
+    ],
+    [
+      "JS Kabylie",
+      "is based in",
+      "Tizi Ouzou"
+    ],
+    [
+      "JS Kabylie",
+      "is known as",
+      "Jeunesse Sportive de Kabylie"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "Algerian League Cup"
+    ],
+    [
+      "JS Kabylie",
+      "is supported throughout",
+      "the Kabylia region"
+    ],
+    [
+      "JS Kabylie",
+      "is ranked among",
+      "the 10 best African clubs of the 20th century"
+    ],
+    [
+      "JS Kabylie",
+      "has never been relegated to",
+      "the second division"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "Algerian Super Cup"
+    ],
+    [
+      "JS Kabylie",
+      "has won",
+      "CAF Cup"
+    ]
+  ]
+}

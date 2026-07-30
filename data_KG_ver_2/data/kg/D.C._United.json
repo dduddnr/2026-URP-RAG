@@ -1,0 +1,205 @@
+{
+  "entities": [
+    "Major League Soccer",
+    "Erick Thohir",
+    "Troy Lesesne",
+    "U.S. Open Cups",
+    "D.C. United",
+    "Andy Najar",
+    "2013",
+    "William Chang",
+    "MLS",
+    "1994",
+    "Eastern Conference championships",
+    "LA Galaxy",
+    "Washington, D.C.",
+    "CONCACAF Champions Cup",
+    "Kevin Paredes",
+    "Bill Hamid",
+    "Audi Field",
+    "Ben Olsen",
+    "MLS Cups",
+    "Marco Etcheverry",
+    "Jason Levien",
+    "René Weiler",
+    "Piotr Nowak",
+    "Robert F. Kennedy Memorial Stadium",
+    "Eddie Pope",
+    "Copa Interamericana",
+    "Roy Lassiter",
+    "Eastern Conference",
+    "Tom Soehn",
+    "Wayne Rooney",
+    "Supporters' Shields",
+    "Raúl Díaz Arce",
+    "Bruce Arena",
+    "2020",
+    "Hernán Losada",
+    "Jaime Moreno"
+  ],
+  "edges": [
+    "is managed by",
+    "is based in",
+    "has won",
+    "is tied with",
+    "went through",
+    "won",
+    "had high-profile acquisitions including",
+    "played at",
+    "moved to",
+    "was managed by",
+    "is a member of",
+    "competes in",
+    "fired",
+    "had homegrown players including",
+    "went into decline after the sale from",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "D.C. United",
+      "went into decline after the sale from",
+      "William Chang and Erick Thohir to Jason Levien"
+    ],
+    [
+      "D.C. United",
+      "played at",
+      "Robert F. Kennedy Memorial Stadium"
+    ],
+    [
+      "D.C. United",
+      "had high-profile acquisitions including",
+      "Wayne Rooney"
+    ],
+    [
+      "D.C. United",
+      "was managed by",
+      "Hernán Losada"
+    ],
+    [
+      "D.C. United",
+      "is based in",
+      "Washington, D.C."
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "MLS Cups"
+    ],
+    [
+      "D.C. United",
+      "won",
+      "MLS Cup"
+    ],
+    [
+      "D.C. United",
+      "is a member of",
+      "Eastern Conference"
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "U.S. Open Cups"
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "Supporters' Shields"
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "Eastern Conference championships"
+    ],
+    [
+      "D.C. United",
+      "went through",
+      "mediocrity"
+    ],
+    [
+      "D.C. United",
+      "competes in",
+      "Major League Soccer"
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "Copa Interamericana"
+    ],
+    [
+      "D.C. United",
+      "won",
+      "eight major titles"
+    ],
+    [
+      "D.C. United",
+      "is tied with",
+      "LA Galaxy"
+    ],
+    [
+      "D.C. United",
+      "moved to",
+      "Audi Field"
+    ],
+    [
+      "D.C. United",
+      "was managed by",
+      "Ben Olsen"
+    ],
+    [
+      "D.C. United",
+      "was managed by",
+      "Wayne Rooney"
+    ],
+    [
+      "D.C. United",
+      "had homegrown players including",
+      "Andy Najar"
+    ],
+    [
+      "D.C. United",
+      "was managed by",
+      "Troy Lesesne"
+    ],
+    [
+      "D.C. United",
+      "is managed by",
+      "René Weiler"
+    ],
+    [
+      "D.C. United",
+      "has won",
+      "CONCACAF Champions Cup"
+    ],
+    [
+      "D.C. United",
+      "had homegrown players including",
+      "Kevin Paredes"
+    ],
+    [
+      "D.C. United",
+      "fired",
+      "Ben Olsen"
+    ],
+    [
+      "D.C. United",
+      "won",
+      "U.S. Open Cup"
+    ],
+    [
+      "D.C. United",
+      "had homegrown players including",
+      "Bill Hamid"
+    ],
+    [
+      "D.C. United",
+      "won",
+      "two Supporters' Shield titles"
+    ],
+    [
+      "D.C. United",
+      "was founded in",
+      "1994"
+    ]
+  ]
+}

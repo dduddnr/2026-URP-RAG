@@ -1,0 +1,49 @@
+{
+  "entities": [
+    "England",
+    "Weymouth",
+    "footballer",
+    "Jason Matthews",
+    "13 March 1975",
+    "director of football",
+    "goalkeeper coach"
+  ],
+  "edges": [
+    "is",
+    "is from",
+    "works at",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Jason Matthews",
+      "was born on",
+      "13 March 1975"
+    ],
+    [
+      "Jason Matthews",
+      "is from",
+      "England"
+    ],
+    [
+      "Jason Matthews",
+      "is",
+      "footballer"
+    ],
+    [
+      "Jason Matthews",
+      "works at",
+      "Weymouth"
+    ],
+    [
+      "Jason Matthews",
+      "is",
+      "director of football"
+    ],
+    [
+      "Jason Matthews",
+      "is",
+      "goalkeeper coach"
+    ]
+  ]
+}

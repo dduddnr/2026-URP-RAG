@@ -1,0 +1,60 @@
+{
+  "entities": [
+    "English-American",
+    "United States",
+    "soccer",
+    "Terry Woodberry",
+    "U.S. Futsal team",
+    "Terry Woodbury",
+    "1992 FIFA Futsal World Cup",
+    "indoor soccer",
+    "September 9, 1963",
+    "football"
+  ],
+  "edges": [
+    "was a member of",
+    "played in",
+    "is also spelled as",
+    "is a",
+    "was born on",
+    "took second place at",
+    "spent his entire career playing"
+  ],
+  "relations": [
+    [
+      "Terry Woodberry",
+      "is a",
+      "former English-American football (soccer) midfielder"
+    ],
+    [
+      "Terry Woodberry",
+      "played in",
+      "the United States"
+    ],
+    [
+      "Terry Woodberry",
+      "spent his entire career playing",
+      "indoor soccer"
+    ],
+    [
+      "Terry Woodberry",
+      "was a member of",
+      "the U.S. Futsal team"
+    ],
+    [
+      "the U.S. Futsal team",
+      "took second place at",
+      "the 1992 FIFA Futsal World Cup"
+    ],
+    [
+      "Terry Woodberry",
+      "is also spelled as",
+      "Terry Woodbury"
+    ],
+    [
+      "Terry Woodberry",
+      "was born on",
+      "September 9, 1963"
+    ]
+  ]
+}

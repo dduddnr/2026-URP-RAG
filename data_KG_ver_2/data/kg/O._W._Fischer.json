@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "Austrian",
+    "1 April 1915",
+    "1960s",
+    "1950s",
+    "Wirtschaftswunder era",
+    "Otto Wilhelm Fischer",
+    "29 January 2004",
+    "West German cinema",
+    "theatre actor",
+    "film actor",
+    "O. W. Fischer"
+  ],
+  "edges": [
+    "was active during",
+    "was born on",
+    "died on",
+    "is also known as",
+    "was a",
+    "was active in the",
+    "was a leading man of"
+  ],
+  "relations": [
+    [
+      "O. W. Fischer",
+      "was active during",
+      "Wirtschaftswunder era"
+    ],
+    [
+      "O. W. Fischer",
+      "died on",
+      "29 January 2004"
+    ],
+    [
+      "O. W. Fischer",
+      "was active in the",
+      "1960s"
+    ],
+    [
+      "O. W. Fischer",
+      "was a leading man of",
+      "West German cinema"
+    ],
+    [
+      "O. W. Fischer",
+      "was a",
+      "film actor"
+    ],
+    [
+      "O. W. Fischer",
+      "was born on",
+      "1 April 1915"
+    ],
+    [
+      "O. W. Fischer",
+      "is also known as",
+      "Otto Wilhelm Fischer"
+    ],
+    [
+      "O. W. Fischer",
+      "was a",
+      "theatre actor"
+    ],
+    [
+      "O. W. Fischer",
+      "was active in the",
+      "1950s"
+    ]
+  ]
+}

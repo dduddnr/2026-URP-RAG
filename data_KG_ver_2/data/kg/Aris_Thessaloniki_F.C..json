@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "Greek championship",
+    "Macedonian Football Clubs Association",
+    "Hellenic Football Federation",
+    "Thessaloniki",
+    "Kleanthis Vikelidis Stadium",
+    "Ludovisi Ares sculpture",
+    "God of War",
+    "COVID",
+    "Aris Thessaloniki F.C.",
+    "Aris FC",
+    "Greece",
+    "Super League Greece",
+    "Macedonia",
+    "Greek Cup",
+    "Kolos Kovalivka",
+    "golden/yellow",
+    "Ares",
+    "black"
+  ],
+  "edges": [
+    "has won",
+    "was a founding member of",
+    "lost to",
+    "has colours",
+    "has home ground",
+    "is a",
+    "is considered as",
+    "had an undefeated home record in",
+    "competes in",
+    "is known as",
+    "was played during",
+    "is named after",
+    "was founded in"
+  ],
+  "relations": [
+    [
+      "Aris Thessaloniki F.C.",
+      "was a founding member of",
+      "Macedonian Football Clubs Association"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "was a founding member of",
+      "Hellenic Football Federation"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "is named after",
+      "Ares"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "has won",
+      "Greek championship"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "has won",
+      "Greek Cup"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "lost to",
+      "Kolos Kovalivka"
+    ],
+    [
+      "Ares",
+      "is known as",
+      "God of War"
+    ],
+    [
+      "Kolos Kovalivka",
+      "was played during",
+      "COVID"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "has home ground",
+      "Kleanthis Vikelidis Stadium"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "had an undefeated home record in",
+      "European competitions"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "is considered as",
+      "one of the biggest teams in Greece"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "competes in",
+      "Super League Greece"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "is a",
+      "Greek professional football club"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "was founded in",
+      "1914"
+    ],
+    [
+      "Aris Thessaloniki F.C.",
+      "has colours",
+      "golden/yellow and black"
+    ]
+  ]
+}

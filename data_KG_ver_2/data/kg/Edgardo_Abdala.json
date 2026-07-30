@@ -1,0 +1,45 @@
+{
+  "entities": [
+    "Edgardo Abdala",
+    "former professional footballer",
+    "July 1, 1978",
+    "Edgardo Smith Abdala Montero",
+    "Palestinian national team",
+    "midfielder",
+    "Chile"
+  ],
+  "edges": [
+    "represented",
+    "is",
+    "was born on",
+    "was born in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Edgardo Smith Abdala Montero",
+      "is",
+      "former professional footballer"
+    ],
+    [
+      "Edgardo Smith Abdala Montero",
+      "played as",
+      "midfielder"
+    ],
+    [
+      "Edgardo Smith Abdala Montero",
+      "was born in",
+      "Chile"
+    ],
+    [
+      "Edgardo Smith Abdala Montero",
+      "was born on",
+      "July 1, 1978"
+    ],
+    [
+      "Edgardo Smith Abdala Montero",
+      "represented",
+      "Palestinian national team"
+    ]
+  ]
+}

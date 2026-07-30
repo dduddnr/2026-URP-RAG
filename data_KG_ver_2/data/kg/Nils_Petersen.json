@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "Energie Cottbus",
+    "Bayern Munich",
+    "SC Freiburg",
+    "2016 Summer Olympics",
+    "Nils Petersen",
+    "German footballer",
+    "Bundesliga",
+    "Germany",
+    "Werder Bremen"
+  ],
+  "edges": [
+    "played in the",
+    "played in",
+    "played for",
+    "is a",
+    "is from"
+  ],
+  "relations": [
+    [
+      "Nils Petersen",
+      "played for",
+      "Bayern Munich"
+    ],
+    [
+      "Nils Petersen",
+      "is a",
+      "German footballer"
+    ],
+    [
+      "Nils Petersen",
+      "played for",
+      "Werder Bremen"
+    ],
+    [
+      "Nils Petersen",
+      "played for",
+      "SC Freiburg"
+    ],
+    [
+      "Nils Petersen",
+      "is from",
+      "Germany"
+    ],
+    [
+      "Nils Petersen",
+      "played in the",
+      "Bundesliga"
+    ],
+    [
+      "Nils Petersen",
+      "played for",
+      "Energie Cottbus"
+    ],
+    [
+      "Nils Petersen",
+      "played in",
+      "2016 Summer Olympics"
+    ]
+  ]
+}

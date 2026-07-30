@@ -1,0 +1,109 @@
+{
+  "entities": [
+    "Torino",
+    "France national team",
+    "Bologna",
+    "Antoine Bonifaci",
+    "Inter Milan",
+    "Villefranche-sur-Mer",
+    "Vicenza",
+    "Stade Français",
+    "France",
+    "2021",
+    "Nice",
+    "30 million francs"
+  ],
+  "edges": [
+    "was",
+    "played in",
+    "played for",
+    "was transferred to",
+    "died in",
+    "died on",
+    "was transferred from",
+    "was transferred for a fee of",
+    "was a"
+  ],
+  "relations": [
+    [
+      "Antoine Bonifaci",
+      "played in",
+      "France"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played in",
+      "Italy"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Inter Milan"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Bologna"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "France national team"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Vicenza"
+    ],
+    [
+      "Antoine Bonifaci",
+      "died on",
+      "29 December 2021"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Nice"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Stade Français"
+    ],
+    [
+      "Antoine Bonifaci",
+      "died in",
+      "Villefranche-sur-Mer"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was a",
+      "French professional footballer"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was transferred to",
+      "Inter Milan"
+    ],
+    [
+      "Antoine Bonifaci",
+      "played for",
+      "Torino"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was",
+      "90 years old"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was transferred for a fee of",
+      "30 million francs"
+    ],
+    [
+      "Antoine Bonifaci",
+      "was transferred from",
+      "Nice"
+    ]
+  ]
+}

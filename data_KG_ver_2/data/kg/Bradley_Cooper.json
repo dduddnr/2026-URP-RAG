@@ -1,0 +1,288 @@
+{
+  "entities": [
+    "Limitless",
+    "Grammy Awards",
+    "2023",
+    "January 5, 1975",
+    "Nightmare Alley",
+    "Billboard 200",
+    "2013",
+    "1999",
+    "Alias",
+    "Bradley Cooper",
+    "Billboard Hot 100",
+    "2019",
+    "Shallow",
+    "Forbes Celebrity 100",
+    "Joseph Merrick",
+    "People magazine",
+    "Time's 100 most influential people",
+    "2012",
+    "Master of Fine Arts",
+    "Golden Globe Awards",
+    "2014",
+    "Wedding Crashers",
+    "2001–2006",
+    "Sexiest Man Alive",
+    "British Academy Film Award",
+    "Wet Hot American Summer",
+    "American Hustle",
+    "Jennifer Esposito",
+    "The Hangover",
+    "2001",
+    "Tony Award",
+    "2011",
+    "BAFTA Award",
+    "American Sniper",
+    "A Star Is Born",
+    "$13 billion",
+    "filmmaker",
+    "2018",
+    "Academy Awards",
+    "Actors Studio",
+    "The Place Beyond the Pines",
+    "Sex and the City",
+    "Marvel Cinematic Universe",
+    "2021",
+    "Silver Linings Playbook",
+    "The Elephant Man",
+    "2000",
+    "Guardians of the Galaxy",
+    "highest-paid actors",
+    "Maestro",
+    "Irina Shayk",
+    "Will Tippin",
+    "2005",
+    "2009",
+    "Joker",
+    "Rocket",
+    "2015",
+    "American actor"
+  ],
+  "edges": [
+    "appeared on",
+    "portrayed",
+    "had a guest role in",
+    "received",
+    "has been nominated for",
+    "had a breakthrough with",
+    "won",
+    "has grossed",
+    "played",
+    "was married to",
+    "enrolled in",
+    "appeared in",
+    "starred in",
+    "voiced",
+    "began his career in",
+    "was in",
+    "was born on",
+    "had a supporting role in",
+    "produced",
+    "has been placed in",
+    "supports",
+    "was recognized in",
+    "earned nominations for",
+    "has a daughter from his relationship with",
+    "is",
+    "made his film debut with",
+    "was named"
+  ],
+  "relations": [
+    [
+      "Bradley Cooper",
+      "was born on",
+      "January 5, 1975"
+    ],
+    [
+      "Bradley Cooper",
+      "was recognized in",
+      "2015"
+    ],
+    [
+      "Bradley Cooper",
+      "won",
+      "BAFTA Award"
+    ],
+    [
+      "Bradley Cooper",
+      "earned nominations for",
+      "American Sniper"
+    ],
+    [
+      "Bradley Cooper",
+      "has been placed in",
+      "highest-paid actors"
+    ],
+    [
+      "Bradley Cooper",
+      "was in",
+      "Alias"
+    ],
+    [
+      "Bradley Cooper",
+      "received",
+      "Grammy Awards"
+    ],
+    [
+      "Bradley Cooper",
+      "has a daughter from his relationship with",
+      "Irina Shayk"
+    ],
+    [
+      "Bradley Cooper",
+      "had a supporting role in",
+      "Wedding Crashers"
+    ],
+    [
+      "Bradley Cooper",
+      "is",
+      "American actor"
+    ],
+    [
+      "Bradley Cooper",
+      "earned nominations for",
+      "Maestro"
+    ],
+    [
+      "Bradley Cooper",
+      "enrolled in",
+      "Master of Fine Arts"
+    ],
+    [
+      "Bradley Cooper",
+      "has been nominated for",
+      "Tony Award"
+    ],
+    [
+      "Bradley Cooper",
+      "appeared on",
+      "Forbes Celebrity 100"
+    ],
+    [
+      "Bradley Cooper",
+      "began his career in",
+      "1999"
+    ],
+    [
+      "Bradley Cooper",
+      "was named",
+      "Sexiest Man Alive"
+    ],
+    [
+      "Bradley Cooper",
+      "supports",
+      "charities that help fight cancer"
+    ],
+    [
+      "Bradley Cooper",
+      "is",
+      "filmmaker"
+    ],
+    [
+      "Bradley Cooper",
+      "played",
+      "Will Tippin"
+    ],
+    [
+      "Bradley Cooper",
+      "earned nominations for",
+      "Silver Linings Playbook"
+    ],
+    [
+      "Bradley Cooper",
+      "had a guest role in",
+      "Sex and the City"
+    ],
+    [
+      "Bradley Cooper",
+      "has been nominated for",
+      "Academy Awards"
+    ],
+    [
+      "Bradley Cooper",
+      "has grossed",
+      "$13 billion"
+    ],
+    [
+      "Bradley Cooper",
+      "starred in",
+      "Limitless"
+    ],
+    [
+      "Bradley Cooper",
+      "won",
+      "two Grammys"
+    ],
+    [
+      "Bradley Cooper",
+      "had a breakthrough with",
+      "The Hangover"
+    ],
+    [
+      "Bradley Cooper",
+      "made his film debut with",
+      "Wet Hot American Summer"
+    ],
+    [
+      "Bradley Cooper",
+      "produced",
+      "Joker"
+    ],
+    [
+      "Bradley Cooper",
+      "appeared on",
+      "Time's 100 most influential people"
+    ],
+    [
+      "Bradley Cooper",
+      "portrayed",
+      "Joseph Merrick"
+    ],
+    [
+      "Bradley Cooper",
+      "earned nominations for",
+      "A Star Is Born"
+    ],
+    [
+      "Bradley Cooper",
+      "starred in",
+      "The Place Beyond the Pines"
+    ],
+    [
+      "Bradley Cooper",
+      "received",
+      "British Academy Film Award"
+    ],
+    [
+      "Bradley Cooper",
+      "was married to",
+      "Jennifer Esposito"
+    ],
+    [
+      "Bradley Cooper",
+      "has been nominated for",
+      "Golden Globe Awards"
+    ],
+    [
+      "Bradley Cooper",
+      "earned nominations for",
+      "American Hustle"
+    ],
+    [
+      "Bradley Cooper",
+      "voiced",
+      "Rocket"
+    ],
+    [
+      "Bradley Cooper",
+      "appeared in",
+      "Marvel Cinematic Universe"
+    ],
+    [
+      "Bradley Cooper",
+      "produced",
+      "Nightmare Alley"
+    ]
+  ]
+}

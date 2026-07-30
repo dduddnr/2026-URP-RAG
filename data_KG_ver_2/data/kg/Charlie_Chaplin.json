@@ -1,0 +1,129 @@
+{
+  "entities": [
+    "Adolf Hitler",
+    "Charlie Chaplin",
+    "film industry",
+    "the Tramp",
+    "Switzerland",
+    "London",
+    "The Gold Rush",
+    "City Lights",
+    "The Kid",
+    "United Artists",
+    "A King in New York",
+    "First National",
+    "Fred Karno company",
+    "silent film",
+    "United States",
+    "Victorian era",
+    "The Circus",
+    "Keystone Studios",
+    "Sir Charles Spencer Chaplin Jr.",
+    "Modern Times",
+    "The Great Dictator",
+    "The Chaplin Revue",
+    "Honorary Academy Award",
+    "Federal Bureau of Investigation",
+    "Limelight",
+    "Monsieur Verdoux",
+    "A Woman of Paris",
+    "Mutual",
+    "A Countess from Hong Kong",
+    "Essanay Studios"
+  ],
+  "edges": [
+    "directed",
+    "was active in",
+    "is considered one of the most important figures in",
+    "satirises",
+    "is known for",
+    "co-founded",
+    "was investigated by",
+    "settled in",
+    "was born in",
+    "produced",
+    "received"
+  ],
+  "relations": [
+    [
+      "Charlie Chaplin",
+      "co-founded",
+      "United Artists"
+    ],
+    [
+      "Charlie Chaplin",
+      "was active in",
+      "silent film"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Gold Rush"
+    ],
+    [
+      "Charlie Chaplin",
+      "produced",
+      "City Lights"
+    ],
+    [
+      "The Great Dictator",
+      "satirises",
+      "Adolf Hitler"
+    ],
+    [
+      "Charlie Chaplin",
+      "is known for",
+      "the Tramp"
+    ],
+    [
+      "Charlie Chaplin",
+      "is considered one of the most important figures in",
+      "film industry"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Circus"
+    ],
+    [
+      "Charlie Chaplin",
+      "settled in",
+      "Switzerland"
+    ],
+    [
+      "Charlie Chaplin",
+      "received",
+      "Honorary Academy Award"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Kid"
+    ],
+    [
+      "Charlie Chaplin",
+      "was born in",
+      "London"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "The Great Dictator"
+    ],
+    [
+      "Charlie Chaplin",
+      "was investigated by",
+      "Federal Bureau of Investigation"
+    ],
+    [
+      "Charlie Chaplin",
+      "directed",
+      "A Woman of Paris"
+    ],
+    [
+      "Charlie Chaplin",
+      "produced",
+      "Modern Times"
+    ]
+  ]
+}

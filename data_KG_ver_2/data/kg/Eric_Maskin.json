@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "mechanism design theory",
+    "2011",
+    "December 12, 1950",
+    "mathematician",
+    "Leonid Hurwicz",
+    "American",
+    "Adams University Professor",
+    "Albert O. Hirschman Professor of Social Science",
+    "Harvard University",
+    "Institute for Advanced Study",
+    "Princeton University",
+    "2007 Nobel Memorial Prize in Economic Sciences",
+    "Roger Myerson",
+    "Eric Maskin",
+    "Professor of Economics",
+    "Professor of Mathematics",
+    "economist"
+  ],
+  "edges": [
+    "was",
+    "laid the foundations of",
+    "is at",
+    "is",
+    "was born on",
+    "was jointly awarded",
+    "was awarded to",
+    "was a visiting lecturer with the rank of professor at",
+    "was at",
+    "until"
+  ],
+  "relations": [
+    [
+      "Eric Maskin",
+      "was",
+      "Albert O. Hirschman Professor of Social Science"
+    ],
+    [
+      "Eric Maskin",
+      "laid the foundations of",
+      "mechanism design theory"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "mathematician"
+    ],
+    [
+      "Eric Maskin",
+      "was jointly awarded",
+      "2007 Nobel Memorial Prize in Economic Sciences"
+    ],
+    [
+      "2007 Nobel Memorial Prize in Economic Sciences",
+      "was awarded to",
+      "Leonid Hurwicz"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "Professor of Mathematics"
+    ],
+    [
+      "Eric Maskin",
+      "was at",
+      "Institute for Advanced Study"
+    ],
+    [
+      "2007 Nobel Memorial Prize in Economic Sciences",
+      "was awarded to",
+      "Roger Myerson"
+    ],
+    [
+      "Eric Maskin",
+      "was born on",
+      "December 12, 1950"
+    ],
+    [
+      "Eric Maskin",
+      "is at",
+      "Harvard University"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "Adams University Professor"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "American"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "Professor of Economics"
+    ],
+    [
+      "Eric Maskin",
+      "until",
+      "2011"
+    ],
+    [
+      "Eric Maskin",
+      "was a visiting lecturer with the rank of professor at",
+      "Princeton University"
+    ],
+    [
+      "Eric Maskin",
+      "is",
+      "economist"
+    ],
+    [
+      "2007 Nobel Memorial Prize in Economic Sciences",
+      "was awarded to",
+      "Eric Maskin"
+    ]
+  ]
+}

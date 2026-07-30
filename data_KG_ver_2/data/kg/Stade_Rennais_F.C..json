@@ -1,0 +1,229 @@
+{
+  "entities": [
+    "Désiré Doué",
+    "Ligue 1",
+    "1965",
+    "Rennes",
+    "1971",
+    "Mathys Tel",
+    "2019",
+    "Abdoulaye Doucouré",
+    "Olivier Cloarec",
+    "Stade Rennais F.C.",
+    "French Football Federation",
+    "Henri Guérin Training Centre",
+    "Moussa Sow",
+    "2003",
+    "2025",
+    "Ousmane Dembélé",
+    "Stade rennais Football Club",
+    "Brittany",
+    "Coupe de France",
+    "SRFC",
+    "François Pinault",
+    "Artémis",
+    "Yoann Gourcuff",
+    "Sylvain Wiltord",
+    "2008",
+    "Nantes",
+    "Yann M'Vila",
+    "2000",
+    "Derby Breton",
+    "FFF",
+    "Roazhon Park",
+    "Eduardo Camavinga",
+    "1901",
+    "Coupe Gambardella",
+    "Jimmy Briand",
+    "1973",
+    "Yacine Brahimi"
+  ],
+  "edges": [
+    "was formed in",
+    "plays its home matches at",
+    "has produced",
+    "won",
+    "is the holding company of",
+    "recognised",
+    "is known for its youth academy",
+    "changed its name to",
+    "is based in",
+    "has won",
+    "has president",
+    "competes in",
+    "contests",
+    "produced",
+    "has owner",
+    "was founded in",
+    "has the best youth academy in",
+    "is one of the top football clubs in",
+    "is one of the founding members of"
+  ],
+  "relations": [
+    [
+      "Rennes",
+      "was founded in",
+      "1901"
+    ],
+    [
+      "Rennes",
+      "has the best youth academy in",
+      "the country"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Eduardo Camavinga"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Jimmy Briand"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Désiré Doué"
+    ],
+    [
+      "the under-19 team",
+      "won",
+      "Coupe Gambardella in 2008"
+    ],
+    [
+      "Rennes",
+      "has won",
+      "three Coupe de France titles"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Moussa Sow"
+    ],
+    [
+      "Rennes",
+      "is one of the founding members of",
+      "the first division of French football"
+    ],
+    [
+      "Rennes",
+      "changed its name to",
+      "Stade Rennais F.C."
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "has produced",
+      "several notable talents"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Mathys Tel"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "was formed in",
+      "2000"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Sylvain Wiltord"
+    ],
+    [
+      "Rennes",
+      "is one of the top football clubs in",
+      "Brittany"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has president",
+      "Olivier Cloarec"
+    ],
+    [
+      "Rennes",
+      "contests",
+      "Derby Breton"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "plays its home matches at",
+      "Roazhon Park"
+    ],
+    [
+      "the under-19 team",
+      "won",
+      "Coupe Gambardella in 1973"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Abdoulaye Doucouré"
+    ],
+    [
+      "Artémis",
+      "is the holding company of",
+      "François Pinault"
+    ],
+    [
+      "the under-19 team",
+      "won",
+      "Coupe Gambardella in 2025"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "has owner",
+      "Artémis"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "competes in",
+      "Ligue 1"
+    ],
+    [
+      "Rennes",
+      "is known for its youth academy",
+      "Henri Guérin Training Centre"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Yacine Brahimi"
+    ],
+    [
+      "French Football Federation",
+      "recognised",
+      "Rennes"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Yann M'Vila"
+    ],
+    [
+      "the under-19 team",
+      "won",
+      "Coupe Gambardella in 2003"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Ousmane Dembélé"
+    ],
+    [
+      "Henri Guérin Training Centre",
+      "produced",
+      "Yoann Gourcuff"
+    ],
+    [
+      "the under-19 team",
+      "has won",
+      "Coupe Gambardella four times"
+    ],
+    [
+      "Stade Rennais F.C.",
+      "is based in",
+      "Rennes"
+    ]
+  ]
+}

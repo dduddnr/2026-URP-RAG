@@ -1,0 +1,188 @@
+{
+  "entities": [
+    "Campeonato Paulista Série A1",
+    "seven national titles",
+    "Flamengo",
+    "2014 FIFA World Cup",
+    "four Copa do Brasil trophies",
+    "Campeonato Brasileiro Série A",
+    "1910",
+    "Neo Química Arena",
+    "2012",
+    "Clássico Alvinegro",
+    "Tatuapé",
+    "white and black home kit",
+    "Derby Paulista",
+    "31 São Paulo State championships",
+    "Copa Libertadores de América",
+    "Sport Club Corinthians Paulista",
+    "Corinthian Football Club",
+    "Francisco Rebolo",
+    "$576.9 million",
+    "Recopa Sudamericana",
+    "Santos",
+    "two Supercopa do Brasil titles",
+    "FIFA Club World Championship",
+    "Clássico Majestoso",
+    "São Paulo",
+    "Forbes",
+    "2000",
+    "30 million fans",
+    "São Paulo state flag",
+    "Palmeiras"
+  ],
+  "edges": [
+    "has rivalries with",
+    "has played home matches at",
+    "is just behind",
+    "served as a venue for",
+    "won the inaugural",
+    "is located in",
+    "introduced the crest of",
+    "was valued at",
+    "traditionally plays in",
+    "is based in",
+    "has won",
+    "competes in",
+    "was crowned champions of",
+    "repeated the feat in",
+    "was founded in",
+    "was won in",
+    "has over",
+    "won a title in",
+    "was listed by",
+    "was inspired by"
+  ],
+  "relations": [
+    [
+      "Sport Club Corinthians Paulista",
+      "was crowned champions of",
+      "Copa Libertadores de América"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "repeated the feat in",
+      "2012"
+    ],
+    [
+      "Francisco Rebolo",
+      "introduced the crest of",
+      "Sport Club Corinthians Paulista"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was inspired by",
+      "Corinthian Football Club"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has over",
+      "30 million fans"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is just behind",
+      "Flamengo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "competes in",
+      "Campeonato Paulista Série A1"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is located in",
+      "Tatuapé"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "31 São Paulo State championships"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "Santos"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "two Supercopa do Brasil titles"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "Palmeiras"
+    ],
+    [
+      "FIFA Club World Championship",
+      "was won in",
+      "2000"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was valued at",
+      "$576.9 million"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "won the inaugural",
+      "FIFA Club World Championship"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has played home matches at",
+      "Neo Química Arena"
+    ],
+    [
+      "Neo Química Arena",
+      "served as a venue for",
+      "2014 FIFA World Cup"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "traditionally plays in",
+      "white and black home kit"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was listed by",
+      "Forbes"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "is based in",
+      "São Paulo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "four Copa do Brasil trophies"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "competes in",
+      "Campeonato Brasileiro Série A"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "was founded in",
+      "1910"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has rivalries with",
+      "São Paulo"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "has won",
+      "seven national titles"
+    ],
+    [
+      "Sport Club Corinthians Paulista",
+      "won a title in",
+      "Recopa Sudamericana"
+    ]
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "entities": [
+    "2025–26 season",
+    "John Houlding",
+    "9 football league titles",
+    "1892",
+    "5 FA Cups",
+    "Liverpool (club)",
+    "2022–23 season",
+    "1951–52",
+    "Premier League",
+    "Anfield",
+    "1 European Cup Winners' Cup",
+    "1952–53",
+    "FA Cup",
+    "1953–54",
+    "-$23 million",
+    "1930–31",
+    "European Cup Winners' Cup",
+    "Merseyside derby",
+    "1878",
+    "mid-1980s",
+    "League Championship",
+    "Farhad Moshiri",
+    "Hill Dickinson Stadium",
+    "Dan Friedkin",
+    "1992",
+    "$242 million",
+    "England",
+    "1888",
+    "Toffees",
+    "Evertonians",
+    "Everton Football Club",
+    "Blues",
+    "15 major trophies",
+    "May 2023",
+    "August 2025",
+    "Liverpool",
+    "Football League",
+    "$744 million",
+    "Goodison Park"
+  ],
+  "edges": [
+    "have a long-standing rivalry with",
+    "won their first League Championship during",
+    "had revenue for the 2022–23 season of",
+    "ranks third in",
+    "won a further",
+    "was a founding member of",
+    "purchased",
+    "won",
+    "was valued at",
+    "is the club with the second-longest continuous presence in",
+    "missed only four top-flight seasons",
+    "have competed in the top division for a record",
+    "bought",
+    "play at",
+    "had operating income for the 2022–23 season of",
+    "is based in",
+    "has won",
+    "competes in",
+    "are colloquially known as",
+    "was founded in",
+    "was owned by",
+    "had played at",
+    "moved from their original home at",
+    "experienced a post–Second World War lull until a revival in",
+    "was purchased by"
+  ],
+  "relations": [
+    [
+      "Everton Football Club",
+      "had played at",
+      "Goodison Park"
+    ],
+    [
+      "Everton Football Club",
+      "has won",
+      "5 FA Cups"
+    ],
+    [
+      "Everton Football Club",
+      "won a further",
+      "2 League championships"
+    ],
+    [
+      "Everton Football Club",
+      "was owned by",
+      "Farhad Moshiri"
+    ],
+    [
+      "Everton Football Club",
+      "experienced a post–Second World War lull until a revival in",
+      "the 1960s"
+    ],
+    [
+      "Everton Football Club",
+      "won their first League Championship during",
+      "1890–91 season"
+    ],
+    [
+      "Everton Football Club",
+      "was a founding member of",
+      "Premier League"
+    ],
+    [
+      "Everton Football Club",
+      "competes in",
+      "Premier League"
+    ],
+    [
+      "Everton Football Club",
+      "won",
+      "1985 European Cup Winners' Cup"
+    ],
+    [
+      "Everton Football Club",
+      "has won",
+      "9 football league titles"
+    ],
+    [
+      "Everton Football Club",
+      "was a founding member of",
+      "Football League"
+    ],
+    [
+      "Everton Football Club",
+      "is the club with the second-longest continuous presence in",
+      "English top-flight football"
+    ],
+    [
+      "Everton Football Club",
+      "had revenue for the 2022–23 season of",
+      "$242 million"
+    ],
+    [
+      "Everton Football Club",
+      "are colloquially known as",
+      "Toffees"
+    ],
+    [
+      "Farhad Moshiri",
+      "bought",
+      "49.9% of the club's shares"
+    ],
+    [
+      "Everton Football Club",
+      "has won",
+      "15 major trophies"
+    ],
+    [
+      "Everton Football Club",
+      "are colloquially known as",
+      "Blues"
+    ],
+    [
+      "Everton Football Club",
+      "had operating income for the 2022–23 season of",
+      "-$23 million"
+    ],
+    [
+      "Everton Football Club",
+      "was founded in",
+      "1878"
+    ],
+    [
+      "Everton Football Club",
+      "are colloquially known as",
+      "Evertonians"
+    ],
+    [
+      "Everton Football Club",
+      "moved from their original home at",
+      "Anfield"
+    ],
+    [
+      "Dan Friedkin",
+      "purchased",
+      "the club"
+    ],
+    [
+      "Everton Football Club",
+      "have competed in the top division for a record",
+      "123 seasons"
+    ],
+    [
+      "Everton Football Club",
+      "was valued at",
+      "$744 million"
+    ],
+    [
+      "Everton Football Club",
+      "is based in",
+      "Liverpool"
+    ],
+    [
+      "Everton Football Club",
+      "have a long-standing rivalry with",
+      "Liverpool"
+    ],
+    [
+      "Everton Football Club",
+      "play at",
+      "Hill Dickinson Stadium"
+    ],
+    [
+      "Everton Football Club",
+      "ranks third in",
+      "the all-time points rankings"
+    ],
+    [
+      "Everton Football Club",
+      "has won",
+      "1 European Cup Winners' Cup"
+    ],
+    [
+      "Everton Football Club",
+      "missed only four top-flight seasons",
+      "1930–31, 1951–52, 1952–53, and 1953–54"
+    ],
+    [
+      "Everton Football Club",
+      "won",
+      "1 FA Cup"
+    ],
+    [
+      "Everton Football Club",
+      "was purchased by",
+      "Dan Friedkin"
+    ]
+  ]
+}

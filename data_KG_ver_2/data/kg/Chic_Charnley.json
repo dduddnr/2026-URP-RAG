@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "assistant manager",
+    "Scottish",
+    "James Callaghan Charnley",
+    "Hibernian",
+    "Clyde",
+    "Dundee",
+    "football player",
+    "St Mirren",
+    "Hamilton Academical",
+    "Chic Charnley",
+    "coach",
+    "Partick Thistle"
+  ],
+  "edges": [
+    "was a coach at",
+    "played for",
+    "is best known for",
+    "is a",
+    "was assistant manager of",
+    "had a reputation as being"
+  ],
+  "relations": [
+    [
+      "Chic Charnley",
+      "is best known for",
+      "Partick Thistle"
+    ],
+    [
+      "Chic Charnley",
+      "played for",
+      "St Mirren"
+    ],
+    [
+      "Chic Charnley",
+      "played for",
+      "Hibernian"
+    ],
+    [
+      "Chic Charnley",
+      "played for",
+      "Dundee"
+    ],
+    [
+      "Chic Charnley",
+      "played for",
+      "Hamilton Academical"
+    ],
+    [
+      "Chic Charnley",
+      "was a coach at",
+      "Partick Thistle"
+    ],
+    [
+      "Chic Charnley",
+      "was assistant manager of",
+      "Clyde"
+    ],
+    [
+      "Chic Charnley",
+      "is a",
+      "coach"
+    ],
+    [
+      "Chic Charnley",
+      "is a",
+      "Scottish"
+    ],
+    [
+      "Chic Charnley",
+      "is a",
+      "football player"
+    ],
+    [
+      "Chic Charnley",
+      "had a reputation as being",
+      "a hot-head"
+    ]
+  ]
+}

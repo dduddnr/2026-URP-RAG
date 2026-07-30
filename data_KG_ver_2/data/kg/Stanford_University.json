@@ -1,0 +1,205 @@
+{
+  "entities": [
+    "Leland Stanford Junior University",
+    "Palo Alto",
+    "NCAA",
+    "presidents",
+    "Gates Cambridge Scholars",
+    "Jane Stanford",
+    "R1: Doctoral Universities",
+    "United States Supreme Court justices",
+    "prime ministers",
+    "Stanford University",
+    "Frederick Terman",
+    "Leland Jr.",
+    "Turing Award winners",
+    "Fulbright Scholars",
+    "Atlantic Coast Conference",
+    "United States",
+    "NACDA Directors' Cup",
+    "United States Congress",
+    "Nobel laureates",
+    "Hoover Institution",
+    "billionaires",
+    "Olympic medals",
+    "Pulitzer Prize winners",
+    "Wolf Foundation Prize recipients",
+    "Rhodes Scholars",
+    "Stanford Research Park",
+    "MacArthur Fellows",
+    "Silicon Valley",
+    "Marshall Scholars",
+    "Leland Stanford",
+    "California"
+  ],
+  "edges": [
+    "has alumni who have won",
+    "was damaged by",
+    "inspired",
+    "was established in",
+    "is one of",
+    "is located in",
+    "is associated with",
+    "struggled financially after",
+    "is also known as",
+    "admitted its first students in",
+    "is in",
+    "has won",
+    "competes in",
+    "has",
+    "is classified among",
+    "was awarded",
+    "houses",
+    "co-founded",
+    "has alumni who include",
+    "founded",
+    "is the world's first"
+  ],
+  "relations": [
+    [
+      "Stanford University",
+      "has alumni who include",
+      "four United States Supreme Court justices"
+    ],
+    [
+      "Stanford University",
+      "is also known as",
+      "Leland Stanford Junior University"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "33 MacArthur Fellows"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "2 United States Supreme Court justices"
+    ],
+    [
+      "Frederick Terman",
+      "inspired",
+      "an entrepreneurial culture at Stanford University"
+    ],
+    [
+      "Stanford University",
+      "admitted its first students in",
+      "1891"
+    ],
+    [
+      "Stanford University",
+      "was awarded",
+      "the NACDA Directors' Cup for 25 consecutive years"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "7 Wolf Foundation Prize recipients"
+    ],
+    [
+      "Stanford University",
+      "struggled financially after",
+      "Leland Stanford died in 1893"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "4 Pulitzer Prize winners"
+    ],
+    [
+      "Stanford Research Park",
+      "was established in",
+      "Palo Alto"
+    ],
+    [
+      "Leland Stanford",
+      "founded",
+      "Stanford University"
+    ],
+    [
+      "Stanford University",
+      "is one of",
+      "eight private institutions in the Atlantic Coast Conference"
+    ],
+    [
+      "Stanford University",
+      "has alumni who include",
+      "the prime ministers of five countries"
+    ],
+    [
+      "Stanford University",
+      "is located in",
+      "California"
+    ],
+    [
+      "Stanford University",
+      "has alumni who have won",
+      "302 Olympic medals"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "58 Nobel laureates"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "94 billionaires"
+    ],
+    [
+      "Stanford University",
+      "has won",
+      "136 NCAA team championships"
+    ],
+    [
+      "Stanford University",
+      "has alumni who include",
+      "the presidents of six countries"
+    ],
+    [
+      "Stanford University",
+      "was damaged by",
+      "the 1906 San Francisco earthquake"
+    ],
+    [
+      "Stanford University",
+      "competes in",
+      "36 varsity sports"
+    ],
+    [
+      "Stanford University",
+      "is associated with",
+      "29 Turing Award winners"
+    ],
+    [
+      "Stanford Research Park",
+      "is the world's first",
+      "university research park"
+    ],
+    [
+      "Stanford University",
+      "is in",
+      "United States"
+    ],
+    [
+      "Stanford University",
+      "is classified among",
+      "R1: Doctoral Universities"
+    ],
+    [
+      "Stanford University",
+      "houses",
+      "the Hoover Institution"
+    ],
+    [
+      "Jane Stanford",
+      "co-founded",
+      "Stanford University"
+    ],
+    [
+      "Stanford University",
+      "has",
+      "2,288 tenure-line faculty"
+    ]
+  ]
+}

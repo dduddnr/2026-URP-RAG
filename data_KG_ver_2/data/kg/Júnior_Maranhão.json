@@ -1,0 +1,36 @@
+{
+  "entities": [
+    "Francisco Pereira da Costa Júnior",
+    "Júnior Maranhão",
+    "June 17, 1977",
+    "Brazilian",
+    "football player"
+  ],
+  "edges": [
+    "is known as",
+    "is a",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Júnior Maranhão",
+      "is a",
+      "football player"
+    ],
+    [
+      "Júnior Maranhão",
+      "was born on",
+      "June 17, 1977"
+    ],
+    [
+      "Júnior Maranhão",
+      "is a",
+      "Brazilian"
+    ],
+    [
+      "Júnior Maranhão",
+      "is known as",
+      "Francisco Pereira da Costa Júnior"
+    ]
+  ]
+}

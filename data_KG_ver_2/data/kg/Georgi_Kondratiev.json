@@ -1,0 +1,55 @@
+{
+  "entities": [
+    "2011",
+    "Belarus",
+    "2023",
+    "2018",
+    "Belshina Bobruisk",
+    "2014",
+    "Belarus national team",
+    "Belarusian",
+    "2021",
+    "Soviet",
+    "Georgy Petrovich Kondratyev",
+    "football coach"
+  ],
+  "edges": [
+    "is a former",
+    "is a",
+    "was managed by",
+    "was in charge of",
+    "managed"
+  ],
+  "relations": [
+    [
+      "Georgy Petrovich Kondratyev",
+      "was in charge of",
+      "Belarus national team"
+    ],
+    [
+      "Georgy Petrovich Kondratyev",
+      "is a former",
+      "Belarusian and Soviet footballer"
+    ],
+    [
+      "Belarus national team",
+      "was in charge of",
+      "Georgy Petrovich Kondratyev"
+    ],
+    [
+      "Georgy Petrovich Kondratyev",
+      "is a",
+      "football coach"
+    ],
+    [
+      "Belshina Bobruisk",
+      "was managed by",
+      "Georgy Petrovich Kondratyev"
+    ],
+    [
+      "Georgy Petrovich Kondratyev",
+      "managed",
+      "Belshina Bobruisk"
+    ]
+  ]
+}

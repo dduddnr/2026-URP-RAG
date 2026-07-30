@@ -1,0 +1,164 @@
+{
+  "entities": [
+    "Bengaluru South",
+    "Bengaluru Urban district",
+    "City Corporations",
+    "tier-three city",
+    "Bangalore Urban",
+    "Census 2001",
+    "Grama Panchayats",
+    "sex-ratio",
+    "Bengaluru North",
+    "Bengaluru Rural district",
+    "Bangalore Rural districts",
+    "Ramanagara district",
+    "Anekal",
+    "towns",
+    "Town Municipal Councils",
+    "Taluk Panchayats",
+    "tier-one city",
+    "Bengaluru City",
+    "Tamil Nadu",
+    "villages",
+    "City Municipal Council",
+    "Yelahanka",
+    "hoblies",
+    "Census 2011",
+    "population",
+    "density",
+    "rural habitations",
+    "Krishnagiri district",
+    "Karnataka",
+    "Town Panchayat"
+  ],
+  "edges": [
+    "had a population of",
+    "is urban as of",
+    "has a sex-ratio of",
+    "came into being in",
+    "is part of",
+    "is administered by",
+    "has a density of",
+    "has three taluks",
+    "has",
+    "is surrounded by",
+    "has increased to"
+  ],
+  "relations": [
+    [
+      "Bengaluru Urban district",
+      "has",
+      "seventeen hoblies"
+    ],
+    [
+      "Bengaluru Urban district",
+      "had a population of",
+      "6,537,124"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has increased to",
+      "9,621,551"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "one Town Panchayat"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "nine towns"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has a density of",
+      "4,378 people per square km"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "five City Corporations"
+    ],
+    [
+      "Bengaluru Urban district",
+      "came into being in",
+      "1986"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is urban as of",
+      "2001"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has three taluks",
+      "Bengaluru City"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Bengaluru South"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Krishnagiri district"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "two City Municipal Council"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "eleven rural habitations"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has three taluks",
+      "Anekal"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has",
+      "872 villages"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has a sex-ratio of",
+      "908 females/males"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "ninety-six Grama Panchayats"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is part of",
+      "Karnataka"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is surrounded by",
+      "Bengaluru North"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "eight Town Municipal Councils"
+    ],
+    [
+      "Bengaluru Urban district",
+      "has three taluks",
+      "Yelahanka"
+    ],
+    [
+      "Bengaluru Urban district",
+      "is administered by",
+      "ninety-seven Taluk Panchayats"
+    ]
+  ]
+}

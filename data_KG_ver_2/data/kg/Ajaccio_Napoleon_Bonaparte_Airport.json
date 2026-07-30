@@ -1,0 +1,62 @@
+{
+  "entities": [
+    "Campo dell'Oro Airport",
+    "Air Corsica",
+    "Ajaccio",
+    "LFKJ",
+    "AJA",
+    "Mediterranean Sea",
+    "ICAO",
+    "Napoleon Bonaparte",
+    "Ajaccio Napoleon Bonaparte Airport",
+    "Corsica",
+    "continental France",
+    "IATA"
+  ],
+  "edges": [
+    "is the main base of",
+    "operates services to",
+    "serves",
+    "is formerly known as",
+    "is located east of",
+    "was born in",
+    "is named after"
+  ],
+  "relations": [
+    [
+      "Ajaccio Napoleon Bonaparte Airport",
+      "is the main base of",
+      "Air Corsica"
+    ],
+    [
+      "Ajaccio Napoleon Bonaparte Airport",
+      "serves",
+      "Ajaccio"
+    ],
+    [
+      "Ajaccio Napoleon Bonaparte Airport",
+      "is located east of",
+      "Ajaccio"
+    ],
+    [
+      "Air Corsica",
+      "operates services to",
+      "continental France"
+    ],
+    [
+      "Ajaccio Napoleon Bonaparte Airport",
+      "is formerly known as",
+      "Campo dell'Oro Airport"
+    ],
+    [
+      "Napoleon Bonaparte",
+      "was born in",
+      "Ajaccio"
+    ],
+    [
+      "Ajaccio Napoleon Bonaparte Airport",
+      "is named after",
+      "Napoleon Bonaparte"
+    ]
+  ]
+}

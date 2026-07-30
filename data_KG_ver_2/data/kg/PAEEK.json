@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "Turkish invasion of Cyprus",
+    "July 1974",
+    "Kyrenia",
+    "Football and Sport Union of Kyrenia District",
+    "Basketball Division",
+    "Women Beach Handball Division",
+    "Runners Division",
+    "Nicosia",
+    "PAEEK",
+    "Cypriot sports club",
+    "Kyrenia Gymnasium",
+    "Football Division",
+    "Podosfairiki Athlitiki Enosis Eparxeias Kerynias"
+  ],
+  "edges": [
+    "occurred in",
+    "is a",
+    "was founded by",
+    "plays in exile in",
+    "was founded in",
+    "has a"
+  ],
+  "relations": [
+    [
+      "PAEEK",
+      "plays in exile in",
+      "Nicosia"
+    ],
+    [
+      "PAEEK",
+      "was founded in",
+      "Kyrenia"
+    ],
+    [
+      "PAEEK",
+      "has a",
+      "Runners Division"
+    ],
+    [
+      "PAEEK",
+      "has a",
+      "Women Beach Handball Division"
+    ],
+    [
+      "PAEEK",
+      "is a",
+      "Cypriot sports club"
+    ],
+    [
+      "PAEEK",
+      "was founded by",
+      "graduates of Kyrenia Gymnasium"
+    ],
+    [
+      "Turkish invasion of Cyprus",
+      "occurred in",
+      "July 1974"
+    ],
+    [
+      "PAEEK",
+      "has a",
+      "Basketball Division"
+    ],
+    [
+      "PAEEK",
+      "has a",
+      "Football Division"
+    ]
+  ]
+}

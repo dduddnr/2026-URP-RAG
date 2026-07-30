@@ -41,7 +41,7 @@ def fetch_wiki_data(entity_name):
         print(f"에러 ({entity_name}): {e}")
         return None
     
-test_limit = 10  # 1000개 수집 시 1000으로 변경
+test_limit =200  # 1000개 수집 시 1000으로 변경
 target_entities = df['entity'].head(test_limit)
 
 print(f"\n{len(target_entities)}개 엔티티에 대한 데이터 수집을 시작")
@@ -58,5 +58,3 @@ with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
             print(" -> [성공!]")
         else:
             print(" -> [실패: 문서 없음 또는 에러]")
-            
-        time.sleep(0.5)

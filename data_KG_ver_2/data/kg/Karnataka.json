@@ -1,0 +1,186 @@
+{
+  "entities": [
+    "Silicon Valley of India",
+    "Konkani",
+    "Lakshadweep Sea",
+    "Belagavi",
+    "1 November 1956",
+    "10.2%",
+    "Marathi",
+    "Carnatic",
+    "US$260 billion",
+    "US$3,500",
+    "61,130,704",
+    "Telangana",
+    "Tulu",
+    "Sanskrit",
+    "74,051 mi2",
+    "Andhra Pradesh",
+    "Tamil",
+    "Telugu",
+    "Indian classical music",
+    "Kannada",
+    "15 million",
+    "Dakshina Kannada",
+    "financial year 2023–24",
+    "States Reorganisation Act",
+    "Beary",
+    "Kerala",
+    "5.83%",
+    "Malayalam",
+    "Paleolithic",
+    "Tamil Nadu",
+    "Kodava",
+    "Bengaluru",
+    "Hindustani",
+    "1,973 companies",
+    "191,791 km2",
+    "Bayalu Seeme",
+    "Mysore State",
+    "Goa",
+    "₹25.01 trillion",
+    "2011 census",
+    "Urdu",
+    "Hubli–Dharwad",
+    "1973",
+    "Karnataka",
+    "Maharashtra",
+    "₹332,926"
+  ],
+  "edges": [
+    "has GSDP of",
+    "is the capital of",
+    "is the most widely spoken and official language of",
+    "was formed as",
+    "is bordered by",
+    "is the sixth-largest Indian state by area",
+    "is the only southern state to have land borders with",
+    "covers an area of",
+    "has inhabitants recorded in",
+    "contains villages where",
+    "has contributed to",
+    "is the largest city in",
+    "has per capita GSDP of",
+    "is known as",
+    "has population of",
+    "was renamed to",
+    "experienced GSDP growth of"
+  ],
+  "relations": [
+    [
+      "Karnataka",
+      "covers an area of",
+      "191,791 km2"
+    ],
+    [
+      "Karnataka",
+      "was formed as",
+      "Mysore State"
+    ],
+    [
+      "Bengaluru",
+      "is the capital of",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Telangana"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Andhra Pradesh"
+    ],
+    [
+      "Karnataka",
+      "has inhabitants recorded in",
+      "2011 census"
+    ],
+    [
+      "Karnataka",
+      "is the only southern state to have land borders with",
+      "all of the other four southern Indian sister states"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Maharashtra"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Goa"
+    ],
+    [
+      "Karnataka",
+      "is the sixth-largest Indian state by area",
+      ""
+    ],
+    [
+      "Karnataka",
+      "experienced GSDP growth of",
+      "10.2%"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Tamil Nadu"
+    ],
+    [
+      "Karnataka",
+      "is the largest city in",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "has population of",
+      "61,130,704"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Lakshadweep Sea"
+    ],
+    [
+      "Karnataka",
+      "is bordered by",
+      "Kerala"
+    ],
+    [
+      "Kannada",
+      "is the most widely spoken and official language of",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "has GSDP of",
+      "₹25.01 trillion"
+    ],
+    [
+      "Karnataka",
+      "has contributed to",
+      "Indian classical music"
+    ],
+    [
+      "Mysore State",
+      "was renamed to",
+      "Karnataka"
+    ],
+    [
+      "Karnataka",
+      "has per capita GSDP of",
+      "₹332,926"
+    ],
+    [
+      "Karnataka",
+      "contains villages where",
+      "Sanskrit is primarily spoken"
+    ],
+    [
+      "Bengaluru",
+      "is known as",
+      "Silicon Valley of India"
+    ]
+  ]
+}

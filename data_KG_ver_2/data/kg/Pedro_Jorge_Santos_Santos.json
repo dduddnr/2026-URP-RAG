@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "former professional footballer",
+    "Caracas",
+    "Pedro Jorge Santos dos Santos",
+    "Portuguese",
+    "28 June 1976",
+    "central midfielder",
+    "Venezuela"
+  ],
+  "edges": [
+    "is from",
+    "is",
+    "is a",
+    "was born on",
+    "was born in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Pedro Jorge Santos dos Santos",
+      "played as",
+      "central midfielder"
+    ],
+    [
+      "Pedro Jorge Santos dos Santos",
+      "is",
+      "Portuguese"
+    ],
+    [
+      "Pedro Jorge Santos dos Santos",
+      "is from",
+      "Venezuela"
+    ],
+    [
+      "Pedro Jorge Santos dos Santos",
+      "was born on",
+      "28 June 1976"
+    ],
+    [
+      "Pedro Jorge Santos dos Santos",
+      "was born in",
+      "Caracas"
+    ],
+    [
+      "Pedro Jorge Santos dos Santos",
+      "is a",
+      "former professional footballer"
+    ]
+  ]
+}

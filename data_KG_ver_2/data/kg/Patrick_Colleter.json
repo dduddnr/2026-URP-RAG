@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "former professional footballer",
+    "French",
+    "Patrick Colleter",
+    "6 November 1965",
+    "full-back"
+  ],
+  "edges": [
+    "played as",
+    "is",
+    "is a",
+    "was born on"
+  ],
+  "relations": [
+    [
+      "Patrick Colleter",
+      "is a",
+      "former professional footballer"
+    ],
+    [
+      "Patrick Colleter",
+      "is",
+      "French"
+    ],
+    [
+      "Patrick Colleter",
+      "played as",
+      "full-back"
+    ],
+    [
+      "Patrick Colleter",
+      "was born on",
+      "6 November 1965"
+    ]
+  ]
+}

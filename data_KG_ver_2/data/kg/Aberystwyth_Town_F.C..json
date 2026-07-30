@@ -1,0 +1,83 @@
+{
+  "entities": [
+    "academy",
+    "Aberystwyth Town Under 19s",
+    "2025–26 season",
+    "Welsh Premier Development League – South",
+    "1,000 seated",
+    "Aberystwyth",
+    "Cymru Premier",
+    "1884",
+    "Cymru South",
+    "Aberystwyth Town Football Club",
+    "Women's team",
+    "Clwb Pêl-Droed Tref Aberystwyth",
+    "5,000 spectators",
+    "Genero Adran Premier",
+    "Park Avenue"
+  ],
+  "edges": [
+    "has a ground with",
+    "is located in",
+    "play in",
+    "currently play in",
+    "is a",
+    "has an",
+    "was one of the founding members of",
+    "was founded in",
+    "plays at",
+    "has a ground that accommodates"
+  ],
+  "relations": [
+    [
+      "Park Avenue",
+      "is located in",
+      "Aberystwyth"
+    ],
+    [
+      "Women's team",
+      "play in",
+      "Genero Adran Premier"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "plays at",
+      "Park Avenue"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "has an",
+      "academy"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "has a ground that accommodates",
+      "5,000 spectators"
+    ],
+    [
+      "Aberystwyth Town Under 19s",
+      "currently play in",
+      "Welsh Premier Development League – South"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "is a",
+      "Welsh football club"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "was one of the founding members of",
+      "Cymru Premier"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "was founded in",
+      "1884"
+    ],
+    [
+      "Aberystwyth Town Football Club",
+      "has a ground with",
+      "1,000 seated"
+    ]
+  ]
+}

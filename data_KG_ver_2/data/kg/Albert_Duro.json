@@ -1,0 +1,146 @@
+{
+  "entities": [
+    "Albania national team",
+    "Steaua București",
+    "Centre back",
+    "Supercups",
+    "Klodian Duro",
+    "1999",
+    "Albania",
+    "Elbasani",
+    "Superliga",
+    "Tirana",
+    "Albanian Cup",
+    "Besa Kavajë",
+    "2000–01 season",
+    "Liga I",
+    "Național București",
+    "1998–99",
+    "Albert Duro",
+    "2000",
+    "Dinamo Tirana",
+    "Cupa României",
+    "Norway",
+    "footballer",
+    "Teuta Durrës"
+  ],
+  "edges": [
+    "represented",
+    "was won in",
+    "made his debut against",
+    "won",
+    "is the younger brother of",
+    "is a",
+    "earned five caps for",
+    "won multiple domestic honors including",
+    "spent the majority of his club career in",
+    "played as"
+  ],
+  "relations": [
+    [
+      "Albert Duro",
+      "represented",
+      "Național București"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Elbasani"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Besa Kavajë"
+    ],
+    [
+      "Albert Duro",
+      "won multiple domestic honors including",
+      "Albanian Cup"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Teuta Durrës"
+    ],
+    [
+      "Cupa României",
+      "was won in",
+      "1998–99"
+    ],
+    [
+      "Klodian Duro",
+      "is the younger brother of",
+      "Albert Duro"
+    ],
+    [
+      "Albert Duro",
+      "is a",
+      "footballer"
+    ],
+    [
+      "Albert Duro",
+      "won multiple domestic honors including",
+      "Supercups"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Steaua București"
+    ],
+    [
+      "Albert Duro",
+      "played as",
+      "Centre back"
+    ],
+    [
+      "Albert Duro",
+      "spent the majority of his club career in",
+      "Albania"
+    ],
+    [
+      "Albert Duro",
+      "won multiple domestic honors including",
+      "Superliga"
+    ],
+    [
+      "Albert Duro",
+      "spent the majority of his club career in",
+      "Romania"
+    ],
+    [
+      "Albert Duro",
+      "made his debut against",
+      "Norway"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Tirana"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Cupa României"
+    ],
+    [
+      "Liga I",
+      "was won in",
+      "2000–01 season"
+    ],
+    [
+      "Albert Duro",
+      "earned five caps for",
+      "Albania national team"
+    ],
+    [
+      "Albert Duro",
+      "won",
+      "Liga I"
+    ],
+    [
+      "Albert Duro",
+      "represented",
+      "Dinamo Tirana"
+    ]
+  ]
+}
