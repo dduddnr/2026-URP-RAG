@@ -568,143 +568,143 @@
     }
   },
   {
-    "query": "France government type",
+    "query": "Trinity University의 대학원 등록금은 얼마인가?",
     "agreement": "partial",
     "results": {
       "cosine": [
         {
-          "score": 0.7319402523224927,
-          "chunk_id": "France_Politics_c0",
-          "source": "France",
-          "section": "Politics",
-          "chunk_index": 0,
-          "text": "France is a representative democracy organised as a unitary semi-presidential republic. Democratic traditions and values are deeply rooted in French culture, identity and politics. The Constitution of the Fifth Republic was approved by referendum in 1958, establishing a framework consisting of executive, legislative and judicial branches. It sought to address the instability of the Third and Fourth Republics by combining elements of both the parliamentary and presidential systems, while greatly strengthening the authority of the executive relative to the legislature."
-        },
-        {
-          "score": 0.6608725301054422,
-          "chunk_id": "France_summary_c0",
-          "source": "France",
+          "score": 0.7824665121970635,
+          "chunk_id": "Trinity_University_(Texas)_summary_c0",
+          "source": "Trinity_University_(Texas)",
           "section": "summary",
           "chunk_index": 0,
-          "text": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million."
+          "text": "Trinity University is a private liberal arts college in San Antonio, Texas. It was founded as a coeducational institution in 1869 by Cumberland Presbyterians as the merger of three schools whose enrollment had dropped during the Civil War. Its first campus in Tehuacana was built on 1,100 acres (450 ha) of land donated by John Boyd. The school moved its campus to Waxahachie in 1902, and finally, San Antonio in 1945.\nTrinity's 125-acre (51 ha) campus, built atop a former lime quarry, is located north of downtown San Antonio, between the Monte Vista Historic District to the west and Olmos Park to the north. Designed by O'Neil Ford, the campus has been designated a National Historic Landmark District. There are 288 faculty members, with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students."
         },
         {
-          "score": 0.6371611993990464,
-          "chunk_id": "France_Economy_c0",
-          "source": "France",
-          "section": "Economy",
+          "score": 0.7605858562592871,
+          "chunk_id": "Trinity_University_(Texas)_Athletics_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Athletics",
           "chunk_index": 0,
-          "text": "France has a social market economy characterised by sizeable government involvement and diversified sectors. For two centuries, it has consistently ranked among the ten largest globally; as of 2025 it is the world's ninth largest by purchasing power parity and second largest in the EU, after Germany. Considered a great power with considerable economic strength, it is a member of the Group of Seven leading industrialised countries, the Organisation for Economic Co-operation and Development (OECD), and the G20. France ranked 13th in the 2025 Global Innovation Index.\nThe economy is highly diversified; services represent two-thirds of both the workforce and GDP, while the industrial sector accounts for a fifth of GDP and a similar proportion of employment. France is the third-biggest manufacturing country in Europe, behind Germany and Italy, and ranks eighth in the world by manufacturing output, at 1.9 per cent."
+          "text": "The Trinity Tigers is the nickname for the sports teams of Trinity University. They participate in the NCAA Division III Southern Athletic Association."
         },
         {
-          "score": 0.624339340648863,
-          "chunk_id": "France_summary_c3",
-          "source": "France",
+          "score": 0.745823172164612,
+          "chunk_id": "Trinity_University_(Texas)_Academics and rankings_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Academics and rankings",
+          "chunk_index": 0,
+          "text": "The university is classified as a small, highly residential university with a majority of enrollments coming from undergraduate students. It is recognized as a Research College and University, having managed nearly $5.3 million on research and development in 2023. The full-time, four-year undergraduate program is classified as \"more selective, lower transfer-in\" and has an arts and sciences focus with some graduate student coexistence.\nTrinity is accredited by the Southern Association of Colleges and Schools and is a member of the Phi Beta Kappa society. The Engineering Science program is accredited by ABET, the Department of Business Administration is accredited by AACSB International, and the health care administration program is accredited by CAHME.\nFull-time undergraduate tuition is $53,676 for the 2024–25 academic year; room and board are an additional $14,750."
+        },
+        {
+          "score": 0.7418620760248034,
+          "chunk_id": "Trinity_University_(Texas)_summary_c1",
+          "source": "Trinity_University_(Texas)",
           "section": "summary",
-          "chunk_index": 3,
-          "text": "Bourbon Restoration until the founding of the French Second Republic, which was succeeded by the Second French Empire upon Napoleon III's takeover. His empire collapsed during the Franco-Prussian War in 1870. This led to the establishment of the French Third Republic, as well as a period of economic prosperity and cultural and scientific flourishing known as the Belle Époque. France was one of the major participants of World War I, from which it emerged victorious at great human and economic cost. It was among the Allies of World War II, but it surrendered and was occupied by Germany in 1940. Following its liberation in 1944, the short-lived Fourth Republic was established and later dissolved over the course of the Algerian War. The current Fifth Republic, a semi-presidential system, was formed in 1958 by Charles de Gaulle. Algeria and most French colonies became independent in the 1960s, with the majority retaining close economic and military ties with France."
+          "chunk_index": 1,
+          "text": "with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students.\nFollowing a liberal arts and sciences curriculum, Trinity University's four schools offer 57 majors, 63 minors, and 6 graduate programs. The diverse student body represents 47 U.S. states and 58 countries. Students participate in over 100 student organizations, including the campus newspaper, Trinitonian, and the campus radio station, KRTU-FM. The Trinity Tigers compete in the NCAA Division III Southern Athletic Association."
         },
         {
-          "score": 0.6224353375348142,
-          "chunk_id": "France_External links_c0",
-          "source": "France",
-          "section": "External links",
-          "chunk_index": 0,
-          "text": "France at Organisation for Economic Co-operation and Development\nFrance at UCB Libraries GovPubs\nFrance at the EU\n Wikimedia Atlas of France\n Geographic data related to France at OpenStreetMap\nKey Development Forecasts for France from International Futures"
+          "score": 0.7226774887698597,
+          "chunk_id": "Trinity_University_(Texas)_Campus_c4",
+          "source": "Trinity_University_(Texas)",
+          "section": "Campus",
+          "chunk_index": 4,
+          "text": "in summer 2007, with the aid of the university's Calvert Trust Fund. Non-denominational services are led by the campus chaplain Sunday evenings.\nIn the fall 2022, Trinity opened its [as of Spring 2026] latest building, Dicke Hall, which houses the Humanities Collective, the English Department, and the Religion Department.  The building is 3 stories with 40,000 square feet, 6 classrooms, and 1 lecture hall. It was designed by the San Antonio architectural firm Lake Flato Architects using a mass-timber structural system also known as Engineered wood.\nThe university's \"New Front Door\", consisting of a welcome center and event hall, is scheduled to open in the fall of 2026.  The welcome center will be a first stop for prospective students and their families, housing the offices of admissions and alumni relations, and will be located next to Dicke Hall near the existing campus entry on Hildebrand Avenue."
         }
       ],
       "euclidean": [
         {
-          "distance": 0.732201837771566,
-          "chunk_id": "France_Politics_c0",
-          "source": "France",
-          "section": "Politics",
-          "chunk_index": 0,
-          "text": "France is a representative democracy organised as a unitary semi-presidential republic. Democratic traditions and values are deeply rooted in French culture, identity and politics. The Constitution of the Fifth Republic was approved by referendum in 1958, establishing a framework consisting of executive, legislative and judicial branches. It sought to address the instability of the Third and Fourth Republics by combining elements of both the parliamentary and presidential systems, while greatly strengthening the authority of the executive relative to the legislature."
-        },
-        {
-          "distance": 0.8235624802163328,
-          "chunk_id": "France_summary_c0",
-          "source": "France",
+          "distance": 0.6595960402383959,
+          "chunk_id": "Trinity_University_(Texas)_summary_c0",
+          "source": "Trinity_University_(Texas)",
           "section": "summary",
           "chunk_index": 0,
-          "text": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the northeast, Switzerland to the east, Italy and Monaco to the southeast, Andorra and Spain to the south, and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million."
+          "text": "Trinity University is a private liberal arts college in San Antonio, Texas. It was founded as a coeducational institution in 1869 by Cumberland Presbyterians as the merger of three schools whose enrollment had dropped during the Civil War. Its first campus in Tehuacana was built on 1,100 acres (450 ha) of land donated by John Boyd. The school moved its campus to Waxahachie in 1902, and finally, San Antonio in 1945.\nTrinity's 125-acre (51 ha) campus, built atop a former lime quarry, is located north of downtown San Antonio, between the Monte Vista Historic District to the west and Olmos Park to the north. Designed by O'Neil Ford, the campus has been designated a National Historic Landmark District. There are 288 faculty members, with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students."
         },
         {
-          "distance": 0.8518671633094164,
-          "chunk_id": "France_Economy_c0",
-          "source": "France",
-          "section": "Economy",
+          "distance": 0.6919739898684296,
+          "chunk_id": "Trinity_University_(Texas)_Athletics_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Athletics",
           "chunk_index": 0,
-          "text": "France has a social market economy characterised by sizeable government involvement and diversified sectors. For two centuries, it has consistently ranked among the ten largest globally; as of 2025 it is the world's ninth largest by purchasing power parity and second largest in the EU, after Germany. Considered a great power with considerable economic strength, it is a member of the Group of Seven leading industrialised countries, the Organisation for Economic Co-operation and Development (OECD), and the G20. France ranked 13th in the 2025 Global Innovation Index.\nThe economy is highly diversified; services represent two-thirds of both the workforce and GDP, while the industrial sector accounts for a fifth of GDP and a similar proportion of employment. France is the third-biggest manufacturing country in Europe, behind Germany and Italy, and ranks eighth in the world by manufacturing output, at 1.9 per cent."
+          "text": "The Trinity Tigers is the nickname for the sports teams of Trinity University. They participate in the NCAA Division III Southern Athletic Association."
         },
         {
-          "distance": 0.8667878462708278,
-          "chunk_id": "France_summary_c3",
-          "source": "France",
+          "distance": 0.7129891619623862,
+          "chunk_id": "Trinity_University_(Texas)_Academics and rankings_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Academics and rankings",
+          "chunk_index": 0,
+          "text": "The university is classified as a small, highly residential university with a majority of enrollments coming from undergraduate students. It is recognized as a Research College and University, having managed nearly $5.3 million on research and development in 2023. The full-time, four-year undergraduate program is classified as \"more selective, lower transfer-in\" and has an arts and sciences focus with some graduate student coexistence.\nTrinity is accredited by the Southern Association of Colleges and Schools and is a member of the Phi Beta Kappa society. The Engineering Science program is accredited by ABET, the Department of Business Administration is accredited by AACSB International, and the health care administration program is accredited by CAHME.\nFull-time undergraduate tuition is $53,676 for the 2024–25 academic year; room and board are an additional $14,750."
+        },
+        {
+          "distance": 0.7185231970678714,
+          "chunk_id": "Trinity_University_(Texas)_summary_c1",
+          "source": "Trinity_University_(Texas)",
           "section": "summary",
-          "chunk_index": 3,
-          "text": "Bourbon Restoration until the founding of the French Second Republic, which was succeeded by the Second French Empire upon Napoleon III's takeover. His empire collapsed during the Franco-Prussian War in 1870. This led to the establishment of the French Third Republic, as well as a period of economic prosperity and cultural and scientific flourishing known as the Belle Époque. France was one of the major participants of World War I, from which it emerged victorious at great human and economic cost. It was among the Allies of World War II, but it surrendered and was occupied by Germany in 1940. Following its liberation in 1944, the short-lived Fourth Republic was established and later dissolved over the course of the Algerian War. The current Fifth Republic, a semi-presidential system, was formed in 1958 by Charles de Gaulle. Algeria and most French colonies became independent in the 1960s, with the majority retaining close economic and military ties with France."
+          "chunk_index": 1,
+          "text": "with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students.\nFollowing a liberal arts and sciences curriculum, Trinity University's four schools offer 57 majors, 63 minors, and 6 graduate programs. The diverse student body represents 47 U.S. states and 58 countries. Students participate in over 100 student organizations, including the campus newspaper, Trinitonian, and the campus radio station, KRTU-FM. The Trinity Tigers compete in the NCAA Division III Southern Athletic Association."
         },
         {
-          "distance": 0.8689818990294819,
-          "chunk_id": "France_External links_c0",
-          "source": "France",
-          "section": "External links",
-          "chunk_index": 0,
-          "text": "France at Organisation for Economic Co-operation and Development\nFrance at UCB Libraries GovPubs\nFrance at the EU\n Wikimedia Atlas of France\n Geographic data related to France at OpenStreetMap\nKey Development Forecasts for France from International Futures"
+          "distance": 0.7447447788725985,
+          "chunk_id": "Trinity_University_(Texas)_Campus_c4",
+          "source": "Trinity_University_(Texas)",
+          "section": "Campus",
+          "chunk_index": 4,
+          "text": "in summer 2007, with the aid of the university's Calvert Trust Fund. Non-denominational services are led by the campus chaplain Sunday evenings.\nIn the fall 2022, Trinity opened its [as of Spring 2026] latest building, Dicke Hall, which houses the Humanities Collective, the English Department, and the Religion Department.  The building is 3 stories with 40,000 square feet, 6 classrooms, and 1 lecture hall. It was designed by the San Antonio architectural firm Lake Flato Architects using a mass-timber structural system also known as Engineered wood.\nThe university's \"New Front Door\", consisting of a welcome center and event hall, is scheduled to open in the fall of 2026.  The welcome center will be a first stop for prospective students and their families, housing the offices of admissions and alumni relations, and will be located next to Dicke Hall near the existing campus entry on Hildebrand Avenue."
         }
       ],
       "hybrid": [
         {
-          "score": 0.7462616902478079,
-          "dense_score": 0.8178234432899867,
-          "sparse_score": 0.6746999372056289,
-          "chunk_id": "France_Economy_c0",
-          "source": "France",
-          "section": "Economy",
-          "chunk_index": 0,
-          "text": "France has a social market economy characterised by sizeable government involvement and diversified sectors. For two centuries, it has consistently ranked among the ten largest globally; as of 2025 it is the world's ninth largest by purchasing power parity and second largest in the EU, after Germany. Considered a great power with considerable economic strength, it is a member of the Group of Seven leading industrialised countries, the Organisation for Economic Co-operation and Development (OECD), and the G20. France ranked 13th in the 2025 Global Innovation Index.\nThe economy is highly diversified; services represent two-thirds of both the workforce and GDP, while the industrial sector accounts for a fifth of GDP and a similar proportion of employment. France is the third-biggest manufacturing country in Europe, behind Germany and Italy, and ranks eighth in the world by manufacturing output, at 1.9 per cent."
-        },
-        {
-          "score": 0.7132255902035383,
-          "dense_score": 0.7895185939982349,
-          "sparse_score": 0.6369325864088415,
-          "chunk_id": "France_External links_c0",
-          "source": "France",
-          "section": "External links",
-          "chunk_index": 0,
-          "text": "France at Organisation for Economic Co-operation and Development\nFrance at UCB Libraries GovPubs\nFrance at the EU\n Wikimedia Atlas of France\n Geographic data related to France at OpenStreetMap\nKey Development Forecasts for France from International Futures"
-        },
-        {
-          "score": 0.6759034042997143,
-          "dense_score": 0.3518068085994285,
+          "score": 0.9774333317904598,
+          "dense_score": 0.9548666635809197,
           "sparse_score": 1.0,
-          "chunk_id": "male_Evolution_c1",
-          "source": "male",
-          "section": "Evolution",
-          "chunk_index": 1,
-          "text": "appears to have evolved multiple times from isogamy; for example, female Volvocales (a type of green algae) evolved from the plus mating type. Although sexual evolution emerged at least 1.2 billion years ago, the lack of anisogamous fossil records make it hard to pinpoint when males evolved. One theory suggests male evolved from the dominant mating type (called mating type minus)."
-        },
-        {
-          "score": 0.6596254027139672,
-          "dense_score": 0.7889172247501678,
-          "sparse_score": 0.5303335806777665,
-          "chunk_id": "France_Economy_c2",
-          "source": "France",
-          "section": "Economy",
-          "chunk_index": 2,
-          "text": "it ranked first in Europe and 13th in the world in foreign direct investment, with European countries and the United States being leading sources. According to the Bank of France (founded in 1800), the leading recipients of foreign direct investment are manufacturing, real estate, finance and insurance. The Paris Region has the highest concentration of multinational firms in mainland Europe.\nUnder the doctrine of dirigisme, the government historically played a major role in the economy; policies such as indicative planning and nationalisation are credited for contributing to three decades of unprecedented postwar economic growth known as Trente Glorieuses. At its peak in 1982, the public sector accounted for one-fifth of industrial employment and over four-fifths of the credit market."
-        },
-        {
-          "score": 0.6590451347375383,
-          "dense_score": 1.0,
-          "sparse_score": 0.31809026947507657,
-          "chunk_id": "France_Politics_c0",
-          "source": "France",
-          "section": "Politics",
+          "chunk_id": "Trinity_University_(Texas)_Athletics_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Athletics",
           "chunk_index": 0,
-          "text": "France is a representative democracy organised as a unitary semi-presidential republic. Democratic traditions and values are deeply rooted in French culture, identity and politics. The Constitution of the Fifth Republic was approved by referendum in 1958, establishing a framework consisting of executive, legislative and judicial branches. It sought to address the instability of the Third and Fourth Republics by combining elements of both the parliamentary and presidential systems, while greatly strengthening the authority of the executive relative to the legislature."
+          "text": "The Trinity Tigers is the nickname for the sports teams of Trinity University. They participate in the NCAA Division III Southern Athletic Association."
+        },
+        {
+          "score": 0.8372772182152781,
+          "dense_score": 0.9162450301727139,
+          "sparse_score": 0.7583094062578424,
+          "chunk_id": "Trinity_University_(Texas)_summary_c1",
+          "source": "Trinity_University_(Texas)",
+          "section": "summary",
+          "chunk_index": 1,
+          "text": "with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students.\nFollowing a liberal arts and sciences curriculum, Trinity University's four schools offer 57 majors, 63 minors, and 6 graduate programs. The diverse student body represents 47 U.S. states and 58 countries. Students participate in over 100 student organizations, including the campus newspaper, Trinitonian, and the campus radio station, KRTU-FM. The Trinity Tigers compete in the NCAA Division III Southern Athletic Association."
+        },
+        {
+          "score": 0.7987386680897888,
+          "dense_score": 0.7392903116480971,
+          "sparse_score": 0.8581870245314803,
+          "chunk_id": "Josh_Smith_(soccer)_College_c0",
+          "source": "Josh_Smith_(soccer)",
+          "section": "College",
+          "chunk_index": 0,
+          "text": "Smith attended Trinity University, playing on the men's NCAA Division III soccer team from 2000 to 2003.  He was a 2001 third team and a 2002 and 2003 first team Division III All American.  He was also selected as the 2003 NSCAA Division III Player of the Year as Trinity won the Division III National Championship."
+        },
+        {
+          "score": 0.7818581249366261,
+          "dense_score": 0.9244156026260584,
+          "sparse_score": 0.6393006472471938,
+          "chunk_id": "Trinity_University_(Texas)_Academics and rankings_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "Academics and rankings",
+          "chunk_index": 0,
+          "text": "The university is classified as a small, highly residential university with a majority of enrollments coming from undergraduate students. It is recognized as a Research College and University, having managed nearly $5.3 million on research and development in 2023. The full-time, four-year undergraduate program is classified as \"more selective, lower transfer-in\" and has an arts and sciences focus with some graduate student coexistence.\nTrinity is accredited by the Southern Association of Colleges and Schools and is a member of the Phi Beta Kappa society. The Engineering Science program is accredited by ABET, the Department of Business Administration is accredited by AACSB International, and the health care administration program is accredited by CAHME.\nFull-time undergraduate tuition is $53,676 for the 2024–25 academic year; room and board are an additional $14,750."
+        },
+        {
+          "score": 0.7782661244236637,
+          "dense_score": 1.0,
+          "sparse_score": 0.5565322488473274,
+          "chunk_id": "Trinity_University_(Texas)_summary_c0",
+          "source": "Trinity_University_(Texas)",
+          "section": "summary",
+          "chunk_index": 0,
+          "text": "Trinity University is a private liberal arts college in San Antonio, Texas. It was founded as a coeducational institution in 1869 by Cumberland Presbyterians as the merger of three schools whose enrollment had dropped during the Civil War. Its first campus in Tehuacana was built on 1,100 acres (450 ha) of land donated by John Boyd. The school moved its campus to Waxahachie in 1902, and finally, San Antonio in 1945.\nTrinity's 125-acre (51 ha) campus, built atop a former lime quarry, is located north of downtown San Antonio, between the Monte Vista Historic District to the west and Olmos Park to the north. Designed by O'Neil Ford, the campus has been designated a National Historic Landmark District. There are 288 faculty members, with a student-to-faculty ratio of 8:1. As of 2024, the university had an enrollment of 2,490 undergraduate students and 143 graduate students."
         }
       ]
     }

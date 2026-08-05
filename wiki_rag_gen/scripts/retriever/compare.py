@@ -39,7 +39,7 @@ DEFAULT_QUERIES = [
     "football club founded in Finland",
     
     #섹션 자체가 없는 경우(정답 없음/할루시네이션 방지 측정)
-    "France government type",
+    "Trinity University의 대학원 등록금은 얼마인가?",
 ]
 
 

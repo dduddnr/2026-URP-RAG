@@ -38,7 +38,7 @@ DEFAULT_QUERIES = [
     "1944 27 Martyrs shot by Nazis",
     "What is Albrecht Dürer known for?",
     "football club founded in Finland",
-    "France government type",
+    "Trinity University의 대학원 등록금은 얼마인가?",
 ]
 
 
