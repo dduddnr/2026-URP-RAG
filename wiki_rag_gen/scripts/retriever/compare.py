@@ -26,46 +26,20 @@ REPORT_MD_PATH = Path(__file__).resolve().parents[2] / "data" / "compare_retriev
 REPORT_JSON_PATH = Path(__file__).resolve().parents[2] / "data" / "compare_retrieval.json"
 
 DEFAULT_QUERIES = [
-    # --- Chatou ---
-    "Chatou Impressionist painters",
-    "Who was shot by the Nazis in Chatou in 1944?",
-
-    # --- France ---
-    "France government type",
-    "What continent is France located on?",
-
-    # --- Yangju Citizen FC ---
-    "Yangju Citizen FC K3 League",
-    "Which South Korean city is Yangju Citizen FC based in?",
-
-    # --- Toni Kuivasto ---
-    "Toni Kuivasto Finland national team",
-    "What position did Toni Kuivasto play?",
-
-    # --- HJK Helsinki ---
-    "HJK Helsinki Veikkausliiga founded",
-    "When was Helsingin Jalkapalloklubi founded?",
-
-    # --- Josh Smith ---
-    "Josh Smith soccer midfielder Dallas",
-    "Which team does Josh Smith currently play for?",
-
-    # --- Trinity University (Texas) ---
-    "Trinity University Texas founded",
-    "What city is Trinity University located in?",
-
-    # --- Albrecht Dürer ---
-    "Albrecht Dürer engravings woodcuts",
-    "What is Albrecht Dürer known for?",
-
-    # --- Nuremberg ---
-    "Nuremberg Reichswald zoo",
-    "What historical trials took place in Nuremberg?",
-
-    # --- cross-entity 혼동 테스트 ---
-    "football club founded in Finland",
-    "German artist from the 15th century",
+    #키워드/고유명사형
+    "Dürer engravings",
+    
+    #숫자/사실 특정형
     "1944 27 Martyrs shot by Nazis",
+
+    #자연어
+    "What is Albrecht Dürer known for?",
+    
+    #cross-entity 혼합
+    "football club founded in Finland",
+    
+    #섹션 자체가 없는 경우(정답 없음/할루시네이션 방지 측정)
+    "France government type",
 ]
 
 
