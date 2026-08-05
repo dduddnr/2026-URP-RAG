@@ -25,7 +25,7 @@ from dense_embed_chunks import (
     build_or_load_embeddings,
 )
 import hybrid_retriever
-from generate import retrieve_chunks, build_prompt, generate_answer   # ← generate.py의 함수 재사용
+from generate import retrieve_chunks, build_prompt, generate_answer
 
 REPORT_MD_PATH = FOLDER_ROOT / "data" / "compare_generation.md"
 REPORT_JSON_PATH = FOLDER_ROOT / "data" / "compare_generation.json"
